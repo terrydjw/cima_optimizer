@@ -1032,5 +1032,896 @@
             "Request for more information"
         ],
         "correctAnswerIndex": 3
+    },
+    {
+        "id": "A2_Q8",
+        "questionText": "Which of the following is a potential safeguard against a self-interest threat?",
+        "options": [
+            "Promoting the client's shares",
+            "Accepting a large loan from a client",
+            "Having an independent third party review the work",
+            "Joining the client's board as a director"
+        ],
+        "correctAnswerIndex": 2
+    },
+    {
+        "id": "A3_Q8",
+        "questionText": "A 'compliance-based' approach to ethics is another term for which type of framework?",
+        "options": [
+            "Principles-based",
+            "Virtue-based",
+            "Consequence-based",
+            "Rules-based"
+        ],
+        "correctAnswerIndex": 3
+    },
+    {
+        "id": "A4_Q7",
+        "questionText": "If an accountant has exhausted all internal procedures for an ethical conflict, their next step might be to:",
+        "options": [
+            "Alert the media immediately",
+            "Post about it on social media",
+            "Consult with CIMA's ethics helpline",
+            "Take no further action"
+        ],
+        "correctAnswerIndex": 2
+    },
+    {
+        "id": "B1_Q7",
+        "questionText": "Which theory of corporate governance focuses on the directors' duty to take good care of the resources entrusted to them?",
+        "options": [
+            "Agency Theory",
+            "Stakeholder Theory",
+            "Stewardship Theory",
+            "Transaction Cost Theory"
+        ],
+        "correctAnswerIndex": 2
+    },
+    {
+        "id": "B2_Q7",
+        "questionText": "The main purpose of a nominations committee is to:",
+        "options": [
+            "Set director's pay",
+            "Oversee financial reporting",
+            "Lead the process for board appointments",
+            "Handle shareholder complaints"
+        ],
+        "correctAnswerIndex": 2
+    },
+    {
+        "id": "B3_Q7",
+        "questionText": "Who appoints the external auditors of a company?",
+        "options": [
+            "The board of directors",
+            "The CEO",
+            "The audit committee",
+            "The shareholders"
+        ],
+        "correctAnswerIndex": 3
+    },
+    {
+        "id": "B4_Q7",
+        "questionText": "The Sarbanes-Oxley Act is an example of which approach to corporate governance?",
+        "options": [
+            "Principles-based",
+            "Comply or explain",
+            "Rules-based",
+            "Voluntary"
+        ],
+        "correctAnswerIndex": 2
+    },
+    {
+        "id": "B5_Q6",
+        "questionText": "The three elements of an assurance engagement are:",
+        "options": [
+            "Auditor, Director, Company",
+            "Practitioner, Intended User, Responsible Party",
+            "Accountant, Manager, Shareholder",
+            "Inspector, Company, Government"
+        ],
+        "correctAnswerIndex": 1
+    },
+    {
+        "id": "B6_Q6",
+        "questionText": "According to Mendelow's matrix, stakeholders with high power and high interest should be:",
+        "options": [
+            "Kept informed",
+            "Treated with minimal effort",
+            "Kept satisfied",
+            "Managed closely (key players)"
+        ],
+        "correctAnswerIndex": 3
+    },
+    {
+        "id": "C1_Q7",
+        "questionText": "In a social or domestic agreement, what is the general presumption regarding the intention to create legal relations?",
+        "options": [
+            "It is presumed there is an intention",
+            "It is presumed there is no intention",
+            "The intention must be stated in writing",
+            "There are no presumptions"
+        ],
+        "correctAnswerIndex": 1
+    },
+    {
+        "id": "C2_Q7",
+        "questionText": "An employee has an implied duty to obey their employer's orders, provided the orders are:",
+        "options": [
+            "Profitable and efficient",
+            "Convenient and easy",
+            "Lawful and reasonable",
+            "Written and signed"
+        ],
+        "correctAnswerIndex": 2
+    },
+    {
+        "id": "C3_Q7",
+        "questionText": "A dismissal for 'capability' would be considered a fair reason for dismissal if:",
+        "options": [
+            "The employee is disliked by their manager",
+            "The employee has genuinely been proven to be unable to do their job to the required standard",
+            "The company wants to hire someone cheaper",
+            "The employee makes a minor mistake"
+        ],
+        "correctAnswerIndex": 1
+    },
+    {
+        "id": "C4_Q6",
+        "questionText": "Disclosing information about a criminal offence happening at your workplace is an example of a:",
+        "options": [
+            "Personal grievance",
+            "Contractual breach",
+            "Qualifying disclosure",
+            "Resignation"
+        ],
+        "correctAnswerIndex": 2
+    },
+    {
+        "id": "C5_Q7",
+        "questionText": "A key feature of a general partnership is that the partners have:",
+        "options": [
+            "Limited liability",
+            "No liability for business debts",
+            "Separate legal personality from the business",
+            "Joint and several unlimited liability"
+        ],
+        "correctAnswerIndex": 3
+    },
+    {
+        "id": "A1_Q9",
+        "questionText": "A 'cooling-off' period, allowing a consumer to cancel a contract shortly after signing, is a feature designed to protect consumers in what type of contract?",
+        "options": [
+            "Standard form contracts",
+            "Verbal contracts",
+            "Commercial contracts",
+            "Employment contracts"
+        ],
+        "correctAnswerIndex": 0
+    },
+    {
+        "id": "A2_Q9",
+        "questionText": "An accountant is asked to prepare a business valuation for a company in which their spouse is a major shareholder. This creates a significant:",
+        "options": [
+            "Self-review threat",
+            "Intimidation threat",
+            "Self-interest threat",
+            "Advocacy threat"
+        ],
+        "correctAnswerIndex": 2
+    },
+    {
+        "id": "A3_Q9",
+        "questionText": "The idea that ethics and integrity are fundamental to the role of all finance professionals is a key part of which CIMA skill?",
+        "options": [
+            "Business awareness",
+            "Ethical standards",
+            "Regulation and compliance",
+            "Systems and processes"
+        ],
+        "correctAnswerIndex": 1
+    },
+    {
+        "id": "A4_Q8",
+        "questionText": "If an accountant follows their employer's unethical instructions, who can they be held accountable to?",
+        "options": [
+            "Only their employer",
+            "Only the shareholders",
+            "Their employer, their professional body (CIMA), and potentially the law",
+            "Nobody, as they were following orders"
+        ],
+        "correctAnswerIndex": 2
+    },
+    {
+        "id": "B1_Q8",
+        "questionText": "Which of the following is NOT one of the OECD Principles of Corporate Governance?",
+        "options": [
+            "The rights and equitable treatment of shareholders",
+            "The responsibilities of the board",
+            "Disclosure and transparency",
+            "Maximising short-term profitability"
+        ],
+        "correctAnswerIndex": 3
+    },
+    {
+        "id": "B2_Q8",
+        "questionText": "Which type of director is responsible for the day-to-day management of the company?",
+        "options": [
+            "Non-Executive Director",
+            "Independent Director",
+            "Supervisory Director",
+            "Executive Director"
+        ],
+        "correctAnswerIndex": 3
+    },
+    {
+        "id": "B3_Q8",
+        "questionText": "Which of the following is NOT a typical role of an internal audit department?",
+        "options": [
+            "Reviewing compliance with laws and regulations",
+            "Expressing an opinion on the truth and fairness of financial statements",
+            "Special investigations into suspected fraud",
+            "Reviewing the economy, efficiency, and effectiveness of operations"
+        ],
+        "correctAnswerIndex": 1
+    },
+    {
+        "id": "B4_Q8",
+        "questionText": "Which of the following best describes 'teeming and lading'?",
+        "options": [
+            "Falsifying expense claims",
+            "Stealing inventory",
+            "Using receipts from one customer to cover the theft of receipts from another",
+            "Creating fictitious employees on the payroll"
+        ],
+        "correctAnswerIndex": 2
+    },
+    {
+        "id": "B5_Q7",
+        "questionText": "What does a 'true and fair view' mean in the context of an external audit?",
+        "options": [
+            "The financial statements are 100% accurate",
+            "The financial statements are free from material misstatement and presented in accordance with accounting standards",
+            "The company is financially viable and will not go bankrupt",
+            "The auditors have checked every single transaction"
+        ],
+        "correctAnswerIndex": 1
+    },
+    {
+        "id": "B6_Q7",
+        "questionText": "An organisation that does not have profit as its primary goal and is not directly linked to the government is known as a(n):",
+        "options": [
+            "Public Sector Organisation",
+            "Private Sector Organisation",
+            "Co-operative",
+            "Non-Governmental Organisation (NGO)"
+        ],
+        "correctAnswerIndex": 3
+    },
+    {
+        "id": "C1_Q8",
+        "questionText": "If an offer is terminated by the offeror before it is accepted, this is known as:",
+        "options": [
+            "Rejection",
+            "Lapse",
+            "Revocation",
+            "A counter-offer"
+        ],
+        "correctAnswerIndex": 2
+    },
+    {
+        "id": "C2_Q8",
+        "questionText": "A company policy states that all employees must be over 6 feet tall, which disadvantages female applicants. This is an example of:",
+        "options": [
+            "Direct discrimination",
+            "Indirect discrimination",
+            "Victimisation",
+            "Harassment"
+        ],
+        "correctAnswerIndex": 1
+    },
+    {
+        "id": "C3_Q8",
+        "questionText": "A dismissal will be automatically unfair if it is for which of the following reasons?",
+        "options": [
+            "Poor performance",
+            "Gross misconduct",
+            "Joining a trade union",
+            "Redundancy"
+        ],
+        "correctAnswerIndex": 2
+    },
+    {
+        "id": "C4_Q7",
+        "questionText": "The process of obscuring the origins of illegally obtained money by passing it through complex transactions is known as:",
+        "options": [
+            "Placement",
+            "Integration",
+            "Layering",
+            "Structuring"
+        ],
+        "correctAnswerIndex": 2
+    },
+    {
+        "id": "C5_Q8",
+        "questionText": "In the UK, what letters must follow the name of a public limited company?",
+        "options": [
+            "Ltd",
+            "LLP",
+            "Inc",
+            "plc"
+        ],
+        "correctAnswerIndex": 3
+    },
+    {
+        "id": "A1_Q10",
+        "questionText": "The CIMA Code of Ethics applies to:",
+        "options": [
+            "Only qualified CIMA members",
+            "Only CIMA students",
+            "All CIMA members and registered students",
+            "Only CIMA members in public practice"
+        ],
+        "correctAnswerIndex": 2
+    },
+    {
+        "id": "A2_Q10",
+        "questionText": "What is the primary purpose of safeguards in the context of professional ethics?",
+        "options": [
+            "To punish unethical behaviour",
+            "To eliminate threats or reduce them to an acceptable level",
+            "To report ethical conflicts to the authorities",
+            "To guarantee that no ethical threats will ever arise"
+        ],
+        "correctAnswerIndex": 1
+    },
+    {
+        "id": "B1_Q9",
+        "questionText": "A public sector organisation is primarily controlled by:",
+        "options": [
+            "Private individuals",
+            "Shareholders",
+            "Its members",
+            "The government"
+        ],
+        "correctAnswerIndex": 3
+    },
+    {
+        "id": "B2_Q9",
+        "questionText": "Which concept describes a relationship of 'good faith', such as that between directors and shareholders?",
+        "options": [
+            "Fiduciary relationship",
+            "Contractual relationship",
+            "Arm's length relationship",
+            "Commercial relationship"
+        ],
+        "correctAnswerIndex": 0
+    },
+    {
+        "id": "B3_Q9",
+        "questionText": "An audit plan is best described as:",
+        "options": [
+            "The overall scope and direction of the audit",
+            "The operational detail of how the audit strategy will be achieved",
+            "A letter to management detailing audit findings",
+            "A contract between the auditor and the client"
+        ],
+        "correctAnswerIndex": 1
+    },
+    {
+        "id": "B4_Q9",
+        "questionText": "Segregation of duties is a key internal control designed to:",
+        "options": [
+            "Ensure all transactions are profitable",
+            "Prevent a single individual from being able to commit and conceal fraud or error",
+            "Reduce the number of employees in the finance department",
+            "Ensure the company complies with all laws"
+        ],
+        "correctAnswerIndex": 1
+    },
+    {
+        "id": "B5_Q8",
+        "questionText": "A document provided by management to the auditor to confirm certain matters or support other evidence is a:",
+        "options": [
+            "Management letter",
+            "Letter of engagement",
+            "Written representation letter",
+            "Comfort letter"
+        ],
+        "correctAnswerIndex": 2
+    },
+    {
+        "id": "B6_Q8",
+        "questionText": "A business that aims to maximise benefit to its beneficiaries rather than owner wealth is known as a:",
+        "options": [
+            "Profit orientated organisation",
+            "Partnership",
+            "Not-for-profit organisation",
+            "Public limited company"
+        ],
+        "correctAnswerIndex": 2
+    },
+    {
+        "id": "C1_Q9",
+        "questionText": "A contract for the sale of land must generally be:",
+        "options": [
+            "Made verbally",
+            "Witnessed by a solicitor",
+            "In writing to be enforceable",
+            "Agreed via email"
+        ],
+        "correctAnswerIndex": 2
+    },
+    {
+        "id": "C2_Q9",
+        "questionText": "An employer's responsibility to provide a safe system of work and competent fellow employees falls under which duty?",
+        "options": [
+            "Duty to pay remuneration",
+            "Duty to indemnify",
+            "Duty of mutual trust and confidence",
+            "Duty to take reasonable care for employees' safety"
+        ],
+        "correctAnswerIndex": 3
+    },
+    {
+        "id": "C3_Q9",
+        "questionText": "Dismissal of an employee during a genuine business closure is likely to be considered a dismissal for the reason of:",
+        "options": [
+            "Capability",
+            "Conduct",
+            "Redundancy",
+            "Statutory restriction"
+        ],
+        "correctAnswerIndex": 2
+    },
+    {
+        "id": "C4_Q8",
+        "questionText": "A 'qualifying disclosure' under whistleblowing law refers to:",
+        "options": [
+            "Disclosing information of the right type, such as a criminal offence",
+            "Disclosing information to the media",
+            "Disclosing a personal grievance against a manager",
+            "Disclosing information that is already public knowledge"
+        ],
+        "correctAnswerIndex": 0
+    },
+    {
+        "id": "C5_Q9",
+        "questionText": "The internal rules governing how a company is run, such as the procedure for board meetings, are set out in the:",
+        "options": [
+            "Certificate of Incorporation",
+            "Memorandum of Association",
+            "Shareholder Agreement",
+            "Articles of Association"
+        ],
+        "correctAnswerIndex": 3
+    },
+    {
+        "id": "A1_Q11",
+        "questionText": "An accountant refusing to be associated with misleading information is upholding the principle of:",
+        "options": [
+            "Confidentiality",
+            "Professional Behaviour",
+            "Integrity",
+            "Professional Competence and Due Care"
+        ],
+        "correctAnswerIndex": 2
+    },
+    {
+        "id": "A2_Q11",
+        "questionText": "A 'familiarity threat' is most likely to arise from:",
+        "options": [
+            "A one-off, high-value transaction",
+            "A long association with a client",
+            "Pressure from a senior manager",
+            "Owning a small number of shares in a client"
+        ],
+        "correctAnswerIndex": 1
+    },
+    {
+        "id": "B1_Q10",
+        "questionText": "What is the primary objective of a not-for-profit organisation?",
+        "options": [
+            "To maximise shareholder wealth",
+            "To maximise benefit to beneficiaries",
+            "To minimise operational costs",
+            "To generate a surplus for the government"
+        ],
+        "correctAnswerIndex": 1
+    },
+    {
+        "id": "B2_Q10",
+        "questionText": "The responsibility for establishing and maintaining a sound system of internal control rests with the:",
+        "options": [
+            "External auditors",
+            "Internal auditors",
+            "Shareholders",
+            "Board of Directors"
+        ],
+        "correctAnswerIndex": 3
+    },
+    {
+        "id": "B3_Q10",
+        "questionText": "If an auditor concludes that financial statements are materially misstated, they will issue a(n):",
+        "options": [
+            "Unmodified opinion",
+            "Modified opinion",
+            "Engagement letter",
+            "Representation letter"
+        ],
+        "correctAnswerIndex": 1
+    },
+    {
+        "id": "B4_Q10",
+        "questionText": "An 'anti-fraud culture' within an organisation is an example of:",
+        "options": [
+            "Fraud detection",
+            "Fraud investigation",
+            "Fraud response",
+            "Fraud prevention"
+        ],
+        "correctAnswerIndex": 3
+    },
+    {
+        "id": "B5_Q9",
+        "questionText": "Which of the following is a key limitation of an audit?",
+        "options": [
+            "Auditors prepare the financial statements",
+            "Auditors test all transactions",
+            "Audit evidence is often persuasive rather than conclusive",
+            "Auditors are employees of the company"
+        ],
+        "correctAnswerIndex": 2
+    },
+    {
+        "id": "B6_Q9",
+        "questionText": "Which international organisation developed a set of principles for corporate governance to serve as a global benchmark?",
+        "options": [
+            "IFAC",
+            "IESBA",
+            "FRC",
+            "OECD"
+        ],
+        "correctAnswerIndex": 3
+    },
+    {
+        "id": "C1_Q10",
+        "questionText": "In contract law, the 'postal rule' is an exception to the general rule of:",
+        "options": [
+            "Offer",
+            "Acceptance",
+            "Consideration",
+            "Intention"
+        ],
+        "correctAnswerIndex": 1
+    },
+    {
+        "id": "C2_Q10",
+        "questionText": "What is the primary remedy for an employee who has been wrongfully dismissed?",
+        "options": [
+            "Reinstatement",
+            "Damages for the notice period",
+            "A formal apology",
+            "Re-engagement"
+        ],
+        "correctAnswerIndex": 1
+    },
+    {
+        "id": "C3_Q10",
+        "questionText": "If a company continues to operate even after all its original shareholders have died, this is due to the principle of:",
+        "options": [
+            "Limited liability",
+            "The veil of incorporation",
+            "Perpetual succession",
+            "Separate legal personality"
+        ],
+        "correctAnswerIndex": 2
+    },
+    {
+        "id": "C4_Q9",
+        "questionText": "Giving a small payment to a government official to speed up a routine process is known as a(n):",
+        "options": [
+            "Bribe",
+            "Facilitation payment",
+            "Donation",
+            "Expense claim"
+        ],
+        "correctAnswerIndex": 1
+    },
+    {
+        "id": "C5_Q10",
+        "questionText": "The legal case that enshrined the concept of separate legal personality was:",
+        "options": [
+            "Donoghue v Stevenson",
+            "Carlill v Carbolic Smoke Ball Co",
+            "Salomon v Salomon & Co Ltd",
+            "Hyde v Wrench"
+        ],
+        "correctAnswerIndex": 2
+    },
+    {
+        "id": "A1_Q12",
+        "questionText": "The duty of confidentiality continues:",
+        "options": [
+            "For one year after employment ends",
+            "Only during the period of employment",
+            "Even after the professional relationship has ended",
+            "Until the information becomes public knowledge"
+        ],
+        "correctAnswerIndex": 2
+    },
+    {
+        "id": "A2_Q12",
+        "questionText": "Which type of safeguard is a firm's internal disciplinary procedure?",
+        "options": [
+            "Safeguard created by the profession",
+            "Engagement-specific safeguard",
+            "Safeguard in the work environment",
+            "Legislative safeguard"
+        ],
+        "correctAnswerIndex": 2
+    },
+    {
+        "id": "B1_Q11",
+        "questionText": "A key purpose of corporate governance is to:",
+        "options": [
+            "Ensure daily operational targets are met",
+            "Maximise executive director remuneration",
+            "Balance the interests of individuals, the company, and society",
+            "Guarantee profitability"
+        ],
+        "correctAnswerIndex": 2
+    },
+    {
+        "id": "B2_Q11",
+        "questionText": "A non-executive director's independence could be impaired if they:",
+        "options": [
+            "Have been an employee of the company within the last five years",
+            "Hold a different directorship at an unrelated company",
+            "Challenge the views of the CEO in board meetings",
+            "Have a professional qualification"
+        ],
+        "correctAnswerIndex": 0
+    },
+    {
+        "id": "B3_Q11",
+        "questionText": "Audit risk is a combination of the risk of material misstatement and which other risk?",
+        "options": [
+            "Business risk",
+            "Detection risk",
+            "Inherent risk",
+            "Control risk"
+        ],
+        "correctAnswerIndex": 1
+    },
+    {
+        "id": "B4_Q11",
+        "questionText": "The responsibility for the prevention and detection of fraud rests with:",
+        "options": [
+            "The external auditors",
+            "The internal auditors",
+            "The company's management and those charged with governance",
+            "The shareholders"
+        ],
+        "correctAnswerIndex": 2
+    },
+    {
+        "id": "B5_Q10",
+        "questionText": "What does a 'fair presentation' of financial statements mean?",
+        "options": [
+            "The financial statements are presented in a visually appealing way",
+            "The financial statements are prepared in accordance with an applicable financial reporting framework",
+            "The company has made a profit",
+            "The auditors agree with all of management's decisions"
+        ],
+        "correctAnswerIndex": 1
+    },
+    {
+        "id": "B6_Q10",
+        "questionText": "Which stakeholder group is typically classified as 'internal'?",
+        "options": [
+            "Customers",
+            "Suppliers",
+            "Government",
+            "Employees"
+        ],
+        "correctAnswerIndex": 3
+    },
+    {
+        "id": "C1_Q11",
+        "questionText": "A promise made after an act has been performed is known as:",
+        "options": [
+            "Executory consideration",
+            "Executed consideration",
+            "Past consideration",
+            "Sufficient consideration"
+        ],
+        "correctAnswerIndex": 2
+    },
+    {
+        "id": "C2_Q11",
+        "questionText": "What is the minimum number of directors required for a UK public limited company (plc)?",
+        "options": [
+            "One",
+            "Two",
+            "Three",
+            "Seven"
+        ],
+        "correctAnswerIndex": 1
+    },
+    {
+        "id": "C3_Q11",
+        "questionText": "Which of the following is NOT a potentially fair reason for dismissal?",
+        "options": [
+            "Redundancy",
+            "Capability or qualifications",
+            "Pregnancy",
+            "Gross misconduct"
+        ],
+        "correctAnswerIndex": 2
+    },
+    {
+        "id": "C4_Q10",
+        "questionText": "Which of the following is a key principle of data protection?",
+        "options": [
+            "Data should be kept indefinitely",
+            "Data can be used for any purpose",
+            "Data must be kept secure",
+            "Data does not need to be accurate"
+        ],
+        "correctAnswerIndex": 2
+    },
+    {
+        "id": "C5_Q11",
+        "questionText": "Which business structure combines the features of a partnership with the limited liability of a company?",
+        "options": [
+            "Sole trader",
+            "Public limited company",
+            "Limited Liability Partnership (LLP)",
+            "Co-operative"
+        ],
+        "correctAnswerIndex": 2
+    },
+    {
+        "id": "A1_Q13",
+        "questionText": "An accountant spreading malicious rumours about a rival firm would be in breach of which principle?",
+        "options": [
+            "Integrity",
+            "Objectivity",
+            "Confidentiality",
+            "Professional Behaviour"
+        ],
+        "correctAnswerIndex": 3
+    },
+    {
+        "id": "A2_Q13",
+        "questionText": "Consulting an independent third party, such as CIMA, is an example of what?",
+        "options": [
+            "A self-review threat",
+            "A safeguard",
+            "An ethical conflict",
+            "A breach of confidentiality"
+        ],
+        "correctAnswerIndex": 1
+    },
+    {
+        "id": "B2_Q12",
+        "questionText": "What is the main advantage of a unitary board structure?",
+        "options": [
+            "It ensures complete independence of all directors",
+            "It prevents NEDs from communicating with executive directors",
+            "It fosters better communication and collaboration as all directors are on a single board",
+            "It is legally required in all countries"
+        ],
+        "correctAnswerIndex": 2
+    },
+    {
+        "id": "B4_Q12",
+        "questionText": "Which of the following is a control activity?",
+        "options": [
+            "Setting an ethical tone from the top",
+            "Authorisation of transactions",
+            "Monitoring the effectiveness of controls",
+            "Assessing the risk of fraud"
+        ],
+        "correctAnswerIndex": 1
+    },
+    {
+        "id": "B6_Q11",
+        "questionText": "An organisation that is owned and democratically controlled by its members is a:",
+        "options": [
+            "Public company",
+            "Partnership",
+            "Charity",
+            "Co-operative"
+        ],
+        "correctAnswerIndex": 3
+    },
+    {
+        "id": "C1_Q12",
+        "questionText": "For a contract to be legally binding, consideration must be:",
+        "options": [
+            "Sufficient but not necessarily adequate",
+            "Adequate but not necessarily sufficient",
+            "Both sufficient and adequate",
+            "Equal in value for both parties"
+        ],
+        "correctAnswerIndex": 0
+    },
+    {
+        "id": "C3_Q12",
+        "questionText": "A summary dismissal is a dismissal:",
+        "options": [
+            "With a very short notice period",
+            "After a long disciplinary process",
+            "Without any notice",
+            "That is automatically unfair"
+        ],
+        "correctAnswerIndex": 2
+    },
+    {
+        "id": "C5_Q12",
+        "questionText": "The ability of a court to look past the separate legal personality of a company to hold its members liable is known as:",
+        "options": [
+            "Piercing the corporate shield",
+            "Breaking the articles",
+            "Lifting the veil of incorporation",
+            "Ignoring limited liability"
+        ],
+        "correctAnswerIndex": 2
+    },
+    {
+        "id": "A2_Q14",
+        "questionText": "If a professional accountant has a financial interest in a business which could affect their judgement, this is a:",
+        "options": [
+            "Self-interest threat",
+            "Self-review threat",
+            "Advocacy threat",
+            "Intimidation threat"
+        ],
+        "correctAnswerIndex": 0
+    },
+    {
+        "id": "B3_Q12",
+        "questionText": "Inherent risk and control risk combine to form the:",
+        "options": [
+            "Audit risk",
+            "Business risk",
+            "Risk of material misstatement",
+            "Detection risk"
+        ],
+        "correctAnswerIndex": 2
+    },
+    {
+        "id": "B5_Q11",
+        "questionText": "Which party in an assurance engagement is responsible for the subject matter?",
+        "options": [
+            "The practitioner",
+            "The intended user",
+            "The responsible party",
+            "The regulator"
+        ],
+        "correctAnswerIndex": 2
+    },
+    {
+        "id": "C2_Q12",
+        "questionText": "Which of the following is NOT an implied duty of an employee?",
+        "options": [
+            "To obey lawful orders",
+            "To exercise reasonable care and skill",
+            "To work any overtime requested by the employer",
+            "To not misuse confidential information"
+        ],
+        "correctAnswerIndex": 2
+    },
+    {
+        "id": "C4_Q11",
+        "questionText": "The final stage of money laundering, where funds are made to reappear as legitimate, is called:",
+        "options": [
+            "Placement",
+            "Layering",
+            "Integration",
+            "Structuring"
+        ],
+        "correctAnswerIndex": 2
     }
 ]
