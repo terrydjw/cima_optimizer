@@ -1,0 +1,184 @@
+[
+    {
+        "id": "A1",
+        "title": "The 5 Fundamental Principles",
+        "syllabusArea": "A",
+        "content": "The CIMA Code of Ethics is based on five core principles that define professional responsibilities.\n\n- Integrity: Be straightforward and honest in all professional relationships.\n- Objectivity: Do not allow bias, conflict of interest, or undue influence to override professional judgments.\n- Professional Competence and Due Care: Maintain professional knowledge and skill, and act diligently in accordance with applicable standards.\n- Confidentiality: Respect the privacy of information acquired and do not disclose it without proper authority, unless there is a legal or professional right or duty to do so.\n- Professional Behaviour: Comply with laws and regulations and avoid any action that discredits the profession.",
+        "keyPoints": [
+            "Integrity is about honesty and truthfulness.",
+            "Objectivity is about being impartial.",
+            "Competence requires lifelong learning (CPD); Due Care requires diligence.",
+            "Confidentiality is a default duty with specific exceptions for disclosure.",
+            "Professional Behaviour protects the profession's reputation."
+        ]
+    },
+    {
+        "id": "A2",
+        "title": "Threats to Ethical Principles",
+        "syllabusArea": "A",
+        "content": "Threats are circumstances that could compromise compliance with the fundamental principles. They fall into five categories.\n\n- Self-interest Threat: A financial or other interest influencing judgment or behaviour.\n- Self-review Threat: Not appropriately evaluating a previous judgment made by oneself or their firm.\n- Advocacy Threat: Promoting a client's position to the point that objectivity is compromised.\n- Familiarity Threat: Becoming too sympathetic to a client's interests due to a long or close relationship.\n- Intimidation Threat: Being deterred from acting objectively by actual or perceived pressures.",
+        "keyPoints": [
+            "Self-interest: Personal gain influences you.",
+            "Self-review: You are checking your own work.",
+            "Advocacy: You are promoting a client's position.",
+            "Familiarity: You are too close to the client.",
+            "Intimidation: You are being pressured by the client."
+        ]
+    },
+    {
+        "id": "A3",
+        "title": "Rules vs. Principles-Based Ethics",
+        "syllabusArea": "A",
+        "content": "Ethical codes can follow two main approaches.\n\n- A Rules-Based (Compliance-Based) Approach provides a set of detailed, explicit rules that must be followed. It is driven by law and the motivation is often fear of punishment. Enforcement is mandatory.\n- A Framework/Principles-Based Approach provides a framework of broad principles to guide behaviour. It is values-driven and requires professional judgment. Enforcement is discretionary.\n\nThe CIMA Code of Ethics uses a principles-based framework.",
+        "keyPoints": [
+            "Rules-based codes are about compliance with explicit laws.",
+            "Principles-based codes are about adhering to a set of values.",
+            "A rules-based approach aims to detect misconduct; a principles-based one aims to prevent it.",
+            "The CIMA code is principles-based."
+        ]
+    },
+    {
+        "id": "A4",
+        "title": "Ethical Conflict Resolution",
+        "syllabusArea": "A",
+        "content": "When facing an ethical dilemma, CIMA's ethical checklist provides a structured path to resolution.\n1. Check all your facts and document them.\n2. Consider the ethical issues involved.\n3. Identify which fundamental principles are affected.\n4. Follow established internal procedures.\n5. Identify affected parties.\n6. Determine a possible course of action, including internal and external escalation.\n7. Seek professional or legal advice.\n8. Refuse to remain associated with the conflict.",
+        "keyPoints": [
+            "The first step is always to gather the facts.",
+            "Internal procedures should be followed before escalating externally.",
+            "Conflicting values can be personal, corporate, professional, or societal.",
+            "Unethical behaviour can lead to loss of job, reputation, and professional status."
+        ]
+    },
+    {
+        "id": "B1",
+        "title": "Corporate Governance & Agency Theory",
+        "syllabusArea": "B",
+        "content": "Corporate Governance is the system by which companies are directed and controlled. Its primary purpose is to manage the agency problem.\n\nThe agency relationship exists between shareholders (Principals) who own the company, and directors (Agents) who manage it. The 'agency problem' is the conflict of interest that arises because agents may act in their own self-interest rather than the principals'. Good governance, through mechanisms like independent oversight, aims to align these interests.",
+        "keyPoints": [
+            "Governance is the system of direction and control.",
+            "Principals (shareholders) own the company.",
+            "Agents (directors) run the company.",
+            "The agency problem is the conflict of interest between them.",
+            "Directors are stewards of the company's resources, entrusted with a duty of care."
+        ]
+    },
+    {
+        "id": "B2",
+        "title": "Board Structures and Directors",
+        "syllabusArea": "B",
+        "content": "A board is responsible for a company's long-term success. Board structures can be unitary or two-tier.\n\n- Unitary Board: A single board comprising both executive directors and non-executive directors (NEDs). This is common in the UK.\n- Two-Tier Board: Has two separate boards: a Management Board (runs the company) and a Supervisory Board (oversees the management board). This is common in Germany.\n\nExecutive directors are senior managers involved in daily operations (e.g., CEO, CFO). NEDs are independent outsiders who provide objective scrutiny. Governance codes often require the roles of Chairman (leads the board) and CEO (leads the company) to be separate.",
+        "keyPoints": [
+            "Unitary boards have a single tier with executives and NEDs.",
+            "Two-tier boards have separate management and supervisory boards.",
+            "NEDs are crucial for scrutinising executive decisions.",
+            "Splitting the Chairman and CEO roles prevents concentration of power."
+        ]
+    },
+    {
+        "id": "B3",
+        "title": "Board Committees",
+        "syllabusArea": "B",
+        "content": "Boards delegate tasks to committees to improve effectiveness. These are typically composed of non-executive directors.\n\n- Audit Committee: Oversees financial reporting, internal controls, and the relationship with both internal and external auditors. Best practice is for it to be 100% independent non-executive directors.\n- Remuneration Committee: Determines the pay and benefits for executive directors. It should be 100% independent non-executive directors.\n- Nominations Committee: Leads the process for appointing new directors. It should have a majority of independent non-executive directors.",
+        "keyPoints": [
+            "The Audit Committee is key for financial oversight and control.",
+            "The Remuneration Committee sets executive pay to avoid conflicts of interest.",
+            "The Nominations Committee ensures a balanced and effective board structure."
+        ]
+    },
+    {
+        "id": "B4",
+        "title": "Internal Controls",
+        "syllabusArea": "B",
+        "content": "Internal controls are processes and procedures to ensure the integrity of financial information, promote accountability, and prevent fraud. The board holds ultimate responsibility for the system of internal control. Types of error include:\n\n- Errors of Omission: A transaction is completely omitted.\n- Errors of Commission: An entry is made in the wrong account, but of the right type (e.g., wrong expense account).\n- Errors of Principle: An entry is made in the wrong type of account (e.g., an expense instead of an asset).",
+        "keyPoints": [
+            "Controls are policies to safeguard assets and ensure reliable reporting.",
+            "The board is responsible for the overall control system.",
+            "Fraud is an intentional act of deception for illegal advantage.",
+            "Fraud prevention includes creating an anti-fraud culture and having sound internal controls."
+        ]
+    },
+    {
+        "id": "B5",
+        "title": "Internal vs. External Audit",
+        "syllabusArea": "B",
+        "content": "Both provide assurance but have different objectives, scopes, and stakeholders.\n\n- External Audit: An independent examination of the financial statements to provide an opinion on whether they give a 'true and fair view'. The auditor reports to the shareholders. This is often a statutory requirement.\n- Internal Audit: An independent activity within the company to evaluate and improve its operations, risk management, and internal controls. The auditor reports to the board or audit committee.\n\nThe 'expectations gap' is the misconception by some users that an external audit provides a 100% guarantee that the financial statements are correct and that all fraud has been detected.",
+        "keyPoints": [
+            "External audit's objective is an opinion on financial statements for shareholders.",
+            "Internal audit's objective is to improve operations for management.",
+            "External audit has a narrow scope (financials); Internal audit has a broad scope (operations).",
+            "An audit provides reasonable assurance, not absolute assurance."
+        ]
+    },
+    {
+        "id": "B6",
+        "title": "Corporate Social Responsibility (CSR)",
+        "syllabusArea": "B",
+        "content": "CSR refers to an organisation's commitment to operate in an economically, socially, and environmentally sustainable way, considering its impact on all stakeholders. Carroll's four-part model is a key framework:\n\n1. Economic (Base): The primary duty is to be profitable.\n2. Legal: Obey all laws and regulations.\n3. Ethical: Act in a fair and just manner beyond what the law requires.\n4. Philanthropic (Top): Be a good corporate citizen and contribute to the community.",
+        "keyPoints": [
+            "CSR considers a wide range of stakeholders: employees, customers, community, etc..",
+            "Carroll's Pyramid (from base to top): Economic, Legal, Ethical, Philanthropic.",
+            "Sustainability is using resources in a way that does not compromise future generations.",
+            "Good CSR can attract customers and high-quality staff."
+        ]
+    },
+    {
+        "id": "C1",
+        "title": "Elements of a Valid Contract",
+        "syllabusArea": "C",
+        "content": "A contract is a legally binding agreement between two or more parties. For it to be valid, four elements are essential.\n\n1. Offer: A definite and unequivocal statement of willingness to be bound on specified terms.\n2. Acceptance: Unqualified and unconditional assent to all the terms of the offer.\n3. Consideration: Something of value that each party provides to the other. It must be sufficient but need not be adequate.\n4. Intention to Create Legal Relations: The parties must intend their agreement to be legally enforceable. This is presumed in commercial agreements but not in social or domestic ones.",
+        "keyPoints": [
+            "An 'invitation to treat' (e.g., goods on a shop shelf) is not an offer.",
+            "A counter-offer destroys the original offer.",
+            "The 'postal rule' states acceptance is complete as soon as a letter is posted.",
+            "Past consideration is not valid consideration."
+        ]
+    },
+    {
+        "id": "C2",
+        "title": "Contract Terms",
+        "syllabusArea": "C",
+        "content": "The terms of a contract define the obligations of the parties. They can be express or implied.\n\n- Express Terms: Terms that are explicitly agreed upon by the parties, either orally or in writing.\n- Implied Terms: Terms that are not explicitly stated but are read into the contract by the courts or by statute. For example, in a contract for the sale of goods, it is implied that the goods will be of satisfactory quality.\n\nTerms can be classified as either conditions or warranties.\n- Condition: A vital term of the contract. A breach of a condition allows the innocent party to terminate the contract and/or claim damages.\n- Warranty: A less important term. A breach of a warranty only allows the innocent party to claim damages.",
+        "keyPoints": [
+            "Express terms are stated; implied terms are read in.",
+            "A condition is a major term; a warranty is a minor term.",
+            "Breach of a condition can end the contract.",
+            "Breach of a warranty only entitles a claim for damages."
+        ]
+    },
+    {
+        "id": "C3",
+        "title": "The Employment Contract",
+        "syllabusArea": "C",
+        "content": "The employment relationship is governed by a contract, which has both express and implied terms.\n\nEmployer's Implied Duties:\n- To pay reasonable remuneration.\n- To provide a safe working environment.\n- The duty of mutual trust and confidence.\n\nEmployee's Implied Duties:\n- To serve faithfully and honestly (duty of fidelity).\n- To obey lawful and reasonable orders.\n- To exercise reasonable skill and care.",
+        "keyPoints": [
+            "An employment contract sets out the rights and duties of both parties.",
+            "The duty to provide a safe workplace is a key employer duty.",
+            "The duty of fidelity (honesty) is a key employee duty.",
+            "Mutual trust and confidence is an implied term on both sides."
+        ]
+    },
+    {
+        "id": "C4",
+        "title": "Wrongful vs. Unfair Dismissal",
+        "syllabusArea": "C",
+        "content": "These are two distinct legal claims an employee can make upon termination of employment.\n\n- Wrongful Dismissal: This is a common law claim for breach of contract. It typically occurs when an employer dismisses an employee without giving the proper notice period as specified in the contract. Dismissal without notice is called summary dismissal.\n\n- Unfair Dismissal: This is a statutory right. It occurs when an employer dismisses an employee without a 'fair reason' or without following a fair procedure. Fair reasons include capability, conduct, and redundancy.\n\n- Constructive Dismissal: Occurs when an employee terminates the contract because of the employer's conduct, which must be a serious breach.",
+        "keyPoints": [
+            "Wrongful dismissal is about a breach of the contract's notice period.",
+            "Unfair dismissal is about the fairness of the reason and process.",
+            "Remedies for unfair dismissal include reinstatement, re-engagement, and compensation.",
+            "Redundancy can be a fair reason for dismissal if handled correctly."
+        ]
+    },
+    {
+        "id": "C5",
+        "title": "Company Administration",
+        "syllabusArea": "C",
+        "content": "A company is an artificial legal person created by registration.\n\n- Separate Legal Personality: A registered company is a legal entity distinct from its owners (shareholders), as established in Salomon v Salomon & Co Ltd. This means the company can own assets and be sued in its own name.\n- The Veil of Incorporation: This is the legal 'curtain' that separates the company from its shareholders. In very rare circumstances (e.g., fraud), the courts can 'lift the veil' and hold the shareholders personally liable.\n- Limited Liability: The liability of shareholders for the company's debts is limited to the amount they have invested (or agreed to invest) in the company.\n- Public vs. Private Companies: Public companies (plc) can offer shares to the public and must have a minimum share capital. Private companies (Ltd) cannot offer shares to the public and have no minimum capital requirement.",
+        "keyPoints": [
+            "A company is a separate legal person from its owners.",
+            "Shareholders' liability is limited to their investment.",
+            "Public companies (plc) can be listed on a stock exchange; Private companies (Ltd) cannot.",
+            "The Articles of Association are the internal rules for running the company."
+        ]
+    }
+]

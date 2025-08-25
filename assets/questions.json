@@ -1,0 +1,1036 @@
+[
+    {
+        "id": "A1_Q1",
+        "questionText": "Which principle requires a professional accountant to be straightforward and honest in all professional and business relationships?",
+        "options": [
+            "Objectivity",
+            "Integrity",
+            "Confidentiality",
+            "Professional Behaviour"
+        ],
+        "correctAnswerIndex": 1
+    },
+    {
+        "id": "A2_Q1",
+        "questionText": "A manager pressures you to ignore a key control weakness by threatening your job. This is an example of which threat?",
+        "options": [
+            "Self-interest",
+            "Advocacy",
+            "Familiarity",
+            "Intimidation"
+        ],
+        "correctAnswerIndex": 3
+    },
+    {
+        "id": "A3_Q1",
+        "questionText": "According to CIMA's ethical checklist, what is the FIRST step when facing an ethical dilemma?",
+        "options": [
+            "Seek legal advice",
+            "Resign from the role",
+            "Check all relevant facts",
+            "Contact CIMA"
+        ],
+        "correctAnswerIndex": 2
+    },
+    {
+        "id": "A1_Q2",
+        "questionText": "Not allowing personal bias or conflict of interest to influence business judgements relates to which principle?",
+        "options": [
+            "Integrity",
+            "Objectivity",
+            "Professional Behaviour",
+            "Confidentiality"
+        ],
+        "correctAnswerIndex": 1
+    },
+    {
+        "id": "A2_Q2",
+        "questionText": "Auditing financial work that you yourself prepared is a classic example of which threat?",
+        "options": [
+            "Self-interest",
+            "Self-review",
+            "Advocacy",
+            "Familiarity"
+        ],
+        "correctAnswerIndex": 1
+    },
+    {
+        "id": "A1_Q3",
+        "questionText": "Which of the following is NOT a fundamental principle of the CIMA Code of Ethics?",
+        "options": [
+            "Objectivity",
+            "Confidentiality",
+            "Honesty",
+            "Professional competence and due care"
+        ],
+        "correctAnswerIndex": 2
+    },
+    {
+        "id": "A2_Q3",
+        "questionText": "Which ethical threat occurs when an accountant promotes a client's position to a point where their objectivity is compromised?",
+        "options": [
+            "Self-interest",
+            "Self-review",
+            "Advocacy",
+            "Familiarity"
+        ],
+        "correctAnswerIndex": 2
+    },
+    {
+        "id": "A3_Q2",
+        "questionText": "Which organisation fosters international debate on ethical issues faced by accountants?",
+        "options": [
+            "The FRC",
+            "The Accounting Council",
+            "The Conduct Committee",
+            "The IESBA"
+        ],
+        "correctAnswerIndex": 3
+    },
+    {
+        "id": "A4_Q1",
+        "questionText": "When deciding upon a course of action to resolve an ethical conflict, an accountant's primary duty is to ensure the resolution is consistent with:",
+        "options": [
+            "The employer's wishes",
+            "CIMA’s fundamental principles",
+            "Their personal values",
+            "Industry practice"
+        ],
+        "correctAnswerIndex": 1
+    },
+    {
+        "id": "A4_Q2",
+        "questionText": "You have been asked by your line manager to amend a set of accounts which do not conform to established accounting standards. Which set of values are conflicting?",
+        "options": [
+            "Professional and personal",
+            "Personal and corporate",
+            "Corporate and professional",
+            "Professional and societal"
+        ],
+        "correctAnswerIndex": 2
+    },
+    {
+        "id": "B1_Q1",
+        "questionText": "In Agency Theory, who are the 'principals'?",
+        "options": [
+            "Directors",
+            "Auditors",
+            "Shareholders",
+            "Customers"
+        ],
+        "correctAnswerIndex": 2
+    },
+    {
+        "id": "B2_Q1",
+        "questionText": "Which committee is responsible for setting the pay of executive directors?",
+        "options": [
+            "Audit Committee",
+            "Nominations Committee",
+            "Remuneration Committee",
+            "Ethics Committee"
+        ],
+        "correctAnswerIndex": 2
+    },
+    {
+        "id": "B3_Q1",
+        "questionText": "The primary responsibility of an external auditor is to:",
+        "options": [
+            "Detect all fraud within the company.",
+            "Provide an opinion on the truth and fairness of financial statements.",
+            "Advise management on improving operational efficiency.",
+            "Set the company's internal control policies."
+        ],
+        "correctAnswerIndex": 1
+    },
+    {
+        "id": "B4_Q1",
+        "questionText": "In Carroll's CSR pyramid, which responsibility is the foundation upon which all others rest?",
+        "options": [
+            "Legal",
+            "Ethical",
+            "Philanthropic",
+            "Economic"
+        ],
+        "correctAnswerIndex": 3
+    },
+    {
+        "id": "B1_Q2",
+        "questionText": "The conflict of interest between directors and shareholders is known as the:",
+        "options": [
+            "Corporate dilemma",
+            "Stakeholder problem",
+            "Agency problem",
+            "Governance conflict"
+        ],
+        "correctAnswerIndex": 2
+    },
+    {
+        "id": "B2_Q2",
+        "questionText": "Best practice suggests that a company's audit committee should be composed of:",
+        "options": [
+            "Executive directors only",
+            "A mix of executive and non-executive directors",
+            "Independent non-executive directors only",
+            "The CEO, CFO, and a shareholder representative"
+        ],
+        "correctAnswerIndex": 2
+    },
+    {
+        "id": "C1_Q1",
+        "questionText": "Which of the following is NOT an essential element of a valid contract?",
+        "options": [
+            "Offer",
+            "Acceptance",
+            "A written document",
+            "Consideration"
+        ],
+        "correctAnswerIndex": 2
+    },
+    {
+        "id": "C2_Q1",
+        "questionText": "Dismissing an employee without giving them their contractual notice period is an example of:",
+        "options": [
+            "Unfair Dismissal",
+            "Redundancy",
+            "Wrongful Dismissal",
+            "Constructive Dismissal"
+        ],
+        "correctAnswerIndex": 2
+    },
+    {
+        "id": "C3_Q1",
+        "questionText": "The legal principle that a company is distinct from its owners is called:",
+        "options": [
+            "Limited Liability",
+            "Perpetual Succession",
+            "The Veil of Incorporation",
+            "Corporate Governance"
+        ],
+        "correctAnswerIndex": 2
+    },
+    {
+        "id": "C1_Q2",
+        "questionText": "In contract law, what is 'consideration'?",
+        "options": [
+            "The time taken to think about an offer.",
+            "Something of value exchanged between parties.",
+            "An invitation to make an offer.",
+            "The final written contract."
+        ],
+        "correctAnswerIndex": 1
+    },
+    {
+        "id": "C2_Q2",
+        "questionText": "An employee resigns because their employer has fundamentally breached their contract. This is known as:",
+        "options": [
+            "Wrongful Dismissal",
+            "Unfair Dismissal",
+            "Redundancy",
+            "Constructive Dismissal"
+        ],
+        "correctAnswerIndex": 3
+    },
+    {
+        "id": "A3_Q3",
+        "questionText": "Which of the following statements is correct regarding a principles-based approach to ethics?",
+        "options": [
+            "It relies on a detailed set of mandatory rules.",
+            "Its primary objective is the detection of misconduct.",
+            "It is driven by values and requires professional judgement.",
+            "Enforcement is mandatory and non-discretionary."
+        ],
+        "correctAnswerIndex": 2
+    },
+    {
+        "id": "B3_Q2",
+        "questionText": "Which type of audit will look at the effectiveness of controls?",
+        "options": [
+            "Financial audit",
+            "Operational audit",
+            "Project audit",
+            "Compliance audit"
+        ],
+        "correctAnswerIndex": 1
+    },
+    {
+        "id": "B4_Q2",
+        "questionText": "Which of Carroll's CSR strategies is being demonstrated when a company denies any responsibility for social issues?",
+        "options": [
+            "Defence",
+            "Accommodation",
+            "Reaction",
+            "Proaction"
+        ],
+        "correctAnswerIndex": 2
+    },
+    {
+        "id": "B5_Q1",
+        "questionText": "Which of the following would not be classified as a connected stakeholder?",
+        "options": [
+            "Shareholder",
+            "Customer",
+            "Supplier",
+            "Manager"
+        ],
+        "correctAnswerIndex": 3
+    },
+    {
+        "id": "B6_Q1",
+        "questionText": "The King Report indicates that South Africa’s approach to corporate governance is based on which two principles?",
+        "options": [
+            "Legal regulation, compliance",
+            "Self-regulation, compliance",
+            "Legal regulation, apply or explain",
+            "Self-regulation, apply and explain"
+        ],
+        "correctAnswerIndex": 3
+    },
+    {
+        "id": "B6_Q2",
+        "questionText": "Which of the following is not a board committee?",
+        "options": [
+            "Investment",
+            "Audit",
+            "Nomination",
+            "Remuneration"
+        ],
+        "correctAnswerIndex": 0
+    },
+    {
+        "id": "C3_Q2",
+        "questionText": "Which of the following is NOT a remedy available for a successful finding of unfair dismissal?",
+        "options": [
+            "Fining the employer",
+            "Compensation",
+            "Reinstatement",
+            "Re-engagement"
+        ],
+        "correctAnswerIndex": 0
+    },
+    {
+        "id": "C4_Q1",
+        "questionText": "In relation to money laundering, at which point are proceeds of crime most apparent and at risk of detection?",
+        "options": [
+            "Placement",
+            "Layering",
+            "Integration",
+            "Assimilation"
+        ],
+        "correctAnswerIndex": 0
+    },
+    {
+        "id": "C5_Q1",
+        "questionText": "A company is a separate legal entity. What is this known as?",
+        "options": [
+            "The shroud of incorporation",
+            "The cloak of incorporation",
+            "The façade of incorporation",
+            "The veil of incorporation"
+        ],
+        "correctAnswerIndex": 3
+    },
+    {
+        "id": "C5_Q2",
+        "questionText": "One of the features of a company is that it will carry on regardless of the change in ownership. What is this known as?",
+        "options": [
+            "Perpetual succession",
+            "Enduring succession",
+            "Permanent succession",
+            "Constant succession"
+        ],
+        "correctAnswerIndex": 0
+    },
+    {
+        "id": "A1_Q4",
+        "questionText": "Maintaining professional knowledge and skill at the level required to ensure competent service relates to which principle?",
+        "options": [
+            "Professional Behaviour",
+            "Integrity",
+            "Objectivity",
+            "Professional Competence and Due Care"
+        ],
+        "correctAnswerIndex": 3
+    },
+    {
+        "id": "A2_Q4",
+        "questionText": "Accepting a significant gift from a client could create which type of threat?",
+        "options": [
+            "Self-interest",
+            "Self-review",
+            "Advocacy",
+            "Intimidation"
+        ],
+        "correctAnswerIndex": 0
+    },
+    {
+        "id": "A3_Q4",
+        "questionText": "A principles-based approach to ethics is best described as being:",
+        "options": [
+            "Law driven",
+            "Values driven",
+            "Fear driven",
+            "Compliance driven"
+        ],
+        "correctAnswerIndex": 1
+    },
+    {
+        "id": "A4_Q3",
+        "questionText": "Where a professional duty conflicts with the law, which should be followed?",
+        "options": [
+            "The professional duty",
+            "The law",
+            "The professional duty if it agreed with the individual’s personal ethics",
+            "The law, only if it agrees with the individual’s personal ethics"
+        ],
+        "correctAnswerIndex": 1
+    },
+    {
+        "id": "B1_Q3",
+        "questionText": "Which theory suggests that directors should be seen as responsible caretakers of a company's resources?",
+        "options": [
+            "Agency Theory",
+            "Stakeholder Theory",
+            "Stewardship Theory",
+            "Resource-Dependency Theory"
+        ],
+        "correctAnswerIndex": 2
+    },
+    {
+        "id": "B2_Q3",
+        "questionText": "Splitting the roles of the Chairman and the CEO is a key governance mechanism designed to:",
+        "options": [
+            "Increase company profits",
+            "Reduce the number of board meetings",
+            "Prevent one individual having unfettered power",
+            "Simplify the company's management structure"
+        ],
+        "correctAnswerIndex": 2
+    },
+    {
+        "id": "B3_Q3",
+        "questionText": "The 'expectations gap' in external audit refers to the public misconception that an audit:",
+        "options": [
+            "Is a service to management",
+            "Focuses on non-financial information",
+            "Provides absolute assurance that the accounts are correct",
+            "Is performed by employees of the company"
+        ],
+        "correctAnswerIndex": 2
+    },
+    {
+        "id": "B4_Q3",
+        "questionText": "Which of the following would NOT be a philanthropic responsibility under Carroll's CSR model?",
+        "options": [
+            "Not engaging in price fixing",
+            "Making a donation to charity",
+            "Providing sports facilities to employees",
+            "Sponsoring a school fair"
+        ],
+        "correctAnswerIndex": 0
+    },
+    {
+        "id": "B5_Q2",
+        "questionText": "Which of the following is NOT one of the three 'E's in a value for money audit?",
+        "options": [
+            "Efficacy",
+            "Efficiency",
+            "Economy",
+            "Effectiveness"
+        ],
+        "correctAnswerIndex": 0
+    },
+    {
+        "id": "C1_Q3",
+        "questionText": "Goods displayed for sale in a shop window are generally considered to be:",
+        "options": [
+            "An offer",
+            "An acceptance",
+            "A counter-offer",
+            "An invitation to treat"
+        ],
+        "correctAnswerIndex": 3
+    },
+    {
+        "id": "C2_Q3",
+        "questionText": "A less important term of a contract, the breach of which only allows the innocent party to claim damages, is a:",
+        "options": [
+            "Condition",
+            "Warranty",
+            "Clause",
+            "Terminus"
+        ],
+        "correctAnswerIndex": 1
+    },
+    {
+        "id": "C3_Q3",
+        "questionText": "Which of the following is NOT an implied duty of an employer?",
+        "options": [
+            "To pay reasonable remuneration",
+            "To take reasonable care for the safety of their employees",
+            "To give reasonable notice of termination of employment",
+            "To provide a reference"
+        ],
+        "correctAnswerIndex": 3
+    },
+    {
+        "id": "C4_Q2",
+        "questionText": "The three stages of money laundering are, in order:",
+        "options": [
+            "Layering, Placement, Integration",
+            "Placement, Layering, Integration",
+            "Integration, Placement, Layering",
+            "Placement, Integration, Layering"
+        ],
+        "correctAnswerIndex": 1
+    },
+    {
+        "id": "C5_Q3",
+        "questionText": "Which of the following is NOT an advantage of a company limited by shares?",
+        "options": [
+            "It is a separate legal entity",
+            "The members have limited liability",
+            "It is easy to dissolve",
+            "The shares are easily transferable"
+        ],
+        "correctAnswerIndex": 2
+    },
+    {
+        "id": "A1_Q5",
+        "questionText": "A professional accountant has a primary duty to act in the:",
+        "options": [
+            "Company's interest",
+            "Shareholders' interest",
+            "Public interest",
+            "Director's interest"
+        ],
+        "correctAnswerIndex": 2
+    },
+    {
+        "id": "A2_Q5",
+        "questionText": "A firm has audited the same client for 15 years and the audit partner is a close friend of the client's CEO. This gives rise to which primary threat?",
+        "options": [
+            "Self-interest",
+            "Self-review",
+            "Advocacy",
+            "Familiarity"
+        ],
+        "correctAnswerIndex": 3
+    },
+    {
+        "id": "A3_Q5",
+        "questionText": "An ethical framework that focuses on the character of the moral agent, rather than the act itself, is known as:",
+        "options": [
+            "Deontology",
+            "Utilitarianism",
+            "Virtue ethics",
+            "Compliance ethics"
+        ],
+        "correctAnswerIndex": 2
+    },
+    {
+        "id": "A4_Q4",
+        "questionText": "Disclosing confidential client information because you are required to by a court of law is:",
+        "options": [
+            "A breach of confidentiality",
+            "Permitted, as it is required by law",
+            "A breach of integrity",
+            "Only permitted with the client's consent"
+        ],
+        "correctAnswerIndex": 1
+    },
+    {
+        "id": "B1_Q4",
+        "questionText": "Corporate governance rules are required because:",
+        "options": [
+            "Shareholders want to be able to sue directors",
+            "Stock markets do not trust financial statements",
+            "Management need encouragement to act in the best interests of all stakeholders",
+            "Companies do not always behave ethically"
+        ],
+        "correctAnswerIndex": 2
+    },
+    {
+        "id": "B2_Q4",
+        "questionText": "A unitary board structure is one which:",
+        "options": [
+            "Has only one director",
+            "Has a separate management board and supervisory board",
+            "Consists of a single board with both executive and non-executive directors",
+            "Is only found in public companies"
+        ],
+        "correctAnswerIndex": 2
+    },
+    {
+        "id": "B3_Q4",
+        "questionText": "Which of the following is an example of good corporate governance?",
+        "options": [
+            "Lack of board involvement",
+            "Regular contact with shareholders",
+            "Domination by single individual",
+            "Emphasis on short term profitability"
+        ],
+        "correctAnswerIndex": 1
+    },
+    {
+        "id": "B4_Q4",
+        "questionText": "The COSO framework for internal control has five components. Which of the following is NOT one of these components?",
+        "options": [
+            "Control Environment",
+            "Risk Assessment",
+            "Strategic Planning",
+            "Monitoring Activities"
+        ],
+        "correctAnswerIndex": 2
+    },
+    {
+        "id": "B5_Q3",
+        "questionText": "An audit provides what level of assurance?",
+        "options": [
+            "Absolute",
+            "Limited",
+            "Negative",
+            "Reasonable"
+        ],
+        "correctAnswerIndex": 3
+    },
+    {
+        "id": "B6_Q3",
+        "questionText": "The OECD Principles of Corporate Governance are primarily aimed at:",
+        "options": [
+            "Punishing corrupt directors",
+            "Providing a global benchmark for good governance",
+            "Replacing national laws",
+            "Setting executive remuneration"
+        ],
+        "correctAnswerIndex": 1
+    },
+    {
+        "id": "C1_Q4",
+        "questionText": "A makes an offer to B, but B replies with different terms. B's reply is considered a:",
+        "options": [
+            "Valid acceptance",
+            "Request for information",
+            "Counter-offer",
+            "Revocation"
+        ],
+        "correctAnswerIndex": 2
+    },
+    {
+        "id": "C2_Q4",
+        "questionText": "The implied duty of an employee to give honest and faithful service is known as the duty of:",
+        "options": [
+            "Care",
+            "Fidelity",
+            "Confidence",
+            "Obedience"
+        ],
+        "correctAnswerIndex": 1
+    },
+    {
+        "id": "C3_Q4",
+        "questionText": "A private limited company (Ltd) is prohibited from:",
+        "options": [
+            "Making a profit",
+            "Having more than 50 shareholders",
+            "Appointing a company secretary",
+            "Offering its shares to the public"
+        ],
+        "correctAnswerIndex": 3
+    },
+    {
+        "id": "C4_Q3",
+        "questionText": "The law that gives individuals rights concerning how their personal information is handled by organisations is known as:",
+        "options": [
+            "Freedom of Information Act",
+            "Data Protection Act",
+            "Companies Act",
+            "Health and Safety at Work Act"
+        ],
+        "correctAnswerIndex": 1
+    },
+    {
+        "id": "C5_Q4",
+        "questionText": "Which of the following TWO do not require any legal formalities to be set up?",
+        "options": [
+            "Limited liability partnership",
+            "General partnership",
+            "Sole trader",
+            "Limited liability company"
+        ],
+        "correctAnswerIndex": 1
+    },
+    {
+        "id": "A1_Q6",
+        "questionText": "The principle of Confidentiality means an accountant should not disclose information unless:",
+        "options": [
+            "They think it would benefit the client",
+            "A family member asks for it",
+            "There is a legal or professional right or duty to disclose",
+            "The information is more than one year old"
+        ],
+        "correctAnswerIndex": 2
+    },
+    {
+        "id": "A2_Q6",
+        "questionText": "Rotating the senior audit partner on an engagement is an example of what?",
+        "options": [
+            "A threat",
+            "A breach of ethics",
+            "A safeguard",
+            "A conflict of interest"
+        ],
+        "correctAnswerIndex": 2
+    },
+    {
+        "id": "A3_Q6",
+        "questionText": "A compliance-based approach to ethics is primarily concerned with:",
+        "options": [
+            "Upholding core values",
+            "Adhering to specific, explicit rules",
+            "Exercising professional judgement",
+            "Preventing misconduct through culture"
+        ],
+        "correctAnswerIndex": 1
+    },
+    {
+        "id": "A4_Q5",
+        "questionText": "If an accountant cannot resolve a significant ethical conflict after following all internal procedures, they should consider:",
+        "options": [
+            "Ignoring the issue",
+            "Altering the financial records",
+            "Seeking advice from their professional body (CIMA)",
+            "Asking a junior colleague what to do"
+        ],
+        "correctAnswerIndex": 2
+    },
+    {
+        "id": "B1_Q5",
+        "questionText": "The 'separation of ownership and control' is a key concept in which theory?",
+        "options": [
+            "Stewardship Theory",
+            "Agency Theory",
+            "Stakeholder Theory",
+            "CSR Theory"
+        ],
+        "correctAnswerIndex": 1
+    },
+    {
+        "id": "B2_Q5",
+        "questionText": "The role of the Chairman of the board is primarily to:",
+        "options": [
+            "Run the company on a day-to-day basis",
+            "Lead the board and ensure its effectiveness",
+            "Represent the company's employees",
+            "Sign the financial statements"
+        ],
+        "correctAnswerIndex": 1
+    },
+    {
+        "id": "B3_Q5",
+        "questionText": "The purpose of an audit is to enhance the degree of confidence of the intended users in the financial statements. This statement is:",
+        "options": [
+            "True",
+            "False",
+            "True only for internal audit",
+            "False for public companies"
+        ],
+        "correctAnswerIndex": 0
+    },
+    {
+        "id": "B4_Q5",
+        "questionText": "Which of the following is an example of a fraud prevention measure?",
+        "options": [
+            "A fraud response plan",
+            "A whistleblowing policy",
+            "An investigation by internal audit",
+            "Regular spot checks"
+        ],
+        "correctAnswerIndex": 1
+    },
+    {
+        "id": "B5_Q4",
+        "questionText": "What is the risk that the auditor comes to an incorrect opinion?",
+        "options": [
+            "Planning risk",
+            "Engagement risk",
+            "Materiality risk",
+            "Audit risk"
+        ],
+        "correctAnswerIndex": 3
+    },
+    {
+        "id": "B6_Q4",
+        "questionText": "The 'apply and explain' governance framework is a feature of which code?",
+        "options": [
+            "Sarbanes-Oxley Act (USA)",
+            "UK Corporate Governance Code",
+            "King IV Report (South Africa)",
+            "OECD Principles"
+        ],
+        "correctAnswerIndex": 2
+    },
+    {
+        "id": "C1_Q5",
+        "questionText": "The 'postal rule' in contract law states that acceptance is effective when:",
+        "options": [
+            "The letter of acceptance is received",
+            "The letter of acceptance is read",
+            "The letter of acceptance is written",
+            "The letter of acceptance is posted"
+        ],
+        "correctAnswerIndex": 3
+    },
+    {
+        "id": "C2_Q5",
+        "questionText": "Which of the following statements about express terms is correct?",
+        "options": [
+            "An express term can be written or oral.",
+            "An express term does not need to be specifically inserted into the contract.",
+            "An express term is read into the contract by a court.",
+            "An express term is always a condition."
+        ],
+        "correctAnswerIndex": 0
+    },
+    {
+        "id": "C3_Q5",
+        "questionText": "Which document contains the internal rules for the management and administration of a company?",
+        "options": [
+            "The Memorandum of Association",
+            "The Certificate of Incorporation",
+            "The Articles of Association",
+            "The Annual Report"
+        ],
+        "correctAnswerIndex": 2
+    },
+    {
+        "id": "C4_Q4",
+        "questionText": "Legislation that protects employees who disclose information about malpractice at their workplace is known as:",
+        "options": [
+            "Data Protection Law",
+            "Anti-Bribery Law",
+            "Whistleblowing Law",
+            "Equal Opportunities Law"
+        ],
+        "correctAnswerIndex": 2
+    },
+    {
+        "id": "C5_Q5",
+        "questionText": "Which of the following is NOT a consequence of a company having separate legal personality?",
+        "options": [
+            "It can own its own property",
+            "It can be liable for its own debts",
+            "Its directors have limited liability",
+            "It has perpetual succession"
+        ],
+        "correctAnswerIndex": 2
+    },
+    {
+        "id": "A1_Q7",
+        "questionText": "Complying with relevant laws and regulations is a key part of which fundamental principle?",
+        "options": [
+            "Integrity",
+            "Professional Competence and Due Care",
+            "Professional Behaviour",
+            "Objectivity"
+        ],
+        "correctAnswerIndex": 2
+    },
+    {
+        "id": "A2_Q7",
+        "questionText": "An accountant preparing a tax return for a close family member may face which primary threat?",
+        "options": [
+            "Intimidation",
+            "Self-review",
+            "Familiarity",
+            "Advocacy"
+        ],
+        "correctAnswerIndex": 2
+    },
+    {
+        "id": "A3_Q7",
+        "questionText": "An ethical approach that focuses on the consequences of an action to determine if it is right or wrong ('the greatest good for the greatest number') is known as:",
+        "options": [
+            "Deontology",
+            "Virtue Ethics",
+            "Utilitarianism",
+            "Absolutism"
+        ],
+        "correctAnswerIndex": 2
+    },
+    {
+        "id": "A4_Q6",
+        "questionText": "An accountant discovers their employer is engaging in illegal tax evasion. They report this to the relevant authorities as required by law. This action is:",
+        "options": [
+            "A breach of confidentiality",
+            "A breach of objectivity",
+            "Permitted under the Code of Ethics",
+            "A self-interest threat"
+        ],
+        "correctAnswerIndex": 2
+    },
+    {
+        "id": "B1_Q6",
+        "questionText": "Which of the following is a cost associated with the agency problem?",
+        "options": [
+            "Directors' salaries",
+            "The cost of the external audit",
+            "Dividends paid to shareholders",
+            "Cost of goods sold"
+        ],
+        "correctAnswerIndex": 1
+    },
+    {
+        "id": "B2_Q6",
+        "questionText": "A director's duty to act in good faith and in the best interests of the company is known as their:",
+        "options": [
+            "Statutory duty",
+            "Contractual duty",
+            "Fiduciary duty",
+            "Duty of care"
+        ],
+        "correctAnswerIndex": 2
+    },
+    {
+        "id": "B3_Q6",
+        "questionText": "The report produced by an external auditor at the end of their audit is addressed to the:",
+        "options": [
+            "Government",
+            "Directors",
+            "Employees",
+            "Shareholders"
+        ],
+        "correctAnswerIndex": 3
+    },
+    {
+        "id": "B4_Q6",
+        "questionText": "An employee intentionally creates fictitious invoices and pays them into their own bank account. This is an example of:",
+        "options": [
+            "An error of principle",
+            "An error of commission",
+            "Fraud",
+            "A compensating error"
+        ],
+        "correctAnswerIndex": 2
+    },
+    {
+        "id": "B5_Q5",
+        "questionText": "Which of the following would NOT be a reason for outsourcing the internal audit function?",
+        "options": [
+            "Access to specialist skills",
+            "To increase management's control over the audit process",
+            "To improve independence",
+            "Potential cost savings"
+        ],
+        "correctAnswerIndex": 1
+    },
+    {
+        "id": "B6_Q5",
+        "questionText": "The 'comply or explain' approach is a key feature of which type of corporate governance framework?",
+        "options": [
+            "Rules-based",
+            "Principles-based",
+            "Legally-mandated",
+            "Shareholder-led"
+        ],
+        "correctAnswerIndex": 1
+    },
+    {
+        "id": "C1_Q6",
+        "questionText": "A contract which has terms that are illegal is considered:",
+        "options": [
+            "Void",
+            "Valid",
+            "Voidable",
+            "Unenforceable"
+        ],
+        "correctAnswerIndex": 0
+    },
+    {
+        "id": "C2_Q6",
+        "questionText": "In employment law, what is vicarious liability?",
+        "options": [
+            "The employee is liable for the employer's actions",
+            "The employer is liable for the employee's actions during the course of employment",
+            "Both parties are equally liable for all actions",
+            "A third party is liable for the employee's actions"
+        ],
+        "correctAnswerIndex": 1
+    },
+    {
+        "id": "C3_Q6",
+        "questionText": "What is the primary purpose of a 'whistleblowing' policy?",
+        "options": [
+            "To discipline employees who complain",
+            "To provide a safe mechanism for employees to report wrongdoing",
+            "To report on company performance to shareholders",
+            "To handle customer complaints"
+        ],
+        "correctAnswerIndex": 1
+    },
+    {
+        "id": "C4_Q5",
+        "questionText": "Treating an employee less favourably because of their gender is an example of:",
+        "options": [
+            "Indirect discrimination",
+            "Direct discrimination",
+            "Vicarious liability",
+            "Constructive dismissal"
+        ],
+        "correctAnswerIndex": 1
+    },
+    {
+        "id": "C5_Q6",
+        "questionText": "In a partnership, the partners generally have:",
+        "options": [
+            "No liability for business debts",
+            "Limited liability",
+            "Unlimited liability",
+            "Liability limited to their salary"
+        ],
+        "correctAnswerIndex": 2
+    },
+    {
+        "id": "A1_Q8",
+        "questionText": "The 'public interest' in the context of professional accountancy refers to:",
+        "options": [
+            "The interests of the government",
+            "The interests of the company's largest shareholders",
+            "The collective well-being of the community of people and institutions the accountant serves",
+            "The interests of the accounting profession itself"
+        ],
+        "correctAnswerIndex": 2
+    },
+    {
+        "id": "B2_Q7",
+        "questionText": "Which board committee should, according to best practice, be comprised entirely of independent non-executive directors?",
+        "options": [
+            "Audit Committee only",
+            "Remuneration Committee only",
+            "Nominations Committee only",
+            "Both the Audit and Remuneration Committees"
+        ],
+        "correctAnswerIndex": 3
+    },
+    {
+        "id": "C2_Q7",
+        "questionText": "Which of the following is valid consideration?",
+        "options": [
+            "Executory consideration",
+            "Past consideration",
+            "Performance of an existing statutory duty",
+            "Performance of a contractual duty"
+        ],
+        "correctAnswerIndex": 0
+    },
+    {
+        "id": "C3_Q7",
+        "questionText": "Which of the following would not terminate an offer?",
+        "options": [
+            "Counter offer",
+            "Revocation",
+            "Lapse of time",
+            "Request for more information"
+        ],
+        "correctAnswerIndex": 3
+    }
+]
