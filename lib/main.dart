@@ -1,3 +1,4 @@
+import 'package:cima_optimizer/core/services/ai_tutor_service.dart';
 import 'package:cima_optimizer/core/theme/app_theme.dart';
 import 'package:cima_optimizer/core/theme/theme_provider.dart';
 import 'package:cima_optimizer/features/app_shell/main_screen.dart';
@@ -6,24 +7,31 @@ import 'package:cima_optimizer/features/auth/screens/auth_wrapper.dart';
 import 'package:cima_optimizer/features/auth/services/auth_service.dart';
 import 'package:cima_optimizer/features/practice/providers/quiz_provider.dart';
 import 'package:flutter/material.dart';
+import 'package:flutter_dotenv/flutter_dotenv.dart';
 import 'package:provider/provider.dart';
 import 'package:firebase_core/firebase_core.dart';
 import 'firebase_options.dart';
-import 'package:flutter_dotenv/flutter_dotenv.dart';
 
 void main() async {
   WidgetsFlutterBinding.ensureInitialized();
+  await dotenv.load(fileName: ".env");
   await Firebase.initializeApp(options: DefaultFirebaseOptions.currentPlatform);
-  await dotenv.load(fileName: ".env"); // I'm loading my environment variables.
 
   runApp(
     MultiProvider(
       providers: [
         Provider<AuthService>(create: (_) => AuthService()),
-        ChangeNotifierProvider<QuizProvider>(create: (_) => QuizProvider()),
-        ChangeNotifierProvider<AuthProvider>(create: (_) => AuthProvider()),
-        // I'm adding my new ThemeProvider here.
+        // I am adding the AITutorService here so it can be used by other providers.
+        Provider<AITutorService>(create: (_) => AITutorService()),
         ChangeNotifierProvider<ThemeProvider>(create: (_) => ThemeProvider()),
+        // The QuizProvider now correctly receives the services it depends on.
+        ChangeNotifierProvider<QuizProvider>(
+          create: (context) => QuizProvider(
+            context.read<AuthService>(),
+            context.read<AITutorService>(),
+          ),
+        ),
+        ChangeNotifierProvider<AuthProvider>(create: (_) => AuthProvider()),
       ],
       child: const CimaOptimizerApp(),
     ),
@@ -35,12 +43,10 @@ class CimaOptimizerApp extends StatelessWidget {
 
   @override
   Widget build(BuildContext context) {
-    // I'm wrapping my MaterialApp in a Consumer to listen for theme changes.
     return Consumer<ThemeProvider>(
       builder: (context, themeProvider, child) {
         return MaterialApp(
           title: 'CIMA Optimizer',
-          // I'm setting the theme, darkTheme, and themeMode properties.
           theme: AppTheme.lightTheme,
           darkTheme: AppTheme.darkTheme,
           themeMode: themeProvider.themeMode,

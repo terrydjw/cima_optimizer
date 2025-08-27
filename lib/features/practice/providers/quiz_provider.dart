@@ -3,6 +3,7 @@ import 'package:cloud_firestore/cloud_firestore.dart';
 import '../../../core/models/question_model.dart';
 import '../../../core/models/lesson_model.dart';
 import '../../../core/services/lesson_service.dart';
+import '../../../core/services/ai_tutor_service.dart';
 import '../../auth/services/database_service.dart';
 import '../../auth/services/auth_service.dart';
 import '../quiz_results_screen.dart';
@@ -45,7 +46,8 @@ enum QuizStatus { notStarted, inProgress, finished }
 class QuizProvider extends ChangeNotifier {
   final LessonService _lessonService = LessonService();
   final DatabaseService _dbService = DatabaseService();
-  final AuthService _authService = AuthService();
+  final AuthService _authService;
+  final AITutorService _aiTutorService;
 
   User? _user;
 
@@ -66,6 +68,9 @@ class QuizProvider extends ChangeNotifier {
   final Map<String, int> _topicAttempts = {};
   final List<QuizResult> _recentQuizzes = [];
 
+  bool _isExplanationLoading = false;
+  String? _explanationText;
+
   // Getters
   List<Lesson> get lessons => _lessons;
   bool get isLoading => _isLoading;
@@ -78,6 +83,8 @@ class QuizProvider extends ChangeNotifier {
   int get totalQuestions => _sessionQuestions.length;
   List<QuizResult> get recentQuizzes => _recentQuizzes;
   int get totalAnsweredQuestions => _answeredQuestionIds.length;
+  bool get isExplanationLoading => _isExplanationLoading;
+  String? get explanationText => _explanationText;
 
   double get syllabusCoverage {
     if (_fullQuestionList.isEmpty) return 0.0;
@@ -89,7 +96,6 @@ class QuizProvider extends ChangeNotifier {
         .where((q) => q.id.startsWith(area))
         .length;
     if (totalAreaQuestions == 0) return 0.0;
-
     final correct = _topicCorrectAnswers[area] ?? 0;
     return correct / totalAreaQuestions;
   }
@@ -113,7 +119,7 @@ class QuizProvider extends ChangeNotifier {
     );
   }
 
-  QuizProvider() {
+  QuizProvider(this._authService, this._aiTutorService) {
     _init();
   }
 
@@ -174,9 +180,7 @@ class QuizProvider extends ChangeNotifier {
 
   void startQuiz(List<Question> questions, String topic) {
     if (questions.isEmpty) return;
-
     questions.shuffle();
-
     _sessionQuestions = questions;
     _sessionTopic = topic;
     _sessionScore = 0;
@@ -184,6 +188,7 @@ class QuizProvider extends ChangeNotifier {
     _selectedAnswerIndex = null;
     _answerChecked = false;
     _status = QuizStatus.inProgress;
+    _explanationText = null;
     notifyListeners();
   }
 
@@ -234,6 +239,7 @@ class QuizProvider extends ChangeNotifier {
       _currentQuestionIndex++;
       _selectedAnswerIndex = null;
       _answerChecked = false;
+      _explanationText = null;
       notifyListeners();
     } else {
       finishQuiz();
@@ -247,6 +253,23 @@ class QuizProvider extends ChangeNotifier {
   void cancelQuiz() {
     _status = QuizStatus.notStarted;
     _sessionQuestions = _fullQuestionList;
+    _explanationText = null;
+    notifyListeners();
+  }
+
+  Future<void> getExplanation() async {
+    _isExplanationLoading = true;
+    _explanationText = null;
+    notifyListeners();
+    final question = currentQuestion;
+    final correctAnswer = question.options[question.correctAnswerIndex];
+    final explanation = await _aiTutorService.getExplanation(
+      question: question.questionText,
+      correctAnswer: correctAnswer,
+      allOptions: question.options,
+    );
+    _explanationText = explanation;
+    _isExplanationLoading = false;
     notifyListeners();
   }
 }
