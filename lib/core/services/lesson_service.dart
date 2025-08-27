@@ -5,11 +5,27 @@ import '../models/question_model.dart';
 class LessonService {
   final FirebaseFirestore _db = FirebaseFirestore.instance;
 
-  // This method now fetches all documents from my 'lessons' collection in Firestore.
-  Future<List<Lesson>> getLessons() async {
+  // This new method fetches the documents from the top-level 'modules' collection.
+  Future<List<Map<String, dynamic>>> getAvailableModules() async {
     try {
-      final snapshot = await _db.collection('lessons').get();
-      // I'm mapping the Firestore documents to my Lesson model.
+      final snapshot = await _db.collection('modules').get();
+      // We return a list of maps, which can contain module ID, title, etc.
+      return snapshot.docs.map((doc) => {'id': doc.id, ...doc.data()}).toList();
+    } catch (e) {
+      print(e.toString());
+      return [];
+    }
+  }
+
+  // This method now requires a moduleId to fetch from the correct sub-collection.
+  Future<List<Lesson>> getLessons({required String moduleId}) async {
+    try {
+      // The path now points to the sub-collection within a specific module.
+      final snapshot = await _db
+          .collection('modules')
+          .doc(moduleId)
+          .collection('lessons')
+          .get();
       return snapshot.docs.map((doc) => Lesson.fromJson(doc.data())).toList();
     } catch (e) {
       print(e.toString());
@@ -17,10 +33,15 @@ class LessonService {
     }
   }
 
-  // This method now fetches all documents from my 'questions' collection in Firestore.
-  Future<List<Question>> getQuestions() async {
+  // This method also now requires a moduleId.
+  Future<List<Question>> getQuestions({required String moduleId}) async {
     try {
-      final snapshot = await _db.collection('questions').get();
+      // The path is updated here as well.
+      final snapshot = await _db
+          .collection('modules')
+          .doc(moduleId)
+          .collection('questions')
+          .get();
       return snapshot.docs.map((doc) => Question.fromJson(doc.data())).toList();
     } catch (e) {
       print(e.toString());

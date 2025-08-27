@@ -1,5 +1,7 @@
 class Lesson {
   final String id;
+  // This new field will help us identify the module.
+  final String moduleId;
   final String title;
   final String syllabusArea;
   final String content;
@@ -7,6 +9,8 @@ class Lesson {
 
   const Lesson({
     required this.id,
+    // Add to constructor
+    required this.moduleId,
     required this.title,
     required this.syllabusArea,
     required this.content,
@@ -17,6 +21,8 @@ class Lesson {
   factory Lesson.fromJson(Map<String, dynamic> json) {
     return Lesson(
       id: json['id'],
+      // Add to fromJson factory
+      moduleId: json['moduleId'],
       title: json['title'],
       syllabusArea: json['syllabusArea'],
       content: json['content'],

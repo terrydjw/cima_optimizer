@@ -1,6 +1,8 @@
 [
     {
         "id": "A1_Q1",
+        "moduleId": "BA4",
+        "syllabusSubArea": "A1",
         "questionText": "Which principle requires a professional accountant to be straightforward and honest in all professional and business relationships?",
         "options": [
             "Objectivity",
@@ -12,6 +14,8 @@
     },
     {
         "id": "A2_Q1",
+        "moduleId": "BA4",
+        "syllabusSubArea": "A2",
         "questionText": "A manager pressures you to ignore a key control weakness by threatening your job. This is an example of which threat?",
         "options": [
             "Self-interest",
@@ -23,6 +27,8 @@
     },
     {
         "id": "A3_Q1",
+        "moduleId": "BA4",
+        "syllabusSubArea": "A3",
         "questionText": "According to CIMA's ethical checklist, what is the FIRST step when facing an ethical dilemma?",
         "options": [
             "Seek legal advice",
@@ -34,6 +40,8 @@
     },
     {
         "id": "A1_Q2",
+        "moduleId": "BA4",
+        "syllabusSubArea": "A1",
         "questionText": "Not allowing personal bias or conflict of interest to influence business judgements relates to which principle?",
         "options": [
             "Integrity",
@@ -45,6 +53,8 @@
     },
     {
         "id": "A2_Q2",
+        "moduleId": "BA4",
+        "syllabusSubArea": "A2",
         "questionText": "Auditing financial work that you yourself prepared is a classic example of which threat?",
         "options": [
             "Self-interest",
@@ -56,6 +66,8 @@
     },
     {
         "id": "A1_Q3",
+        "moduleId": "BA4",
+        "syllabusSubArea": "A1",
         "questionText": "Which of the following is NOT a fundamental principle of the CIMA Code of Ethics?",
         "options": [
             "Objectivity",
@@ -67,6 +79,8 @@
     },
     {
         "id": "A2_Q3",
+        "moduleId": "BA4",
+        "syllabusSubArea": "A2",
         "questionText": "Which ethical threat occurs when an accountant promotes a client's position to a point where their objectivity is compromised?",
         "options": [
             "Self-interest",
@@ -78,6 +92,8 @@
     },
     {
         "id": "A3_Q2",
+        "moduleId": "BA4",
+        "syllabusSubArea": "A3",
         "questionText": "Which organisation fosters international debate on ethical issues faced by accountants?",
         "options": [
             "The FRC",
@@ -89,6 +105,8 @@
     },
     {
         "id": "A4_Q1",
+        "moduleId": "BA4",
+        "syllabusSubArea": "A4",
         "questionText": "When deciding upon a course of action to resolve an ethical conflict, an accountant's primary duty is to ensure the resolution is consistent with:",
         "options": [
             "The employer's wishes",
@@ -100,6 +118,8 @@
     },
     {
         "id": "A4_Q2",
+        "moduleId": "BA4",
+        "syllabusSubArea": "A4",
         "questionText": "You have been asked by your line manager to amend a set of accounts which do not conform to established accounting standards. Which set of values are conflicting?",
         "options": [
             "Professional and personal",
@@ -111,6 +131,8 @@
     },
     {
         "id": "B1_Q1",
+        "moduleId": "BA4",
+        "syllabusSubArea": "B1",
         "questionText": "In Agency Theory, who are the 'principals'?",
         "options": [
             "Directors",
@@ -122,6 +144,8 @@
     },
     {
         "id": "B2_Q1",
+        "moduleId": "BA4",
+        "syllabusSubArea": "B2",
         "questionText": "Which committee is responsible for setting the pay of executive directors?",
         "options": [
             "Audit Committee",
@@ -133,6 +157,8 @@
     },
     {
         "id": "B3_Q1",
+        "moduleId": "BA4",
+        "syllabusSubArea": "B3",
         "questionText": "The primary responsibility of an external auditor is to:",
         "options": [
             "Detect all fraud within the company.",
@@ -144,6 +170,8 @@
     },
     {
         "id": "B4_Q1",
+        "moduleId": "BA4",
+        "syllabusSubArea": "B4",
         "questionText": "In Carroll's CSR pyramid, which responsibility is the foundation upon which all others rest?",
         "options": [
             "Legal",
@@ -155,6 +183,8 @@
     },
     {
         "id": "B1_Q2",
+        "moduleId": "BA4",
+        "syllabusSubArea": "B1",
         "questionText": "The conflict of interest between directors and shareholders is known as the:",
         "options": [
             "Corporate dilemma",
@@ -166,6 +196,8 @@
     },
     {
         "id": "B2_Q2",
+        "moduleId": "BA4",
+        "syllabusSubArea": "B2",
         "questionText": "Best practice suggests that a company's audit committee should be composed of:",
         "options": [
             "Executive directors only",
@@ -177,6 +209,8 @@
     },
     {
         "id": "C1_Q1",
+        "moduleId": "BA4",
+        "syllabusSubArea": "C1",
         "questionText": "Which of the following is NOT an essential element of a valid contract?",
         "options": [
             "Offer",
@@ -188,6 +222,8 @@
     },
     {
         "id": "C2_Q1",
+        "moduleId": "BA4",
+        "syllabusSubArea": "C2",
         "questionText": "Dismissing an employee without giving them their contractual notice period is an example of:",
         "options": [
             "Unfair Dismissal",
@@ -199,6 +235,8 @@
     },
     {
         "id": "C3_Q1",
+        "moduleId": "BA4",
+        "syllabusSubArea": "C3",
         "questionText": "The legal principle that a company is distinct from its owners is called:",
         "options": [
             "Limited Liability",
@@ -210,6 +248,8 @@
     },
     {
         "id": "C1_Q2",
+        "moduleId": "BA4",
+        "syllabusSubArea": "C1",
         "questionText": "In contract law, what is 'consideration'?",
         "options": [
             "The time taken to think about an offer.",
@@ -221,6 +261,8 @@
     },
     {
         "id": "C2_Q2",
+        "moduleId": "BA4",
+        "syllabusSubArea": "C2",
         "questionText": "An employee resigns because their employer has fundamentally breached their contract. This is known as:",
         "options": [
             "Wrongful Dismissal",
@@ -232,6 +274,8 @@
     },
     {
         "id": "A3_Q3",
+        "moduleId": "BA4",
+        "syllabusSubArea": "A3",
         "questionText": "Which of the following statements is correct regarding a principles-based approach to ethics?",
         "options": [
             "It relies on a detailed set of mandatory rules.",
@@ -243,6 +287,8 @@
     },
     {
         "id": "B3_Q2",
+        "moduleId": "BA4",
+        "syllabusSubArea": "B3",
         "questionText": "Which type of audit will look at the effectiveness of controls?",
         "options": [
             "Financial audit",
@@ -254,6 +300,8 @@
     },
     {
         "id": "B4_Q2",
+        "moduleId": "BA4",
+        "syllabusSubArea": "B4",
         "questionText": "Which of Carroll's CSR strategies is being demonstrated when a company denies any responsibility for social issues?",
         "options": [
             "Defence",
@@ -265,6 +313,8 @@
     },
     {
         "id": "B5_Q1",
+        "moduleId": "BA4",
+        "syllabusSubArea": "B5",
         "questionText": "Which of the following would not be classified as a connected stakeholder?",
         "options": [
             "Shareholder",
@@ -276,6 +326,8 @@
     },
     {
         "id": "B6_Q1",
+        "moduleId": "BA4",
+        "syllabusSubArea": "B6",
         "questionText": "The King Report indicates that South Africa’s approach to corporate governance is based on which two principles?",
         "options": [
             "Legal regulation, compliance",
@@ -287,6 +339,8 @@
     },
     {
         "id": "B6_Q2",
+        "moduleId": "BA4",
+        "syllabusSubArea": "B6",
         "questionText": "Which of the following is not a board committee?",
         "options": [
             "Investment",
@@ -298,6 +352,8 @@
     },
     {
         "id": "C3_Q2",
+        "moduleId": "BA4",
+        "syllabusSubArea": "C3",
         "questionText": "Which of the following is NOT a remedy available for a successful finding of unfair dismissal?",
         "options": [
             "Fining the employer",
@@ -309,6 +365,8 @@
     },
     {
         "id": "C4_Q1",
+        "moduleId": "BA4",
+        "syllabusSubArea": "C4",
         "questionText": "In relation to money laundering, at which point are proceeds of crime most apparent and at risk of detection?",
         "options": [
             "Placement",
@@ -320,6 +378,8 @@
     },
     {
         "id": "C5_Q1",
+        "moduleId": "BA4",
+        "syllabusSubArea": "C5",
         "questionText": "A company is a separate legal entity. What is this known as?",
         "options": [
             "The shroud of incorporation",
@@ -331,6 +391,8 @@
     },
     {
         "id": "C5_Q2",
+        "moduleId": "BA4",
+        "syllabusSubArea": "C5",
         "questionText": "One of the features of a company is that it will carry on regardless of the change in ownership. What is this known as?",
         "options": [
             "Perpetual succession",
@@ -342,6 +404,8 @@
     },
     {
         "id": "A1_Q4",
+        "moduleId": "BA4",
+        "syllabusSubArea": "A1",
         "questionText": "Maintaining professional knowledge and skill at the level required to ensure competent service relates to which principle?",
         "options": [
             "Professional Behaviour",
@@ -353,6 +417,8 @@
     },
     {
         "id": "A2_Q4",
+        "moduleId": "BA4",
+        "syllabusSubArea": "A2",
         "questionText": "Accepting a significant gift from a client could create which type of threat?",
         "options": [
             "Self-interest",
@@ -364,6 +430,8 @@
     },
     {
         "id": "A3_Q4",
+        "moduleId": "BA4",
+        "syllabusSubArea": "A3",
         "questionText": "A principles-based approach to ethics is best described as being:",
         "options": [
             "Law driven",
@@ -375,6 +443,8 @@
     },
     {
         "id": "A4_Q3",
+        "moduleId": "BA4",
+        "syllabusSubArea": "A4",
         "questionText": "Where a professional duty conflicts with the law, which should be followed?",
         "options": [
             "The professional duty",
@@ -386,6 +456,8 @@
     },
     {
         "id": "B1_Q3",
+        "moduleId": "BA4",
+        "syllabusSubArea": "B1",
         "questionText": "Which theory suggests that directors should be seen as responsible caretakers of a company's resources?",
         "options": [
             "Agency Theory",
@@ -397,6 +469,8 @@
     },
     {
         "id": "B2_Q3",
+        "moduleId": "BA4",
+        "syllabusSubArea": "B2",
         "questionText": "Splitting the roles of the Chairman and the CEO is a key governance mechanism designed to:",
         "options": [
             "Increase company profits",
@@ -408,6 +482,8 @@
     },
     {
         "id": "B3_Q3",
+        "moduleId": "BA4",
+        "syllabusSubArea": "B3",
         "questionText": "The 'expectations gap' in external audit refers to the public misconception that an audit:",
         "options": [
             "Is a service to management",
@@ -419,6 +495,8 @@
     },
     {
         "id": "B4_Q3",
+        "moduleId": "BA4",
+        "syllabusSubArea": "B4",
         "questionText": "Which of the following would NOT be a philanthropic responsibility under Carroll's CSR model?",
         "options": [
             "Not engaging in price fixing",
@@ -430,6 +508,8 @@
     },
     {
         "id": "B5_Q2",
+        "moduleId": "BA4",
+        "syllabusSubArea": "B5",
         "questionText": "Which of the following is NOT one of the three 'E's in a value for money audit?",
         "options": [
             "Efficacy",
@@ -441,6 +521,8 @@
     },
     {
         "id": "C1_Q3",
+        "moduleId": "BA4",
+        "syllabusSubArea": "C1",
         "questionText": "Goods displayed for sale in a shop window are generally considered to be:",
         "options": [
             "An offer",
@@ -452,6 +534,8 @@
     },
     {
         "id": "C2_Q3",
+        "moduleId": "BA4",
+        "syllabusSubArea": "C2",
         "questionText": "A less important term of a contract, the breach of which only allows the innocent party to claim damages, is a:",
         "options": [
             "Condition",
@@ -463,6 +547,8 @@
     },
     {
         "id": "C3_Q3",
+        "moduleId": "BA4",
+        "syllabusSubArea": "C3",
         "questionText": "Which of the following is NOT an implied duty of an employer?",
         "options": [
             "To pay reasonable remuneration",
@@ -474,6 +560,8 @@
     },
     {
         "id": "C4_Q2",
+        "moduleId": "BA4",
+        "syllabusSubArea": "C4",
         "questionText": "The three stages of money laundering are, in order:",
         "options": [
             "Layering, Placement, Integration",
@@ -485,6 +573,8 @@
     },
     {
         "id": "C5_Q3",
+        "moduleId": "BA4",
+        "syllabusSubArea": "C5",
         "questionText": "Which of the following is NOT an advantage of a company limited by shares?",
         "options": [
             "It is a separate legal entity",
@@ -496,6 +586,8 @@
     },
     {
         "id": "A1_Q5",
+        "moduleId": "BA4",
+        "syllabusSubArea": "A1",
         "questionText": "A professional accountant has a primary duty to act in the:",
         "options": [
             "Company's interest",
@@ -507,6 +599,8 @@
     },
     {
         "id": "A2_Q5",
+        "moduleId": "BA4",
+        "syllabusSubArea": "A2",
         "questionText": "A firm has audited the same client for 15 years and the audit partner is a close friend of the client's CEO. This gives rise to which primary threat?",
         "options": [
             "Self-interest",
@@ -518,6 +612,8 @@
     },
     {
         "id": "A3_Q5",
+        "moduleId": "BA4",
+        "syllabusSubArea": "A3",
         "questionText": "An ethical framework that focuses on the character of the moral agent, rather than the act itself, is known as:",
         "options": [
             "Deontology",
@@ -529,6 +625,8 @@
     },
     {
         "id": "A4_Q4",
+        "moduleId": "BA4",
+        "syllabusSubArea": "A4",
         "questionText": "Disclosing confidential client information because you are required to by a court of law is:",
         "options": [
             "A breach of confidentiality",
@@ -540,6 +638,8 @@
     },
     {
         "id": "B1_Q4",
+        "moduleId": "BA4",
+        "syllabusSubArea": "B1",
         "questionText": "Corporate governance rules are required because:",
         "options": [
             "Shareholders want to be able to sue directors",
@@ -551,6 +651,8 @@
     },
     {
         "id": "B2_Q4",
+        "moduleId": "BA4",
+        "syllabusSubArea": "B2",
         "questionText": "A unitary board structure is one which:",
         "options": [
             "Has only one director",
@@ -562,6 +664,8 @@
     },
     {
         "id": "B3_Q4",
+        "moduleId": "BA4",
+        "syllabusSubArea": "B3",
         "questionText": "Which of the following is an example of good corporate governance?",
         "options": [
             "Lack of board involvement",
@@ -573,6 +677,8 @@
     },
     {
         "id": "B4_Q4",
+        "moduleId": "BA4",
+        "syllabusSubArea": "B4",
         "questionText": "The COSO framework for internal control has five components. Which of the following is NOT one of these components?",
         "options": [
             "Control Environment",
@@ -584,6 +690,8 @@
     },
     {
         "id": "B5_Q3",
+        "moduleId": "BA4",
+        "syllabusSubArea": "B5",
         "questionText": "An audit provides what level of assurance?",
         "options": [
             "Absolute",
@@ -595,6 +703,8 @@
     },
     {
         "id": "B6_Q3",
+        "moduleId": "BA4",
+        "syllabusSubArea": "B6",
         "questionText": "The OECD Principles of Corporate Governance are primarily aimed at:",
         "options": [
             "Punishing corrupt directors",
@@ -606,6 +716,8 @@
     },
     {
         "id": "C1_Q4",
+        "moduleId": "BA4",
+        "syllabusSubArea": "C1",
         "questionText": "A makes an offer to B, but B replies with different terms. B's reply is considered a:",
         "options": [
             "Valid acceptance",
@@ -617,6 +729,8 @@
     },
     {
         "id": "C2_Q4",
+        "moduleId": "BA4",
+        "syllabusSubArea": "C2",
         "questionText": "The implied duty of an employee to give honest and faithful service is known as the duty of:",
         "options": [
             "Care",
@@ -628,6 +742,8 @@
     },
     {
         "id": "C3_Q4",
+        "moduleId": "BA4",
+        "syllabusSubArea": "C3",
         "questionText": "A private limited company (Ltd) is prohibited from:",
         "options": [
             "Making a profit",
@@ -639,6 +755,8 @@
     },
     {
         "id": "C4_Q3",
+        "moduleId": "BA4",
+        "syllabusSubArea": "C4",
         "questionText": "The law that gives individuals rights concerning how their personal information is handled by organisations is known as:",
         "options": [
             "Freedom of Information Act",
@@ -650,6 +768,8 @@
     },
     {
         "id": "C5_Q4",
+        "moduleId": "BA4",
+        "syllabusSubArea": "C5",
         "questionText": "Which of the following TWO do not require any legal formalities to be set up?",
         "options": [
             "Limited liability partnership",
@@ -661,6 +781,8 @@
     },
     {
         "id": "A1_Q6",
+        "moduleId": "BA4",
+        "syllabusSubArea": "A1",
         "questionText": "The principle of Confidentiality means an accountant should not disclose information unless:",
         "options": [
             "They think it would benefit the client",
@@ -672,6 +794,8 @@
     },
     {
         "id": "A2_Q6",
+        "moduleId": "BA4",
+        "syllabusSubArea": "A2",
         "questionText": "Rotating the senior audit partner on an engagement is an example of what?",
         "options": [
             "A threat",
@@ -683,6 +807,8 @@
     },
     {
         "id": "A3_Q6",
+        "moduleId": "BA4",
+        "syllabusSubArea": "A3",
         "questionText": "A compliance-based approach to ethics is primarily concerned with:",
         "options": [
             "Upholding core values",
@@ -694,6 +820,8 @@
     },
     {
         "id": "A4_Q5",
+        "moduleId": "BA4",
+        "syllabusSubArea": "A4",
         "questionText": "If an accountant cannot resolve a significant ethical conflict after following all internal procedures, they should consider:",
         "options": [
             "Ignoring the issue",
@@ -705,6 +833,8 @@
     },
     {
         "id": "B1_Q5",
+        "moduleId": "BA4",
+        "syllabusSubArea": "B1",
         "questionText": "The 'separation of ownership and control' is a key concept in which theory?",
         "options": [
             "Stewardship Theory",
@@ -716,6 +846,8 @@
     },
     {
         "id": "B2_Q5",
+        "moduleId": "BA4",
+        "syllabusSubArea": "B2",
         "questionText": "The role of the Chairman of the board is primarily to:",
         "options": [
             "Run the company on a day-to-day basis",
@@ -727,6 +859,8 @@
     },
     {
         "id": "B3_Q5",
+        "moduleId": "BA4",
+        "syllabusSubArea": "B3",
         "questionText": "The purpose of an audit is to enhance the degree of confidence of the intended users in the financial statements. This statement is:",
         "options": [
             "True",
@@ -738,6 +872,8 @@
     },
     {
         "id": "B4_Q5",
+        "moduleId": "BA4",
+        "syllabusSubArea": "B4",
         "questionText": "Which of the following is an example of a fraud prevention measure?",
         "options": [
             "A fraud response plan",
@@ -749,6 +885,8 @@
     },
     {
         "id": "B5_Q4",
+        "moduleId": "BA4",
+        "syllabusSubArea": "B5",
         "questionText": "What is the risk that the auditor comes to an incorrect opinion?",
         "options": [
             "Planning risk",
@@ -760,6 +898,8 @@
     },
     {
         "id": "B6_Q4",
+        "moduleId": "BA4",
+        "syllabusSubArea": "B6",
         "questionText": "The 'apply and explain' governance framework is a feature of which code?",
         "options": [
             "Sarbanes-Oxley Act (USA)",
@@ -771,6 +911,8 @@
     },
     {
         "id": "C1_Q5",
+        "moduleId": "BA4",
+        "syllabusSubArea": "C1",
         "questionText": "The 'postal rule' in contract law states that acceptance is effective when:",
         "options": [
             "The letter of acceptance is received",
@@ -782,6 +924,8 @@
     },
     {
         "id": "C2_Q5",
+        "moduleId": "BA4",
+        "syllabusSubArea": "C2",
         "questionText": "Which of the following statements about express terms is correct?",
         "options": [
             "An express term can be written or oral.",
@@ -793,6 +937,8 @@
     },
     {
         "id": "C3_Q5",
+        "moduleId": "BA4",
+        "syllabusSubArea": "C3",
         "questionText": "Which document contains the internal rules for the management and administration of a company?",
         "options": [
             "The Memorandum of Association",
@@ -804,6 +950,8 @@
     },
     {
         "id": "C4_Q4",
+        "moduleId": "BA4",
+        "syllabusSubArea": "C4",
         "questionText": "Legislation that protects employees who disclose information about malpractice at their workplace is known as:",
         "options": [
             "Data Protection Law",
@@ -815,6 +963,8 @@
     },
     {
         "id": "C5_Q5",
+        "moduleId": "BA4",
+        "syllabusSubArea": "C5",
         "questionText": "Which of the following is NOT a consequence of a company having separate legal personality?",
         "options": [
             "It can own its own property",
@@ -826,6 +976,8 @@
     },
     {
         "id": "A1_Q7",
+        "moduleId": "BA4",
+        "syllabusSubArea": "A1",
         "questionText": "Complying with relevant laws and regulations is a key part of which fundamental principle?",
         "options": [
             "Integrity",
@@ -837,6 +989,8 @@
     },
     {
         "id": "A2_Q7",
+        "moduleId": "BA4",
+        "syllabusSubArea": "A2",
         "questionText": "An accountant preparing a tax return for a close family member may face which primary threat?",
         "options": [
             "Intimidation",
@@ -848,6 +1002,8 @@
     },
     {
         "id": "A3_Q7",
+        "moduleId": "BA4",
+        "syllabusSubArea": "A3",
         "questionText": "An ethical approach that focuses on the consequences of an action to determine if it is right or wrong ('the greatest good for the greatest number') is known as:",
         "options": [
             "Deontology",
@@ -859,6 +1015,8 @@
     },
     {
         "id": "A4_Q6",
+        "moduleId": "BA4",
+        "syllabusSubArea": "A4",
         "questionText": "An accountant discovers their employer is engaging in illegal tax evasion. They report this to the relevant authorities as required by law. This action is:",
         "options": [
             "A breach of confidentiality",
@@ -870,6 +1028,8 @@
     },
     {
         "id": "B1_Q6",
+        "moduleId": "BA4",
+        "syllabusSubArea": "B1",
         "questionText": "Which of the following is a cost associated with the agency problem?",
         "options": [
             "Directors' salaries",
@@ -881,6 +1041,8 @@
     },
     {
         "id": "B2_Q6",
+        "moduleId": "BA4",
+        "syllabusSubArea": "B2",
         "questionText": "A director's duty to act in good faith and in the best interests of the company is known as their:",
         "options": [
             "Statutory duty",
@@ -892,6 +1054,8 @@
     },
     {
         "id": "B3_Q6",
+        "moduleId": "BA4",
+        "syllabusSubArea": "B3",
         "questionText": "The report produced by an external auditor at the end of their audit is addressed to the:",
         "options": [
             "Government",
@@ -903,6 +1067,8 @@
     },
     {
         "id": "B4_Q6",
+        "moduleId": "BA4",
+        "syllabusSubArea": "B4",
         "questionText": "An employee intentionally creates fictitious invoices and pays them into their own bank account. This is an example of:",
         "options": [
             "An error of principle",
@@ -914,6 +1080,8 @@
     },
     {
         "id": "B5_Q5",
+        "moduleId": "BA4",
+        "syllabusSubArea": "B5",
         "questionText": "Which of the following would NOT be a reason for outsourcing the internal audit function?",
         "options": [
             "Access to specialist skills",
@@ -925,6 +1093,8 @@
     },
     {
         "id": "B6_Q5",
+        "moduleId": "BA4",
+        "syllabusSubArea": "B6",
         "questionText": "The 'comply or explain' approach is a key feature of which type of corporate governance framework?",
         "options": [
             "Rules-based",
@@ -936,6 +1106,8 @@
     },
     {
         "id": "C1_Q6",
+        "moduleId": "BA4",
+        "syllabusSubArea": "C1",
         "questionText": "A contract which has terms that are illegal is considered:",
         "options": [
             "Void",
@@ -947,6 +1119,8 @@
     },
     {
         "id": "C2_Q6",
+        "moduleId": "BA4",
+        "syllabusSubArea": "C2",
         "questionText": "In employment law, what is vicarious liability?",
         "options": [
             "The employee is liable for the employer's actions",
@@ -958,6 +1132,8 @@
     },
     {
         "id": "C3_Q6",
+        "moduleId": "BA4",
+        "syllabusSubArea": "C3",
         "questionText": "What is the primary purpose of a 'whistleblowing' policy?",
         "options": [
             "To discipline employees who complain",
@@ -969,6 +1145,8 @@
     },
     {
         "id": "C4_Q5",
+        "moduleId": "BA4",
+        "syllabusSubArea": "C4",
         "questionText": "Treating an employee less favourably because of their gender is an example of:",
         "options": [
             "Indirect discrimination",
@@ -980,6 +1158,8 @@
     },
     {
         "id": "C5_Q6",
+        "moduleId": "BA4",
+        "syllabusSubArea": "C5",
         "questionText": "In a partnership, the partners generally have:",
         "options": [
             "No liability for business debts",
@@ -991,6 +1171,8 @@
     },
     {
         "id": "A1_Q8",
+        "moduleId": "BA4",
+        "syllabusSubArea": "A1",
         "questionText": "The 'public interest' in the context of professional accountancy refers to:",
         "options": [
             "The interests of the government",
@@ -1002,6 +1184,8 @@
     },
     {
         "id": "B2_Q7",
+        "moduleId": "BA4",
+        "syllabusSubArea": "B2",
         "questionText": "Which board committee should, according to best practice, be comprised entirely of independent non-executive directors?",
         "options": [
             "Audit Committee only",
@@ -1013,6 +1197,8 @@
     },
     {
         "id": "C2_Q7",
+        "moduleId": "BA4",
+        "syllabusSubArea": "C2",
         "questionText": "Which of the following is valid consideration?",
         "options": [
             "Executory consideration",
@@ -1024,6 +1210,8 @@
     },
     {
         "id": "C3_Q7",
+        "moduleId": "BA4",
+        "syllabusSubArea": "C3",
         "questionText": "Which of the following would not terminate an offer?",
         "options": [
             "Counter offer",
@@ -1035,6 +1223,8 @@
     },
     {
         "id": "A2_Q8",
+        "moduleId": "BA4",
+        "syllabusSubArea": "A2",
         "questionText": "Which of the following is a potential safeguard against a self-interest threat?",
         "options": [
             "Promoting the client's shares",
@@ -1046,6 +1236,8 @@
     },
     {
         "id": "A3_Q8",
+        "moduleId": "BA4",
+        "syllabusSubArea": "A3",
         "questionText": "A 'compliance-based' approach to ethics is another term for which type of framework?",
         "options": [
             "Principles-based",
@@ -1057,6 +1249,8 @@
     },
     {
         "id": "A4_Q7",
+        "moduleId": "BA4",
+        "syllabusSubArea": "A4",
         "questionText": "If an accountant has exhausted all internal procedures for an ethical conflict, their next step might be to:",
         "options": [
             "Alert the media immediately",
@@ -1068,6 +1262,8 @@
     },
     {
         "id": "B1_Q7",
+        "moduleId": "BA4",
+        "syllabusSubArea": "B1",
         "questionText": "Which theory of corporate governance focuses on the directors' duty to take good care of the resources entrusted to them?",
         "options": [
             "Agency Theory",
@@ -1079,6 +1275,8 @@
     },
     {
         "id": "B2_Q7",
+        "moduleId": "BA4",
+        "syllabusSubArea": "B2",
         "questionText": "The main purpose of a nominations committee is to:",
         "options": [
             "Set director's pay",
@@ -1090,6 +1288,8 @@
     },
     {
         "id": "B3_Q7",
+        "moduleId": "BA4",
+        "syllabusSubArea": "B3",
         "questionText": "Who appoints the external auditors of a company?",
         "options": [
             "The board of directors",
@@ -1101,6 +1301,8 @@
     },
     {
         "id": "B4_Q7",
+        "moduleId": "BA4",
+        "syllabusSubArea": "B4",
         "questionText": "The Sarbanes-Oxley Act is an example of which approach to corporate governance?",
         "options": [
             "Principles-based",
@@ -1112,6 +1314,8 @@
     },
     {
         "id": "B5_Q6",
+        "moduleId": "BA4",
+        "syllabusSubArea": "B5",
         "questionText": "The three elements of an assurance engagement are:",
         "options": [
             "Auditor, Director, Company",
@@ -1123,6 +1327,8 @@
     },
     {
         "id": "B6_Q6",
+        "moduleId": "BA4",
+        "syllabusSubArea": "B6",
         "questionText": "According to Mendelow's matrix, stakeholders with high power and high interest should be:",
         "options": [
             "Kept informed",
@@ -1134,6 +1340,8 @@
     },
     {
         "id": "C1_Q7",
+        "moduleId": "BA4",
+        "syllabusSubArea": "C1",
         "questionText": "In a social or domestic agreement, what is the general presumption regarding the intention to create legal relations?",
         "options": [
             "It is presumed there is an intention",
@@ -1145,6 +1353,8 @@
     },
     {
         "id": "C2_Q7",
+        "moduleId": "BA4",
+        "syllabusSubArea": "C2",
         "questionText": "An employee has an implied duty to obey their employer's orders, provided the orders are:",
         "options": [
             "Profitable and efficient",
@@ -1156,6 +1366,8 @@
     },
     {
         "id": "C3_Q7",
+        "moduleId": "BA4",
+        "syllabusSubArea": "C3",
         "questionText": "A dismissal for 'capability' would be considered a fair reason for dismissal if:",
         "options": [
             "The employee is disliked by their manager",
@@ -1167,6 +1379,8 @@
     },
     {
         "id": "C4_Q6",
+        "moduleId": "BA4",
+        "syllabusSubArea": "C4",
         "questionText": "Disclosing information about a criminal offence happening at your workplace is an example of a:",
         "options": [
             "Personal grievance",
@@ -1178,6 +1392,8 @@
     },
     {
         "id": "C5_Q7",
+        "moduleId": "BA4",
+        "syllabusSubArea": "C5",
         "questionText": "A key feature of a general partnership is that the partners have:",
         "options": [
             "Limited liability",
@@ -1189,6 +1405,8 @@
     },
     {
         "id": "A1_Q9",
+        "moduleId": "BA4",
+        "syllabusSubArea": "A1",
         "questionText": "A 'cooling-off' period, allowing a consumer to cancel a contract shortly after signing, is a feature designed to protect consumers in what type of contract?",
         "options": [
             "Standard form contracts",
@@ -1200,6 +1418,8 @@
     },
     {
         "id": "A2_Q9",
+        "moduleId": "BA4",
+        "syllabusSubArea": "A2",
         "questionText": "An accountant is asked to prepare a business valuation for a company in which their spouse is a major shareholder. This creates a significant:",
         "options": [
             "Self-review threat",
@@ -1211,6 +1431,8 @@
     },
     {
         "id": "A3_Q9",
+        "moduleId": "BA4",
+        "syllabusSubArea": "A3",
         "questionText": "The idea that ethics and integrity are fundamental to the role of all finance professionals is a key part of which CIMA skill?",
         "options": [
             "Business awareness",
@@ -1222,6 +1444,8 @@
     },
     {
         "id": "A4_Q8",
+        "moduleId": "BA4",
+        "syllabusSubArea": "A4",
         "questionText": "If an accountant follows their employer's unethical instructions, who can they be held accountable to?",
         "options": [
             "Only their employer",
@@ -1233,6 +1457,8 @@
     },
     {
         "id": "B1_Q8",
+        "moduleId": "BA4",
+        "syllabusSubArea": "B1",
         "questionText": "Which of the following is NOT one of the OECD Principles of Corporate Governance?",
         "options": [
             "The rights and equitable treatment of shareholders",
@@ -1244,6 +1470,8 @@
     },
     {
         "id": "B2_Q8",
+        "moduleId": "BA4",
+        "syllabusSubArea": "B2",
         "questionText": "Which type of director is responsible for the day-to-day management of the company?",
         "options": [
             "Non-Executive Director",
@@ -1255,6 +1483,8 @@
     },
     {
         "id": "B3_Q8",
+        "moduleId": "BA4",
+        "syllabusSubArea": "B3",
         "questionText": "Which of the following is NOT a typical role of an internal audit department?",
         "options": [
             "Reviewing compliance with laws and regulations",
@@ -1266,6 +1496,8 @@
     },
     {
         "id": "B4_Q8",
+        "moduleId": "BA4",
+        "syllabusSubArea": "B4",
         "questionText": "Which of the following best describes 'teeming and lading'?",
         "options": [
             "Falsifying expense claims",
@@ -1277,6 +1509,8 @@
     },
     {
         "id": "B5_Q7",
+        "moduleId": "BA4",
+        "syllabusSubArea": "B5",
         "questionText": "What does a 'true and fair view' mean in the context of an external audit?",
         "options": [
             "The financial statements are 100% accurate",
@@ -1288,6 +1522,8 @@
     },
     {
         "id": "B6_Q7",
+        "moduleId": "BA4",
+        "syllabusSubArea": "B6",
         "questionText": "An organisation that does not have profit as its primary goal and is not directly linked to the government is known as a(n):",
         "options": [
             "Public Sector Organisation",
@@ -1299,6 +1535,8 @@
     },
     {
         "id": "C1_Q8",
+        "moduleId": "BA4",
+        "syllabusSubArea": "C1",
         "questionText": "If an offer is terminated by the offeror before it is accepted, this is known as:",
         "options": [
             "Rejection",
@@ -1310,6 +1548,8 @@
     },
     {
         "id": "C2_Q8",
+        "moduleId": "BA4",
+        "syllabusSubArea": "C2",
         "questionText": "A company policy states that all employees must be over 6 feet tall, which disadvantages female applicants. This is an example of:",
         "options": [
             "Direct discrimination",
@@ -1321,6 +1561,8 @@
     },
     {
         "id": "C3_Q8",
+        "moduleId": "BA4",
+        "syllabusSubArea": "C3",
         "questionText": "A dismissal will be automatically unfair if it is for which of the following reasons?",
         "options": [
             "Poor performance",
@@ -1332,6 +1574,8 @@
     },
     {
         "id": "C4_Q7",
+        "moduleId": "BA4",
+        "syllabusSubArea": "C4",
         "questionText": "The process of obscuring the origins of illegally obtained money by passing it through complex transactions is known as:",
         "options": [
             "Placement",
@@ -1343,6 +1587,8 @@
     },
     {
         "id": "C5_Q8",
+        "moduleId": "BA4",
+        "syllabusSubArea": "C5",
         "questionText": "In the UK, what letters must follow the name of a public limited company?",
         "options": [
             "Ltd",
@@ -1354,6 +1600,8 @@
     },
     {
         "id": "A1_Q10",
+        "moduleId": "BA4",
+        "syllabusSubArea": "A1",
         "questionText": "The CIMA Code of Ethics applies to:",
         "options": [
             "Only qualified CIMA members",
@@ -1365,6 +1613,8 @@
     },
     {
         "id": "A2_Q10",
+        "moduleId": "BA4",
+        "syllabusSubArea": "A2",
         "questionText": "What is the primary purpose of safeguards in the context of professional ethics?",
         "options": [
             "To punish unethical behaviour",
@@ -1376,6 +1626,8 @@
     },
     {
         "id": "B1_Q9",
+        "moduleId": "BA4",
+        "syllabusSubArea": "B1",
         "questionText": "A public sector organisation is primarily controlled by:",
         "options": [
             "Private individuals",
@@ -1387,6 +1639,8 @@
     },
     {
         "id": "B2_Q9",
+        "moduleId": "BA4",
+        "syllabusSubArea": "B2",
         "questionText": "Which concept describes a relationship of 'good faith', such as that between directors and shareholders?",
         "options": [
             "Fiduciary relationship",
@@ -1398,6 +1652,8 @@
     },
     {
         "id": "B3_Q9",
+        "moduleId": "BA4",
+        "syllabusSubArea": "B3",
         "questionText": "An audit plan is best described as:",
         "options": [
             "The overall scope and direction of the audit",
@@ -1409,6 +1665,8 @@
     },
     {
         "id": "B4_Q9",
+        "moduleId": "BA4",
+        "syllabusSubArea": "B4",
         "questionText": "Segregation of duties is a key internal control designed to:",
         "options": [
             "Ensure all transactions are profitable",
@@ -1420,6 +1678,8 @@
     },
     {
         "id": "B5_Q8",
+        "moduleId": "BA4",
+        "syllabusSubArea": "B5",
         "questionText": "A document provided by management to the auditor to confirm certain matters or support other evidence is a:",
         "options": [
             "Management letter",
@@ -1431,6 +1691,8 @@
     },
     {
         "id": "B6_Q8",
+        "moduleId": "BA4",
+        "syllabusSubArea": "B6",
         "questionText": "A business that aims to maximise benefit to its beneficiaries rather than owner wealth is known as a:",
         "options": [
             "Profit orientated organisation",
@@ -1442,6 +1704,8 @@
     },
     {
         "id": "C1_Q9",
+        "moduleId": "BA4",
+        "syllabusSubArea": "C1",
         "questionText": "A contract for the sale of land must generally be:",
         "options": [
             "Made verbally",
@@ -1453,6 +1717,8 @@
     },
     {
         "id": "C2_Q9",
+        "moduleId": "BA4",
+        "syllabusSubArea": "C2",
         "questionText": "An employer's responsibility to provide a safe system of work and competent fellow employees falls under which duty?",
         "options": [
             "Duty to pay remuneration",
@@ -1464,6 +1730,8 @@
     },
     {
         "id": "C3_Q9",
+        "moduleId": "BA4",
+        "syllabusSubArea": "C3",
         "questionText": "Dismissal of an employee during a genuine business closure is likely to be considered a dismissal for the reason of:",
         "options": [
             "Capability",
@@ -1475,6 +1743,8 @@
     },
     {
         "id": "C4_Q8",
+        "moduleId": "BA4",
+        "syllabusSubArea": "C4",
         "questionText": "A 'qualifying disclosure' under whistleblowing law refers to:",
         "options": [
             "Disclosing information of the right type, such as a criminal offence",
@@ -1486,6 +1756,8 @@
     },
     {
         "id": "C5_Q9",
+        "moduleId": "BA4",
+        "syllabusSubArea": "C5",
         "questionText": "The internal rules governing how a company is run, such as the procedure for board meetings, are set out in the:",
         "options": [
             "Certificate of Incorporation",
@@ -1497,6 +1769,8 @@
     },
     {
         "id": "A1_Q11",
+        "moduleId": "BA4",
+        "syllabusSubArea": "A1",
         "questionText": "An accountant refusing to be associated with misleading information is upholding the principle of:",
         "options": [
             "Confidentiality",
@@ -1508,6 +1782,8 @@
     },
     {
         "id": "A2_Q11",
+        "moduleId": "BA4",
+        "syllabusSubArea": "A2",
         "questionText": "A 'familiarity threat' is most likely to arise from:",
         "options": [
             "A one-off, high-value transaction",
@@ -1519,6 +1795,8 @@
     },
     {
         "id": "B1_Q10",
+        "moduleId": "BA4",
+        "syllabusSubArea": "B1",
         "questionText": "What is the primary objective of a not-for-profit organisation?",
         "options": [
             "To maximise shareholder wealth",
@@ -1530,6 +1808,8 @@
     },
     {
         "id": "B2_Q10",
+        "moduleId": "BA4",
+        "syllabusSubArea": "B2",
         "questionText": "The responsibility for establishing and maintaining a sound system of internal control rests with the:",
         "options": [
             "External auditors",
@@ -1541,6 +1821,8 @@
     },
     {
         "id": "B3_Q10",
+        "moduleId": "BA4",
+        "syllabusSubArea": "B3",
         "questionText": "If an auditor concludes that financial statements are materially misstated, they will issue a(n):",
         "options": [
             "Unmodified opinion",
@@ -1552,6 +1834,8 @@
     },
     {
         "id": "B4_Q10",
+        "moduleId": "BA4",
+        "syllabusSubArea": "B4",
         "questionText": "An 'anti-fraud culture' within an organisation is an example of:",
         "options": [
             "Fraud detection",
@@ -1563,6 +1847,8 @@
     },
     {
         "id": "B5_Q9",
+        "moduleId": "BA4",
+        "syllabusSubArea": "B5",
         "questionText": "Which of the following is a key limitation of an audit?",
         "options": [
             "Auditors prepare the financial statements",
@@ -1574,6 +1860,8 @@
     },
     {
         "id": "B6_Q9",
+        "moduleId": "BA4",
+        "syllabusSubArea": "B6",
         "questionText": "Which international organisation developed a set of principles for corporate governance to serve as a global benchmark?",
         "options": [
             "IFAC",
@@ -1585,6 +1873,8 @@
     },
     {
         "id": "C1_Q10",
+        "moduleId": "BA4",
+        "syllabusSubArea": "C1",
         "questionText": "In contract law, the 'postal rule' is an exception to the general rule of:",
         "options": [
             "Offer",
@@ -1596,6 +1886,8 @@
     },
     {
         "id": "C2_Q10",
+        "moduleId": "BA4",
+        "syllabusSubArea": "C2",
         "questionText": "What is the primary remedy for an employee who has been wrongfully dismissed?",
         "options": [
             "Reinstatement",
@@ -1607,6 +1899,8 @@
     },
     {
         "id": "C3_Q10",
+        "moduleId": "BA4",
+        "syllabusSubArea": "C3",
         "questionText": "If a company continues to operate even after all its original shareholders have died, this is due to the principle of:",
         "options": [
             "Limited liability",
@@ -1618,6 +1912,8 @@
     },
     {
         "id": "C4_Q9",
+        "moduleId": "BA4",
+        "syllabusSubArea": "C4",
         "questionText": "Giving a small payment to a government official to speed up a routine process is known as a(n):",
         "options": [
             "Bribe",
@@ -1629,6 +1925,8 @@
     },
     {
         "id": "C5_Q10",
+        "moduleId": "BA4",
+        "syllabusSubArea": "C5",
         "questionText": "The legal case that enshrined the concept of separate legal personality was:",
         "options": [
             "Donoghue v Stevenson",
@@ -1640,6 +1938,8 @@
     },
     {
         "id": "A1_Q12",
+        "moduleId": "BA4",
+        "syllabusSubArea": "A1",
         "questionText": "The duty of confidentiality continues:",
         "options": [
             "For one year after employment ends",
@@ -1651,6 +1951,8 @@
     },
     {
         "id": "A2_Q12",
+        "moduleId": "BA4",
+        "syllabusSubArea": "A2",
         "questionText": "Which type of safeguard is a firm's internal disciplinary procedure?",
         "options": [
             "Safeguard created by the profession",
@@ -1662,6 +1964,8 @@
     },
     {
         "id": "B1_Q11",
+        "moduleId": "BA4",
+        "syllabusSubArea": "B1",
         "questionText": "A key purpose of corporate governance is to:",
         "options": [
             "Ensure daily operational targets are met",
@@ -1673,6 +1977,8 @@
     },
     {
         "id": "B2_Q11",
+        "moduleId": "BA4",
+        "syllabusSubArea": "B2",
         "questionText": "A non-executive director's independence could be impaired if they:",
         "options": [
             "Have been an employee of the company within the last five years",
@@ -1684,6 +1990,8 @@
     },
     {
         "id": "B3_Q11",
+        "moduleId": "BA4",
+        "syllabusSubArea": "B3",
         "questionText": "Audit risk is a combination of the risk of material misstatement and which other risk?",
         "options": [
             "Business risk",
@@ -1695,6 +2003,8 @@
     },
     {
         "id": "B4_Q11",
+        "moduleId": "BA4",
+        "syllabusSubArea": "B4",
         "questionText": "The responsibility for the prevention and detection of fraud rests with:",
         "options": [
             "The external auditors",
@@ -1706,6 +2016,8 @@
     },
     {
         "id": "B5_Q10",
+        "moduleId": "BA4",
+        "syllabusSubArea": "B5",
         "questionText": "What does a 'fair presentation' of financial statements mean?",
         "options": [
             "The financial statements are presented in a visually appealing way",
@@ -1717,6 +2029,8 @@
     },
     {
         "id": "B6_Q10",
+        "moduleId": "BA4",
+        "syllabusSubArea": "B6",
         "questionText": "Which stakeholder group is typically classified as 'internal'?",
         "options": [
             "Customers",
@@ -1728,6 +2042,8 @@
     },
     {
         "id": "C1_Q11",
+        "moduleId": "BA4",
+        "syllabusSubArea": "C1",
         "questionText": "A promise made after an act has been performed is known as:",
         "options": [
             "Executory consideration",
@@ -1739,6 +2055,8 @@
     },
     {
         "id": "C2_Q11",
+        "moduleId": "BA4",
+        "syllabusSubArea": "C2",
         "questionText": "What is the minimum number of directors required for a UK public limited company (plc)?",
         "options": [
             "One",
@@ -1750,6 +2068,8 @@
     },
     {
         "id": "C3_Q11",
+        "moduleId": "BA4",
+        "syllabusSubArea": "C3",
         "questionText": "Which of the following is NOT a potentially fair reason for dismissal?",
         "options": [
             "Redundancy",
@@ -1761,6 +2081,8 @@
     },
     {
         "id": "C4_Q10",
+        "moduleId": "BA4",
+        "syllabusSubArea": "C4",
         "questionText": "Which of the following is a key principle of data protection?",
         "options": [
             "Data should be kept indefinitely",
@@ -1772,6 +2094,8 @@
     },
     {
         "id": "C5_Q11",
+        "moduleId": "BA4",
+        "syllabusSubArea": "C5",
         "questionText": "Which business structure combines the features of a partnership with the limited liability of a company?",
         "options": [
             "Sole trader",
@@ -1783,6 +2107,8 @@
     },
     {
         "id": "A1_Q13",
+        "moduleId": "BA4",
+        "syllabusSubArea": "A1",
         "questionText": "An accountant spreading malicious rumours about a rival firm would be in breach of which principle?",
         "options": [
             "Integrity",
@@ -1794,6 +2120,8 @@
     },
     {
         "id": "A2_Q13",
+        "moduleId": "BA4",
+        "syllabusSubArea": "A2",
         "questionText": "Consulting an independent third party, such as CIMA, is an example of what?",
         "options": [
             "A self-review threat",
@@ -1805,6 +2133,8 @@
     },
     {
         "id": "B2_Q12",
+        "moduleId": "BA4",
+        "syllabusSubArea": "B2",
         "questionText": "What is the main advantage of a unitary board structure?",
         "options": [
             "It ensures complete independence of all directors",
@@ -1816,6 +2146,8 @@
     },
     {
         "id": "B4_Q12",
+        "moduleId": "BA4",
+        "syllabusSubArea": "B4",
         "questionText": "Which of the following is a control activity?",
         "options": [
             "Setting an ethical tone from the top",
@@ -1827,6 +2159,8 @@
     },
     {
         "id": "B6_Q11",
+        "moduleId": "BA4",
+        "syllabusSubArea": "B6",
         "questionText": "An organisation that is owned and democratically controlled by its members is a:",
         "options": [
             "Public company",
@@ -1838,6 +2172,8 @@
     },
     {
         "id": "C1_Q12",
+        "moduleId": "BA4",
+        "syllabusSubArea": "C1",
         "questionText": "For a contract to be legally binding, consideration must be:",
         "options": [
             "Sufficient but not necessarily adequate",
@@ -1849,6 +2185,8 @@
     },
     {
         "id": "C3_Q12",
+        "moduleId": "BA4",
+        "syllabusSubArea": "C3",
         "questionText": "A summary dismissal is a dismissal:",
         "options": [
             "With a very short notice period",
@@ -1860,6 +2198,8 @@
     },
     {
         "id": "C5_Q12",
+        "moduleId": "BA4",
+        "syllabusSubArea": "C5",
         "questionText": "The ability of a court to look past the separate legal personality of a company to hold its members liable is known as:",
         "options": [
             "Piercing the corporate shield",
@@ -1871,6 +2211,8 @@
     },
     {
         "id": "A2_Q14",
+        "moduleId": "BA4",
+        "syllabusSubArea": "A2",
         "questionText": "If a professional accountant has a financial interest in a business which could affect their judgement, this is a:",
         "options": [
             "Self-interest threat",
@@ -1882,6 +2224,8 @@
     },
     {
         "id": "B3_Q12",
+        "moduleId": "BA4",
+        "syllabusSubArea": "B3",
         "questionText": "Inherent risk and control risk combine to form the:",
         "options": [
             "Audit risk",
@@ -1893,6 +2237,8 @@
     },
     {
         "id": "B5_Q11",
+        "moduleId": "BA4",
+        "syllabusSubArea": "B5",
         "questionText": "Which party in an assurance engagement is responsible for the subject matter?",
         "options": [
             "The practitioner",
@@ -1904,6 +2250,8 @@
     },
     {
         "id": "C2_Q12",
+        "moduleId": "BA4",
+        "syllabusSubArea": "C2",
         "questionText": "Which of the following is NOT an implied duty of an employee?",
         "options": [
             "To obey lawful orders",
@@ -1915,6 +2263,8 @@
     },
     {
         "id": "C4_Q11",
+        "moduleId": "BA4",
+        "syllabusSubArea": "C4",
         "questionText": "The final stage of money laundering, where funds are made to reappear as legitimate, is called:",
         "options": [
             "Placement",
@@ -1923,5 +2273,369 @@
             "Structuring"
         ],
         "correctAnswerIndex": 2
+    },
+    {
+        "id": "C2_Supp_Q1",
+        "moduleId": "P2",
+        "syllabusSubArea": "C2",
+        "questionText": "Which ONE of the following statements on the advantages of cost-plus pricing is true?",
+        "options": [
+            "Cost-plus pricing takes account of price elasticity of demand.",
+            "Cost-plus pricing is useful in contracting industries.",
+            "By setting prices based on expected volumes, the company can be sure of recovering all production overheads.",
+            "Cost-plus pricing provides flexibility during the different stages of a product’s life cycle."
+        ],
+        "correctAnswerIndex": 1
+    },
+    {
+        "id": "C2_Supp_Q2",
+        "moduleId": "P2",
+        "syllabusSubArea": "C2",
+        "questionText": "The B5 phone will be priced high initially as the research and development costs involved in making it need to be recovered. This is an example of which pricing strategy?",
+        "options": [
+            "Premium pricing",
+            "Market skimming",
+            "Penetration pricing",
+            "Loss leader pricing"
+        ],
+        "correctAnswerIndex": 1
+    },
+    {
+        "id": "C3_Supp_Q1",
+        "moduleId": "P2",
+        "syllabusSubArea": "C3",
+        "questionText": "A vehicle manufacturing company has three managers. Manager A is responsible for the residual income of the vans division. Manager B is responsible for the net profit margin of the commercial leasing team. Manager C is responsible for controlling spending in the factory maintenance department. What are their respective responsibility centres?",
+        "options": [
+            "A: Investment, B: Profit, C: Cost",
+            "A: Profit, B: Investment, C: Cost",
+            "A: Investment, B: Cost, C: Profit",
+            "A: Cost, B: Profit, C: Investment"
+        ],
+        "correctAnswerIndex": 0
+    },
+    {
+        "id": "C3_Supp_Q2",
+        "moduleId": "P2",
+        "syllabusSubArea": "C3",
+        "questionText": "The financial performance of IRS Ltd for 2014 and 2015 is shown below:\n\n| | 2014 | 2015 |\n|---|---|---|\n| Sales revenue | $38,000 | $42,000 |\n| Profit | $12,000 | $12,500 |\n| Capital employed | $72,000 | $86,000 |\n\nWhich ONE of the following statements is correct?",
+        "options": [
+            "The profit has increased from 2014 to 2015 as has the profit margin.",
+            "The profit margin has fallen from 2014 to 2015 as has the Return on Capital Employed.",
+            "The improvement in asset turnover from 2014 to 2015 counterbalances the drop in profit margin.",
+            "The Return on Capital Employed can be calculated by dividing the profit margin by the asset turnover."
+        ],
+        "correctAnswerIndex": 1
+    },
+    {
+        "id": "C3_Supp_Q3",
+        "moduleId": "P2",
+        "syllabusSubArea": "C3",
+        "questionText": "Division X has a current ROI of 25%. It is considering a new project with an ROI of 20%. The company's required ROI is 18%. From the perspective of the company as a whole, should the project be accepted?",
+        "options": [
+            "Yes, because its ROI of 20% is above the company's required return of 18%.",
+            "No, because its ROI of 20% is below the division's current ROI of 25%.",
+            "Yes, because it increases overall profit.",
+            "No, because it reduces the division's ROI."
+        ],
+        "correctAnswerIndex": 0
+    },
+    {
+        "id": "C3_Supp_Q4",
+        "moduleId": "P2",
+        "syllabusSubArea": "C3",
+        "questionText": "The following data relate to four divisions. Using residual income with a 15% cost of capital, which division appears most successful?\n\n| | Profit ($000) | Net Assets ($000) |\n|---|---|---|\n| A | 320 | 1,600 |\n| B | 400 | 2,500 |\n| C | 250 | 1,300 |\n| D | 80 | 320 |\n",
+        "options": [
+            "Division A",
+            "Division B",
+            "Division C",
+            "Division D"
+        ],
+        "correctAnswerIndex": 0
+    },
+    {
+        "id": "C3_Supp_Q5",
+        "moduleId": "P2",
+        "syllabusSubArea": "C3",
+        "questionText": "In a Balanced Scorecard, which perspective would 'Revenue growth' and 'ROCE' fall under?",
+        "options": [
+            "Financial",
+            "Customer",
+            "Internal Business Process",
+            "Learning and Growth"
+        ],
+        "correctAnswerIndex": 0
+    },
+    {
+        "id": "C3_Supp_Q6",
+        "moduleId": "P2",
+        "syllabusSubArea": "C3",
+        "questionText": "A company uses published league tables of its competitors to assess its own performance on metrics like energy produced and installation efficiency. This is an example of which type of benchmarking?",
+        "options": [
+            "Internal",
+            "Historic",
+            "Competitive",
+            "Generic"
+        ],
+        "correctAnswerIndex": 2
+    },
+    {
+        "id": "C4_Supp_Q1",
+        "moduleId": "P2",
+        "syllabusSubArea": "C4",
+        "questionText": "Division H is at full capacity and can sell its product, the widget, externally for $78. The variable cost is $62. Division J wishes to buy the widget internally and can source it externally for $85. What is the minimum transfer price Division H should accept to ensure goal congruence?",
+        "options": [
+            "$62",
+            "$78",
+            "$81",
+            "$85"
+        ],
+        "correctAnswerIndex": 1
+    },
+    {
+        "id": "C4_Supp_Q2",
+        "moduleId": "P2",
+        "syllabusSubArea": "C4",
+        "questionText": "Division Able operates at full capacity. It can sell Product X externally for $42 (variable cost $32). Alternatively, it can make Product Y (variable cost $35) to sell to Division Baker. Baker can buy Product Y externally for $38. What is the optimal transfer price for Product Y?",
+        "options": [
+            "$35",
+            "$38",
+            "$42",
+            "$45"
+        ],
+        "correctAnswerIndex": 3
+    },
+    {
+        "id": "C4_Supp_Q3",
+        "moduleId": "P2",
+        "syllabusSubArea": "C4",
+        "questionText": "A UK holding company wishes to transfer profits from its UK division to an overseas subsidiary in a lower-tax country. To achieve this, how should it set the transfer price for goods shipped FROM the overseas subsidiary TO the UK?",
+        "options": [
+            "Set a high transfer price",
+            "Set a low transfer price",
+            "Set the transfer price equal to marginal cost",
+            "Transfer pricing does not affect profit location"
+        ],
+        "correctAnswerIndex": 0
+    },
+    {
+        "id": "D1_Supp_Q1",
+        "moduleId": "P2",
+        "syllabusSubArea": "D1",
+        "questionText": "Which of the following is NOT a disadvantage of using Expected Value techniques?",
+        "options": [
+            "Probabilities are often subjective.",
+            "It is not meaningful for one-off projects.",
+            "It ignores the decision-maker's attitude to risk.",
+            "It takes risk into account by weighting outcomes."
+        ],
+        "correctAnswerIndex": 3
+    },
+    {
+        "id": "D1_Supp_Q2",
+        "moduleId": "P2",
+        "syllabusSubArea": "D1",
+        "questionText": "A caterer expects to sell 2,000 meals if it is rainy (0.4 probability) and 800 meals if it is sunny (0.6 probability). What is the expected value of meals to be sold?",
+        "options": [
+            "1,280",
+            "1,400",
+            "2,000",
+            "800"
+        ],
+        "correctAnswerIndex": 0
+    },
+    {
+        "id": "D1_Supp_Q3",
+        "moduleId": "P2",
+        "syllabusSubArea": "D1",
+        "questionText": "A baker has a payoff table for daily profits. Using a maximin criterion, which production level should be chosen?\n\n| Demand | Bake 20 | Bake 30 | Bake 40 |\n|---|---|---|---|\n| 20 | $400 | $140 | $(140) |\n| 30 | $400 | $600 | $300 |\n| 40 | $400 | $600 | $800 |\n",
+        "options": [
+            "20",
+            "30",
+            "40",
+            "50"
+        ],
+        "correctAnswerIndex": 0
+    },
+    {
+        "id": "D1_Supp_Q4",
+        "moduleId": "P2",
+        "syllabusSubArea": "D1",
+        "questionText": "Which of the following would be considered by an investor who is risk averse?",
+        "options": [
+            "The overall expected value from the decision.",
+            "The standard deviation of the data.",
+            "The potential maximax value of the outcomes.",
+            "The normal distribution of the data."
+        ],
+        "correctAnswerIndex": 1
+    },
+    {
+        "id": "D1_Supp_Q5",
+        "moduleId": "P2",
+        "syllabusSubArea": "D1",
+        "questionText": "On a decision tree, if a decision is taken to 'Invest' for $8k, there is an 80% chance of a $40k payoff and a 20% chance of a $5k payoff. What is the expected value of the 'Invest' decision?",
+        "options": [
+            "$10,000",
+            "$25,000",
+            "$33,000",
+            "$45,000"
+        ],
+        "correctAnswerIndex": 1
+    },
+    {
+        "id": "D1_Supp_Q6",
+        "moduleId": "P2",
+        "syllabusSubArea": "D1",
+        "questionText": "From the payoff table, what is the regret at Point X (producing 20 units when demand is 40)?\n\n| Demand | Production 20 | Production 40 |\n|---|---|---|\n| 40 | $7,500 | $9,000 |\n",
+        "options": [
+            "$300",
+            "$600",
+            "$750",
+            "$1,500"
+        ],
+        "correctAnswerIndex": 3
+    },
+    {
+        "id": "D1_Supp_Q7",
+        "moduleId": "P2",
+        "syllabusSubArea": "D1",
+        "questionText": "Which TWO of the following statements are true?",
+        "options": [
+            "As standard deviation increases, risk decreases.",
+            "Perfect information is always correct.",
+            "A risk neutral investor typically makes decisions based on expected value.",
+            "Imperfect information has no value."
+        ],
+        "correctAnswerIndex": 1
+    },
+    {
+        "id": "D1_Supp_Q8",
+        "moduleId": "P2",
+        "syllabusSubArea": "D1",
+        "questionText": "A salon can open in Area 1 (EV $42k) or Area 2 (EV $47k). With perfect information, the EV of the decision becomes $69k. What is the maximum the salon should pay for this perfect information?",
+        "options": [
+            "$27,000",
+            "$22,000",
+            "$47,000",
+            "$69,000"
+        ],
+        "correctAnswerIndex": 1
+    },
+    {
+        "id": "D1_Supp_Q9",
+        "moduleId": "P2",
+        "syllabusSubArea": "D1",
+        "questionText": "A business has two investment options, A (EV $74k) and B (EV $78k). With perfect information on the state of the economy, the EV of the decision rises to $80k. What is the value of this perfect information?",
+        "options": [
+            "$2,000",
+            "$3,200",
+            "$4,000",
+            "$6,000"
+        ],
+        "correctAnswerIndex": 0
+    },
+    {
+        "id": "D1_Supp_Q10",
+        "moduleId": "P2",
+        "syllabusSubArea": "D1",
+        "questionText": "A company averages sales of 100,000 units/week. Rivals may run a promotion, reducing sales by 20%. There is a 40% chance of a promotion in week 3 only. What is the total estimated sales volume for the next 4-week period?",
+        "options": [
+            "400,000 units",
+            "380,000 units",
+            "392,000 units",
+            "320,000 units"
+        ],
+        "correctAnswerIndex": 2
+    },
+    {
+        "id": "D2_Supp_Q1",
+        "moduleId": "P2",
+        "syllabusSubArea": "D2",
+        "questionText": "Which term describes the amount of risk an organisation is willing to accept in pursuit of value?",
+        "options": [
+            "Risk capacity",
+            "Risk attitude",
+            "Risk appetite",
+            "Risk strategy"
+        ],
+        "correctAnswerIndex": 2
+    },
+    {
+        "id": "D2_Supp_Q2",
+        "moduleId": "P2",
+        "syllabusSubArea": "D2",
+        "questionText": "A company has decided to abandon its operations in a politically volatile country where the risks are considered too great. Using the TARA framework, what is this an example of?",
+        "options": [
+            "Acceptance",
+            "Transference",
+            "Avoidance",
+            "Reduction"
+        ],
+        "correctAnswerIndex": 2
+    },
+    {
+        "id": "D2_Supp_Q3",
+        "moduleId": "P2",
+        "syllabusSubArea": "D2",
+        "questionText": "A company continues to sell a highly profitable product despite facing some compensation claims from product failures, believing the returns are worth the liabilities. Using the TARA framework, what is this an example of?",
+        "options": [
+            "A risk acceptance strategy",
+            "A risk transference strategy",
+            "A risk avoidance strategy",
+            "A risk reduction strategy"
+        ],
+        "correctAnswerIndex": 0
+    },
+    {
+        "id": "D2_Supp_Q4",
+        "moduleId": "P2",
+        "syllabusSubArea": "D2",
+        "questionText": "Risk Appetite is determined by which two factors?",
+        "options": [
+            "Risk attitude and risk awareness",
+            "Risk attitude and risk capacity",
+            "Risk strategy and risk awareness",
+            "Risk attitude and residual risk"
+        ],
+        "correctAnswerIndex": 1
+    },
+    {
+        "id": "D2_Supp_Q5",
+        "moduleId": "P2",
+        "syllabusSubArea": "D2",
+        "questionText": "The four strategies in the TARA framework do NOT include:",
+        "options": [
+            "Transference",
+            "Approving",
+            "Avoiding",
+            "Accepting"
+        ],
+        "correctAnswerIndex": 1
+    },
+    {
+        "id": "D2_Supp_Q6",
+        "moduleId": "P2",
+        "syllabusSubArea": "D2",
+        "questionText": "Which of the following statements concerning Big Data is correct?",
+        "options": [
+            "Big Data is always structured and stored in consistent formats.",
+            "There is a heightened risk of inaccuracy with Big Data because of the number of different sources.",
+            "Relationships identified by analysing Big Data always have organisational value.",
+            "Big Data refers to any data storage in excess of one petabyte."
+        ],
+        "correctAnswerIndex": 1
+    },
+    {
+        "id": "D2_Supp_Q7",
+        "moduleId": "P2",
+        "syllabusSubArea": "D2",
+        "questionText": "The fact that 400 million tweets are sent every day by 200 million users best illustrates which of the four V's of Big Data?",
+        "options": [
+            "Variety",
+            "Volume",
+            "Veracity",
+            "Velocity"
+        ],
+        "correctAnswerIndex": 3
     }
 ]

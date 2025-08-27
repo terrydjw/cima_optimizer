@@ -2,6 +2,8 @@ import 'package:flutter/material.dart';
 
 class ProgressCard extends StatelessWidget {
   final String title;
+  // Add a subtitle property
+  final String subtitle;
   final double value; // A value between 0.0 and 1.0
   final String metricLabel;
   final Color color;
@@ -9,6 +11,8 @@ class ProgressCard extends StatelessWidget {
   const ProgressCard({
     super.key,
     required this.title,
+    // Make it required in the constructor
+    required this.subtitle,
     required this.value,
     required this.metricLabel,
     required this.color,
@@ -25,6 +29,14 @@ class ProgressCard extends StatelessWidget {
           crossAxisAlignment: CrossAxisAlignment.start,
           children: [
             Text(title, style: Theme.of(context).textTheme.titleMedium),
+            // Add the Text widget to display the subtitle
+            const SizedBox(height: 4),
+            Text(
+              subtitle,
+              style: Theme.of(context).textTheme.bodyMedium?.copyWith(
+                color: Theme.of(context).textTheme.bodySmall?.color,
+              ),
+            ),
             const SizedBox(height: 16),
             Row(
               mainAxisAlignment: MainAxisAlignment.spaceBetween,

@@ -50,6 +50,7 @@ class QuizProvider extends ChangeNotifier {
   final AITutorService _aiTutorService;
 
   User? _user;
+  String? _currentModuleId;
 
   List<Question> _fullQuestionList = [];
   List<Question> _sessionQuestions = [];
@@ -68,10 +69,18 @@ class QuizProvider extends ChangeNotifier {
   final Map<String, int> _topicAttempts = {};
   final List<QuizResult> _recentQuizzes = [];
 
+  final Map<String, int> _subTopicCorrectAnswers = {};
+  final Map<String, int> _subTopicAttempts = {};
+
   bool _isExplanationLoading = false;
   String? _explanationText;
 
-  // Getters
+  // State for in-quiz tools
+  String _notepadText = '';
+  String _calculatorExpression = '';
+  String _calculatorResult = '0';
+
+  // --- Getters ---
   List<Lesson> get lessons => _lessons;
   bool get isLoading => _isLoading;
   QuizStatus get status => _status;
@@ -85,6 +94,9 @@ class QuizProvider extends ChangeNotifier {
   int get totalAnsweredQuestions => _answeredQuestionIds.length;
   bool get isExplanationLoading => _isExplanationLoading;
   String? get explanationText => _explanationText;
+  String get notepadText => _notepadText;
+  String get calculatorExpression => _calculatorExpression;
+  String get calculatorResult => _calculatorResult;
 
   double get syllabusCoverage {
     if (_fullQuestionList.isEmpty) return 0.0;
@@ -93,7 +105,7 @@ class QuizProvider extends ChangeNotifier {
 
   double getPerformanceForArea(String area) {
     final totalAreaQuestions = _fullQuestionList
-        .where((q) => q.id.startsWith(area))
+        .where((q) => q.syllabusSubArea.startsWith(area))
         .length;
     if (totalAreaQuestions == 0) return 0.0;
     final correct = _topicCorrectAnswers[area] ?? 0;
@@ -101,56 +113,89 @@ class QuizProvider extends ChangeNotifier {
   }
 
   Lesson? get weakestTopic {
-    if (_topicAttempts.isEmpty) return null;
-    String? weakestArea;
+    if (_subTopicAttempts.isEmpty) return null;
+    String? weakestSubAreaId;
     double lowestScore = 1.1;
-    _topicAttempts.forEach((area, attempts) {
-      final correct = _topicCorrectAnswers[area] ?? 0;
-      final score = correct / attempts;
-      if (score < lowestScore) {
-        lowestScore = score;
-        weakestArea = area;
+    _subTopicAttempts.forEach((subArea, attempts) {
+      if (attempts > 0) {
+        final correct = _subTopicCorrectAnswers[subArea] ?? 0;
+        final score = correct / attempts;
+        if (score < lowestScore) {
+          lowestScore = score;
+          weakestSubAreaId = subArea;
+        }
       }
     });
-    if (weakestArea == null) return null;
-    return _lessons.firstWhere(
-      (lesson) => lesson.syllabusArea == weakestArea,
-      orElse: () => _lessons.first,
-    );
+    if (weakestSubAreaId == null) return null;
+    try {
+      return _lessons.firstWhere((lesson) => lesson.id == weakestSubAreaId);
+    } catch (e) {
+      return _lessons.isNotEmpty ? _lessons.first : null;
+    }
+  }
+
+  Map<String, double> get subTopicPerformance {
+    final Map<String, double> performanceMap = {};
+    _subTopicAttempts.forEach((subArea, attempts) {
+      if (attempts > 0) {
+        final correct = _subTopicCorrectAnswers[subArea] ?? 0;
+        performanceMap[subArea] = correct / attempts;
+      }
+    });
+    final sortedEntries = performanceMap.entries.toList()
+      ..sort((a, b) => a.value.compareTo(b.value));
+    return Map.fromEntries(sortedEntries);
   }
 
   QuizProvider(this._authService, this._aiTutorService) {
     _init();
   }
 
-  Future<void> _init() async {
-    _fullQuestionList = await _lessonService.getQuestions();
-    _lessons = await _lessonService.getLessons();
-    _sessionQuestions = _fullQuestionList;
+  void _init() {
     _user = _authService.currentUser;
-    if (_user != null) {
-      await _loadProgress();
-    }
     _isLoading = false;
     notifyListeners();
   }
 
-  Future<void> _loadProgress() async {
-    final progress = await _dbService.getUserProgress(_user!.uid);
+  Future<void> loadDataForModule(String moduleId) async {
+    _isLoading = true;
+    notifyListeners();
+    _currentModuleId = moduleId;
+
+    clearModuleData(); // Use the clear method to reset everything
+
+    _fullQuestionList = await _lessonService.getQuestions(moduleId: moduleId);
+    _lessons = await _lessonService.getLessons(moduleId: moduleId);
+
+    if (_user != null) {
+      await _loadProgress(moduleId: moduleId);
+    }
+
+    _isLoading = false;
+    notifyListeners();
+  }
+
+  Future<void> _loadProgress({required String moduleId}) async {
+    final progress = await _dbService.getUserProgress(
+      userId: _user!.uid,
+      moduleId: moduleId,
+    );
     if (progress != null) {
-      _answeredQuestionIds.clear();
       _answeredQuestionIds.addAll(
         Set<String>.from(progress['answeredQuestionIds'] ?? []),
       );
-      _topicCorrectAnswers.clear();
       _topicCorrectAnswers.addAll(
         Map<String, int>.from(progress['topicCorrectAnswers'] ?? {}),
       );
-      _topicAttempts.clear();
       _topicAttempts.addAll(
         Map<String, int>.from(progress['topicAttempts'] ?? {}),
       );
-      _recentQuizzes.clear();
+      _subTopicCorrectAnswers.addAll(
+        Map<String, int>.from(progress['subTopicCorrectAnswers'] ?? {}),
+      );
+      _subTopicAttempts.addAll(
+        Map<String, int>.from(progress['subTopicAttempts'] ?? {}),
+      );
       final loadedQuizzes = List<Map<String, dynamic>>.from(
         progress['recentQuizzes'] ?? [],
       );
@@ -158,15 +203,19 @@ class QuizProvider extends ChangeNotifier {
         loadedQuizzes.map((map) => QuizResult.fromMap(map)),
       );
     }
+    notifyListeners();
   }
 
   Future<void> _saveProgress() async {
-    if (_user == null) return;
+    if (_user == null || _currentModuleId == null) return;
     await _dbService.updateUserProgress(
       userId: _user!.uid,
+      moduleId: _currentModuleId!,
       answeredQuestionIds: _answeredQuestionIds,
       topicAttempts: _topicAttempts,
       topicCorrectAnswers: _topicCorrectAnswers,
+      subTopicAttempts: _subTopicAttempts,
+      subTopicCorrectAnswers: _subTopicCorrectAnswers,
       recentQuizzes: _recentQuizzes.map((quiz) => quiz.toMap()).toList(),
     );
   }
@@ -175,7 +224,9 @@ class QuizProvider extends ChangeNotifier {
     if (area == null) {
       return _fullQuestionList;
     }
-    return _fullQuestionList.where((q) => q.id.startsWith(area)).toList();
+    return _fullQuestionList
+        .where((q) => q.syllabusSubArea.startsWith(area))
+        .toList();
   }
 
   void startQuiz(List<Question> questions, String topic) {
@@ -189,19 +240,29 @@ class QuizProvider extends ChangeNotifier {
     _answerChecked = false;
     _status = QuizStatus.inProgress;
     _explanationText = null;
+    _notepadText = '';
+    _calculatorExpression = '';
+    _calculatorResult = '0';
     notifyListeners();
   }
 
   void checkAnswer() {
     if (_selectedAnswerIndex == null) return;
     final question = currentQuestion;
-    final area = question.id.substring(0, 1);
+    final area = question.syllabusSubArea.substring(0, 1);
     _topicAttempts.update(area, (value) => value + 1, ifAbsent: () => 1);
+    final subArea = question.syllabusSubArea;
+    _subTopicAttempts.update(subArea, (value) => value + 1, ifAbsent: () => 1);
     _answeredQuestionIds.add(question.id);
     if (_selectedAnswerIndex == question.correctAnswerIndex) {
       _sessionScore++;
       _topicCorrectAnswers.update(
         area,
+        (value) => value + 1,
+        ifAbsent: () => 1,
+      );
+      _subTopicCorrectAnswers.update(
+        subArea,
         (value) => value + 1,
         ifAbsent: () => 1,
       );
@@ -240,10 +301,13 @@ class QuizProvider extends ChangeNotifier {
       _selectedAnswerIndex = null;
       _answerChecked = false;
       _explanationText = null;
+      _notepadText = '';
+      _calculatorExpression = '';
+      _calculatorResult = '0';
       notifyListeners();
     } else {
       finishQuiz();
-      Navigator.push(
+      Navigator.pushReplacement(
         context,
         MaterialPageRoute(builder: (context) => const QuizResultsScreen()),
       );
@@ -252,8 +316,11 @@ class QuizProvider extends ChangeNotifier {
 
   void cancelQuiz() {
     _status = QuizStatus.notStarted;
-    _sessionQuestions = _fullQuestionList;
+    _sessionQuestions = [];
     _explanationText = null;
+    _notepadText = '';
+    _calculatorExpression = '';
+    _calculatorResult = '0';
     notifyListeners();
   }
 
@@ -263,13 +330,44 @@ class QuizProvider extends ChangeNotifier {
     notifyListeners();
     final question = currentQuestion;
     final correctAnswer = question.options[question.correctAnswerIndex];
+    if (_currentModuleId == null) {
+      _explanationText = 'Error: No module selected.';
+      _isExplanationLoading = false;
+      notifyListeners();
+      return;
+    }
     final explanation = await _aiTutorService.getExplanation(
       question: question.questionText,
       correctAnswer: correctAnswer,
       allOptions: question.options,
+      moduleId: _currentModuleId!,
     );
     _explanationText = explanation;
     _isExplanationLoading = false;
+    notifyListeners();
+  }
+
+  void clearModuleData() {
+    _currentModuleId = null;
+    _fullQuestionList.clear();
+    _lessons.clear();
+    _answeredQuestionIds.clear();
+    _topicCorrectAnswers.clear();
+    _topicAttempts.clear();
+    _subTopicCorrectAnswers.clear();
+    _subTopicAttempts.clear();
+    _recentQuizzes.clear();
+    _status = QuizStatus.notStarted;
+    notifyListeners();
+  }
+
+  void updateNotepadText(String text) {
+    _notepadText = text;
+  }
+
+  void updateCalculatorState(String expression, String result) {
+    _calculatorExpression = expression;
+    _calculatorResult = result;
     notifyListeners();
   }
 }

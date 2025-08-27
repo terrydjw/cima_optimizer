@@ -1,0 +1,186 @@
+[
+    {
+        "id": "A1",
+        "moduleId": "P2",
+        "title": "Activity-Based Management (ABM)",
+        "syllabusArea": "A",
+        "content": "Activity-Based Costing (ABC) provides accurate product costs, which can then be used for Activity-Based Management (ABM). ABM uses ABC information for cost reduction and performance improvement.\n\nABM can be applied in two ways:\n- Operational ABM: 'Doing things right'. This involves using ABC data to improve the efficiency of activities, often by eliminating non-value-adding activities.\n- Strategic ABM: 'Doing the right things'. This involves using ABC data to make strategic decisions, such as altering the product mix, changing pricing, or improving customer profitability by understanding which customers are most expensive to serve.\n\nThe cost hierarchy (unit-level, batch-level, product-sustaining, facility-sustaining) is crucial for understanding how costs behave and for making better long-term decisions.",
+        "keyPoints": [
+            "ABM uses ABC information to manage activities and improve profitability.",
+            "Operational ABM focuses on improving efficiency and reducing waste.",
+            "Strategic ABM focuses on long-term decisions like product mix and customer profitability.",
+            "Understanding the cost hierarchy helps in strategic cost management."
+        ]
+    },
+    {
+        "id": "A2",
+        "moduleId": "P2",
+        "title": "Modern Business Environment (JIT & TQM)",
+        "syllabusArea": "A",
+        "content": "The modern business environment requires new management approaches to stay competitive.\n\n- Just-In-Time (JIT): A 'pull' system where production responds to customer demand, aiming to eliminate inventory. Key characteristics include having a few high-quality suppliers, small batch sizes, and multi-skilled staff. While JIT saves on holding costs, it can increase costs for high-quality materials and training.\n\n- Total Quality Management (TQM): A philosophy that seeks to produce goods and services of the highest quality, based on the principles of 'get it right, first time' and continuous improvement. TQM analyses 'Costs of Quality' into two categories:\n  - Conformance Costs (Good Quality): Prevention costs (e.g., training) and Appraisal costs (e.g., inspection).\n  - Non-conformance Costs (Poor Quality): Internal failure costs (e.g., rework) and External failure costs (e.g., warranty claims).",
+        "keyPoints": [
+            "JIT is a pull system aimed at eliminating waste and inventory.",
+            "TQM focuses on achieving the highest quality through prevention and continuous improvement.",
+            "Conformance costs are spent to ensure good quality.",
+            "Non-conformance costs are incurred because of poor quality.",
+            "Investing in conformance costs should reduce non-conformance costs over time."
+        ]
+    },
+    {
+        "id": "A3",
+        "moduleId": "P2",
+        "title": "Target Costing & Lifecycle Costing",
+        "syllabusArea": "A",
+        "content": "These are proactive cost management techniques used in the modern business environment.\n\n- Target Costing: A market-driven approach. Instead of cost-plus pricing, it starts with a competitive selling price and subtracts a desired profit margin to arrive at a 'target cost'. The goal is then to design and manufacture the product to meet this target cost. If the estimated cost is higher than the target cost, a 'cost gap' exists, which must be closed through techniques like value engineering.\n\n- Lifecycle Costing: Accumulates all costs that occur over a product's entire life, from design ('upstream' costs) to decommissioning ('downstream' costs). This provides a more complete picture of a product's profitability. A large proportion of a product's lifecycle costs (80-90%) are often locked in at the design stage.",
+        "keyPoints": [
+            "Target Cost = Target Price - Target Profit.",
+            "Target costing is a proactive approach to cost reduction before production begins.",
+            "Lifecycle costing tracks costs from 'cradle to grave'.",
+            "Most lifecycle costs are determined during the design and development phase."
+        ]
+    },
+    {
+        "id": "B1",
+        "moduleId": "P2",
+        "title": "Investment Appraisal: Relevant Cash Flows",
+        "syllabusArea": "B",
+        "content": "Investment appraisal decisions should only consider relevant cash flows. A relevant cash flow must be:\n\n- Future: Past or 'sunk' costs are ignored.\n- Incremental: Only extra cash flows that occur as a direct result of the decision are included.\n- Cash: Non-cash items like depreciation are ignored.\n\nKey Concepts:\n- Opportunity Cost: The value of the best alternative foregone when a decision is made. This is always a relevant cash flow.\n- Sunk Cost: A cost already incurred that cannot be changed. It is never relevant.\n- Committed Cost: A future cost that is unavoidable. It is not relevant.\n- General fixed overheads are typically not relevant, but any incremental fixed costs are relevant.",
+        "keyPoints": [
+            "Relevant cash flows must be Future, Incremental, and Cash.",
+            "Sunk costs, committed costs, and depreciation are not relevant.",
+            "Opportunity costs are always relevant.",
+            "Only consider the change in cash flows resulting from the decision."
+        ]
+    },
+    {
+        "id": "B2",
+        "moduleId": "P2",
+        "title": "Investment Appraisal: NPV & IRR",
+        "syllabusArea": "B",
+        "content": "Discounted Cash Flow (DCF) techniques account for the time value of money, which states that money received today is worth more than the same amount in the future.\n\n- Net Present Value (NPV): Calculates the present value of all future cash flows from a project, discounted at the company's cost of capital, and subtracts the initial investment.\n  - Decision Rule: If NPV is positive, accept the project. If negative, reject. For mutually exclusive projects, choose the one with the highest positive NPV.\n\n- Internal Rate of Return (IRR): Calculates the discount rate at which the project's NPV is zero. It represents the breakeven return of the project.\n  - Decision Rule: If IRR is greater than the cost of capital, accept the project.\n\nNPV is considered superior to IRR because it provides an absolute measure of the increase in shareholder wealth, whereas IRR is a relative measure and can be misleading when comparing projects of different sizes or with unconventional cash flows.",
+        "keyPoints": [
+            "NPV measures the absolute increase in wealth from a project.",
+            "IRR is the discount rate at which the project breaks even (NPV=0).",
+            "Decision rule: Accept projects with a positive NPV or an IRR greater than the cost of capital.",
+            "If NPV and IRR give conflicting results for mutually exclusive projects, the NPV decision should be followed."
+        ]
+    },
+    {
+        "id": "B3",
+        "moduleId": "P2",
+        "title": "Investment Appraisal: Payback & ARR",
+        "syllabusArea": "B",
+        "content": "These are non-discounted cash flow techniques used for investment appraisal.\n\n- Payback Period: Measures the time it takes for a project's cash inflows to recover the initial investment. It is a measure of risk and liquidity, with a shorter payback being preferred.\n  - Weaknesses: It ignores the time value of money and all cash flows that occur after the payback period.\n\n- Accounting Rate of Return (ARR): Calculates the average annual accounting profit from a project as a percentage of the capital invested.\n  - ARR = (Average Annual Profit / Average Investment) x 100%.\n  - Average Investment = (Initial Investment + Scrap Value) / 2.\n  - Weaknesses: It uses accounting profit, not cash flows, and also ignores the time value of money.",
+        "keyPoints": [
+            "Payback is a measure of liquidity and risk; it is not a measure of profitability.",
+            "Payback ignores cash flows after the payback period has been reached.",
+            "ARR is based on accounting profits, not cash flows.",
+            "Both Payback and ARR ignore the time value of money."
+        ]
+    },
+    {
+        "id": "B4",
+        "moduleId": "P2",
+        "title": "Investment Appraisal: Further Aspects",
+        "syllabusArea": "B",
+        "content": "Further complexities in investment appraisal include:\n\n- Taxation: Tax payments on profits are a relevant cash outflow, while tax savings from capital allowances (tax-allowable depreciation) are a relevant cash inflow. The timing of these cash flows is crucial.\n\n- Inflation: It is important to distinguish between 'money' (nominal) cash flows, which include inflation, and 'real' cash flows, which do not. The 'money' cost of capital should be used to discount money cash flows, and the 'real' cost of capital for real cash flows.\n\n- Capital Rationing: If a company has insufficient funds to undertake all positive-NPV projects, it must rank them. For divisible projects, the Profitability Index (PI) is used to rank projects to maximise the total NPV from the available funds.\n  - PI = NPV / Initial Investment.",
+        "keyPoints": [
+            "Tax savings on capital allowances are a relevant cash inflow.",
+            "Always discount money cash flows with the money rate, and real cash flows with the real rate.",
+            "Capital rationing is the process of choosing between positive-NPV projects when funds are limited.",
+            "The Profitability Index is used to rank divisible projects under single-period capital rationing."
+        ]
+    },
+    {
+        "id": "C1",
+        "moduleId": "P2",
+        "title": "Responsibility Centres",
+        "syllabusArea": "C",
+        "content": "In a decentralised organisation, responsibility accounting is used to measure the performance of different parts of the business, known as responsibility centres. There are four main types:\n\n1. Cost Centre: A department or function for which costs are accumulated. The manager is only responsible for controlling costs (e.g., a factory maintenance department).\n\n2. Revenue Centre: The manager is responsible for generating revenue, but not the costs of doing so (e.g., a regional sales office).\n\n3. Profit Centre: The manager is responsible for both revenues and costs, and therefore profit (e.g., a specific product division).\n\n4. Investment Centre: The manager has all the responsibilities of a profit centre, but also has the authority to make capital investment decisions.\n\nThe principle of controllability is key: managers should only be held accountable for costs and revenues that they can control.",
+        "keyPoints": [
+            "Cost centre managers are responsible for costs.",
+            "Profit centre managers are responsible for costs and revenues.",
+            "Investment centre managers are also responsible for investment decisions.",
+            "The controllability principle states that managers should only be judged on factors within their control."
+        ]
+    },
+    {
+        "id": "C2",
+        "moduleId": "P2",
+        "title": "Performance Measurement: ROI & RI",
+        "syllabusArea": "C",
+        "content": "Two key financial performance measures for investment centres are Return on Investment (ROI) and Residual Income (RI).\n\n- Return on Investment (ROI): Measures profit relative to the capital invested.\n  - ROI = (Controllable Profit / Controllable Capital Employed) x 100%.\n  - A major disadvantage is that it can lead to dysfunctional decision-making. A manager of a highly profitable division might reject a new project that has an ROI lower than the division's current ROI, even if it's above the company's overall target.\n\n- Residual Income (RI): Measures the absolute amount of profit generated in excess of a required return on the capital employed.\n  - RI = Controllable Profit - (Controllable Capital Employed x Imputed Interest Rate).\n  - The imputed interest rate is the company's cost of capital. RI helps to overcome the dysfunctional decision-making problem of ROI, as any project with a positive RI will be accepted.",
+        "keyPoints": [
+            "ROI is a relative measure of profitability (a percentage).",
+            "RI is an absolute measure of profitability (a dollar amount).",
+            "ROI can lead to managers rejecting profitable projects if it would lower their division's average ROI.",
+            "RI encourages goal congruence as managers will accept any project that earns more than the cost of capital."
+        ]
+    },
+    {
+        "id": "C3",
+        "moduleId": "P2",
+        "title": "The Balanced Scorecard",
+        "syllabusArea": "C",
+        "content": "Traditional performance measurement often focuses too heavily on financial metrics, which can encourage short-term thinking. The Balanced Scorecard, developed by Kaplan and Norton, provides a more 'balanced' view by incorporating non-financial measures.\n\nIt measures performance across four perspectives:\n\n1. Financial Perspective: How do we look to our shareholders? (e.g., ROI, profit, revenue growth).\n2. Customer Perspective: How do our customers see us? (e.g., customer satisfaction, on-time delivery, number of complaints).\n3. Internal Business Process Perspective: What must we excel at? (e.g., product quality, process efficiency, new product development time).\n4. Learning and Growth Perspective: How can we continue to improve and create value? (e.g., employee training, staff turnover, implementation of new technology).",
+        "keyPoints": [
+            "The Balanced Scorecard links performance measures to the company's strategy.",
+            "It combines financial measures with non-financial measures.",
+            "The four perspectives are Financial, Customer, Internal Business, and Learning & Growth.",
+            "It helps to prevent a narrow, short-term focus on purely financial results."
+        ]
+    },
+    {
+        "id": "C4",
+        "moduleId": "P2",
+        "title": "Transfer Pricing",
+        "syllabusArea": "C",
+        "content": "A transfer price is the price charged when one division of a company provides goods or services to another division. The price affects the costs of the buying division and the revenues of the selling division, influencing their reported profits.\n\nThe general rule for setting a transfer price that ensures goal congruence is:\nTransfer Price = Marginal Cost + Opportunity Cost of the selling division.\n\n- If there is a perfect external market and no spare capacity: The opportunity cost is the lost contribution from external sales, so the transfer price should be the market price.\n- If the selling division has spare capacity: The opportunity cost is zero, so the minimum transfer price is the marginal cost.\n- If there is no external market: The transfer price must be negotiated, often on a cost-plus basis.",
+        "keyPoints": [
+            "A transfer price is an internal charge for goods or services between divisions.",
+            "The general rule is TP = Marginal Cost + Opportunity Cost.",
+            "If there is spare capacity, the minimum TP is marginal cost.",
+            "If there is no spare capacity and an external market, the TP should be the market price."
+        ]
+    },
+    {
+        "id": "C5",
+        "moduleId": "P2",
+        "title": "Pricing Strategies & Decisions",
+        "syllabusArea": "C",
+        "content": "Pricing is a critical decision that impacts revenue and profitability. The optimal price depends on objectives, costs, customers, and competitors.\n\nKey Concepts:\n- Price Elasticity of Demand (PED): Measures how sensitive demand is to a price change. If demand is elastic (PED > 1), a price cut increases total revenue. If inelastic (PED < 1), a price cut reduces total revenue.\n- Profit Maximisation: The theoretical profit-maximising price is found where Marginal Cost (MC) equals Marginal Revenue (MR).\n\nCommon Pricing Strategies:\n- Cost-plus Pricing: The price is determined by calculating the full cost of a product and adding a mark-up for profit. It's simple but ignores market conditions.\n- Market Skimming: Launching a new product at a high initial price to maximise revenue from early adopters before gradually lowering it.\n- Penetration Pricing: Setting a low initial price to gain market share quickly and create a barrier to entry for competitors.\n- Premium Pricing: Setting a high price based on superior product quality and brand image.\n- Price Differentiation: Charging different prices for the same product in different market segments (e.g., peak vs. off-peak travel).",
+        "keyPoints": [
+            "The profit-maximising output level is where Marginal Cost equals Marginal Revenue (MC=MR).",
+            "Market skimming involves setting a high initial price and lowering it over time.",
+            "Penetration pricing uses a low initial price to capture market share.",
+            "Price elasticity of demand is crucial for predicting the impact of price changes on revenue."
+        ]
+    },
+    {
+        "id": "D1",
+        "moduleId": "P2",
+        "title": "Decision Trees",
+        "syllabusArea": "D",
+        "content": "Decision trees are a graphical method for evaluating multi-stage decisions under conditions of risk. They map out all possible decisions and outcomes in a logical sequence.\n\nKey components:\n- Decision Points (Squares): Represent a choice to be made by the manager.\n- Chance Points (Circles): Represent an uncertain outcome, with branches for each possibility and its associated probability.\n- Payoffs: The financial outcome of each possible path.\n\nTo evaluate a decision tree, you 'roll back' from right to left:\n1. At each chance point (circle), calculate the Expected Value (EV) of the outcomes branching from it.\n2. At each decision point (square), choose the branch with the highest EV.",
+        "keyPoints": [
+            "Decision trees are used for sequential decisions under risk.",
+            "Squares represent decisions; circles represent uncertain outcomes.",
+            "The tree is evaluated by 'rolling back' from right to left.",
+            "The optimal path is found by selecting the decision with the highest Expected Value at each decision point."
+        ]
+    },
+    {
+        "id": "D2",
+        "moduleId": "P2",
+        "title": "The TARA Risk Management Framework",
+        "syllabusArea": "D",
+        "content": "Once a risk has been identified and assessed (in terms of its likelihood and impact), a strategy must be developed for managing it. The TARA framework provides four main responses to risk:\n\n1. Transfer: Transfer the risk to a third party. This is common for low probability but high impact risks. The best example is buying insurance.\n2. Avoid: Avoid the risk altogether by not engaging in the activity that gives rise to it. This is suitable for high probability, high impact risks that cannot be effectively reduced.\n3. Reduce: Reduce the likelihood or impact of the risk through internal controls and preventative measures. This is a common strategy for high probability, low impact risks.\n4. Accept: Accept the risk and take no action. This is suitable for low probability, low impact risks where the cost of managing the risk outweighs the potential benefit.",
+        "keyPoints": [
+            "TARA stands for Transfer, Avoid, Reduce, Accept.",
+            "Transferring risk usually involves insurance.",
+            "Avoiding risk means deciding not to proceed with the activity.",
+            "Reducing risk involves implementing controls.",
+            "Accepting risk is appropriate when the risk is minor."
+        ]
+    }
+]

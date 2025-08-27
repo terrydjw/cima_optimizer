@@ -1,0 +1,2017 @@
+[
+    {
+        "id": "A1_Q1",
+        "moduleId": "P1",
+        "syllabusSubArea": "A1",
+        "questionText": "Which ONE of the following statements is correct?",
+        "options": [
+            "Management accounting never considers historic information.",
+            "Management accounting is a sub-set of cost accounting.",
+            "Management accounting is more highly regulated than cost accounting.",
+            "Management accounting provides more useful information for management than financial accounting."
+        ],
+        "correctAnswerIndex": 3
+    },
+    {
+        "id": "A1_Q2",
+        "moduleId": "P1",
+        "syllabusSubArea": "A1",
+        "questionText": "Which ONE of the following wage costs would not be classified as direct labour?",
+        "options": [
+            "Assembly workers",
+            "A stores assistant in a storeroom",
+            "Plasterers in a building company",
+            "An auditor in an accountancy firm"
+        ],
+        "correctAnswerIndex": 1
+    },
+    {
+        "id": "A1_Q3",
+        "moduleId": "P1",
+        "syllabusSubArea": "A1",
+        "questionText": "Cherry Ltd makes cakes. The wages of supervisors, where one supervisor can check 500 cakes, is an example of which cost behaviour?",
+        "options": [
+            "Fixed",
+            "Variable",
+            "Semi-variable",
+            "Stepped"
+        ],
+        "correctAnswerIndex": 3
+    },
+    {
+        "id": "A1_Q4",
+        "moduleId": "P1",
+        "syllabusSubArea": "A1",
+        "questionText": "Which TWO of the following statements are true?",
+        "options": [
+            "A stepped cost has no direct relationship with the level of output.",
+            "A fixed cost varies per unit of output as production volume changes.",
+            "A variable cost is constant per unit of output as production volume changes.",
+            "A fixed cost varies in total as production volume changes."
+        ],
+        "correctAnswerIndex": 1
+    },
+    {
+        "id": "A1_Q5",
+        "moduleId": "P1",
+        "syllabusSubArea": "A1",
+        "questionText": "Jayco has the following data for its production levels and costs:\n\n| Month | Output | Cost ($) |\n|---|---|---|\n| 1 | 2,000 | 24,950 |\n| 2 | 2,500 | 30,500 |\n| 3 | 1,000 | 15,000 |\n| 4 | 4,000 | 44,900 |\n| 5 | 6,000 | 65,000 |\n\nUse the high-low method to predict costs when output is 3,000 units.",
+        "options": [
+            "$30,000",
+            "$35,000",
+            "$37,500",
+            "$40,000"
+        ],
+        "correctAnswerIndex": 1
+    },
+    {
+        "id": "A1_Q6",
+        "moduleId": "P1",
+        "syllabusSubArea": "A1",
+        "questionText": "Jayco has the following data. Fixed costs step up by $10,000 for any activity level above 2,000 units.\n\n| Month | Output | Cost ($) |\n|---|---|---|\n| 2 | 2,500 | 40,500 |\n| 3 | 1,000 | 15,000 |\n| 4 | 4,000 | 54,900 |\n| 5 | 6,000 | 75,000 |\n\nUse the high-low method to predict costs when output is 1,500 units.",
+        "options": [
+            "$20,630",
+            "$25,000",
+            "$15,840",
+            "$30,630"
+        ],
+        "correctAnswerIndex": 0
+    },
+    {
+        "id": "A2_Q1",
+        "moduleId": "P1",
+        "syllabusSubArea": "A2",
+        "questionText": "A manufacturer has the following information:\n- Materials: 3kg at $5/kg\n- Labour: 20 mins at $24/hour\n- Variable Overheads: $6/labour hour\n- Budgeted fixed production overheads: $200,000\n- Budgeted production: 20,000 units\n\nUsing absorption costing, what is the total absorption cost per unit?",
+        "options": [
+            "$25",
+            "$27",
+            "$35",
+            "$37"
+        ],
+        "correctAnswerIndex": 2
+    },
+    {
+        "id": "A2_Q2",
+        "moduleId": "P1",
+        "syllabusSubArea": "A2",
+        "questionText": "Links Ltd has two production departments with the following budgeted info:\n\n| | PCC 1 | PCC 2 |\n|---|---|---|\n| Total Overheads | $108,800 | $103,000 |\n| Labour Hours | 15,000 | 10,000 |\n| Machine Hours | 20,000 | 6,000 |\n\nOverheads for PCC 1 are absorbed by machine hours, and for PCC 2 by labour hours. Product MZ requires 2 machine hours in PCC 1 and 3 labour hours in PCC 2. What is the total overhead absorbed by one unit of Product MZ?",
+        "options": [
+            "$36.34",
+            "$41.78",
+            "$28.80",
+            "$52.50"
+        ],
+        "correctAnswerIndex": 1
+    },
+    {
+        "id": "A2_Q3",
+        "moduleId": "P1",
+        "syllabusSubArea": "A2",
+        "questionText": "Using info from a previous question: Budgeted fixed production overheads were $200,000 based on 20,000 units. Actual production was 21,000 units. Actual fixed overheads were also $200,000. What is the over/under-absorption of overheads?",
+        "options": [
+            "$10,000 under-absorbed",
+            "$10,000 over-absorbed",
+            "$20,000 under-absorbed",
+            "$20,000 over-absorbed"
+        ],
+        "correctAnswerIndex": 1
+    },
+    {
+        "id": "A2_Q4",
+        "moduleId": "P1",
+        "syllabusSubArea": "A2",
+        "questionText": "Returning to the Limco example: a product is sold for $65 per unit. The marginal cost is $25 per unit. Actual sales were 18,000 units and fixed production overheads were $200,000. Using marginal costing, what was the actual profit for the period?",
+        "options": [
+            "$720,000",
+            "$520,000",
+            "$450,000",
+            "$970,000"
+        ],
+        "correctAnswerIndex": 1
+    },
+    {
+        "id": "A2_Q5",
+        "moduleId": "P1",
+        "syllabusSubArea": "A2",
+        "questionText": "Which TWO of the following statements are advantages of marginal costing?",
+        "options": [
+            "It is useful where production overhead costs are a large proportion of total costs.",
+            "It is useful for short-term decision making.",
+            "It values closing inventories in accordance with IAS 2 'Inventories'.",
+            "It avoids arbitrary allocation and apportionment of overheads."
+        ],
+        "correctAnswerIndex": 1
+    },
+    {
+        "id": "A2_Q6",
+        "moduleId": "P1",
+        "syllabusSubArea": "A2",
+        "questionText": "Summary results for Y Ltd are:\n- Sales revenue: $820,000\n- Variable production costs: $300,000\n- Fixed production costs: $180,000\n- Production: 1,000 units\n- Closing inventory: 150 units\n\nWhat is the profit for the period using absorption costing?",
+        "options": [
+            "$170,000",
+            "$412,000",
+            "$197,000",
+            "$480,000"
+        ],
+        "correctAnswerIndex": 2
+    },
+    {
+        "id": "A2_Q7",
+        "moduleId": "P1",
+        "syllabusSubArea": "A2",
+        "questionText": "For Limco, the absorption costing profit was $550,000 and the marginal costing profit was $520,000. Opening inventory was 3,000 units and closing inventory was 6,000 units. What is the fixed overhead absorption rate per unit?",
+        "options": [
+            "$5",
+            "$10",
+            "$15",
+            "$20"
+        ],
+        "correctAnswerIndex": 1
+    },
+    {
+        "id": "A2_Q8",
+        "moduleId": "P1",
+        "syllabusSubArea": "A2",
+        "questionText": "Blake Co. has a fixed overhead absorption rate of $25 per unit. In a period, sales were 12,500 units and production was 16,500 units. The absorption costing profit was $112,000. What would the profit be under marginal costing?",
+        "options": [
+            "$12,000",
+            "$49,500",
+            "$74,500",
+            "$212,000"
+        ],
+        "correctAnswerIndex": 0
+    },
+    {
+        "id": "A2_Q9",
+        "moduleId": "P1",
+        "syllabusSubArea": "A2",
+        "questionText": "A product has an absorption cost of $35 per unit. What is the selling price if a 20% mark-up on absorption cost is used?",
+        "options": [
+            "$42.00",
+            "$43.75",
+            "$50.00",
+            "$28.00"
+        ],
+        "correctAnswerIndex": 0
+    },
+    {
+        "id": "A3_Q1",
+        "moduleId": "P1",
+        "syllabusSubArea": "A3",
+        "questionText": "A manufacturer makes two cakes. Cake A is made in small, daily batches. Cake B is made in large, weekly batches. Both have the same direct labour time per unit. Previously, overheads were absorbed based on direct labour hours. Now, a significant portion of overheads relates to machine setup for each batch. If the company switches to absorbing overheads based on the number of batches, what will be the impact?",
+        "options": [
+            "Overhead absorbed by both cakes would increase.",
+            "Overhead absorbed by Cake A would increase but for Cake B it would be reduced.",
+            "Overhead absorbed by Cake A would be reduced but for Cake B it would increase.",
+            "Overhead absorbed by both cakes would be reduced."
+        ],
+        "correctAnswerIndex": 1
+    },
+    {
+        "id": "A3_Q2",
+        "moduleId": "P1",
+        "syllabusSubArea": "A3",
+        "questionText": "A financial institution uses ABC and assigns loan application processing costs based on the amount of time staff spend on reviews. This is an example of what type of cost driver?",
+        "options": [
+            "A transaction driver",
+            "A duration driver",
+            "A facility driver",
+            "An intensity driver"
+        ],
+        "correctAnswerIndex": 1
+    },
+    {
+        "id": "A3_Q3",
+        "moduleId": "P1",
+        "syllabusSubArea": "A3",
+        "questionText": "A business makes two models, M1 and M2. Details are:\n- Annual Sales: 8,000 units each\n- Direct Material: $11 (M1), $21 (M2)\n- Direct Labour: 2 hours (M1), 2.5 hours (M2) at $8/hr\n- Overheads of $328,600 are currently absorbed based on direct labour hours.\nWhat is the total production cost per unit for Model M1 using traditional absorption costing?",
+        "options": [
+            "$35.45",
+            "$45.26",
+            "$27.00",
+            "$63.83"
+        ],
+        "correctAnswerIndex": 1
+    },
+    {
+        "id": "A3_Q4",
+        "moduleId": "P1",
+        "syllabusSubArea": "A3",
+        "questionText": "A financial institution has two cost pools for its loan services: 'Processing loan applications' ($599,200) driven by labour hours, and 'Reviewing applications' ($81,000) driven by number of reviews. A 'Payday loan' requires 2 labour hours and 1.5 reviews. Total budgeted activity is 214,000 labour hours and 108,000 reviews. What is the total overhead allocated to each Payday loan?",
+        "options": [
+            "$5.60",
+            "$1.13",
+            "$6.73",
+            "$8.25"
+        ],
+        "correctAnswerIndex": 2
+    },
+    {
+        "id": "A3_Q5",
+        "moduleId": "P1",
+        "syllabusSubArea": "A3",
+        "questionText": "Which TWO of the following organisations would benefit most from switching to activity based costing?",
+        "options": [
+            "An organisation which recently introduced technology, reducing labour costs and increasing non-volume-related support activities.",
+            "An organisation which only manufactures two products that undergo similar processes.",
+            "An organisation where production overheads are increasing and managers are unsure why.",
+            "An organisation which is highly labour intensive."
+        ],
+        "correctAnswerIndex": 0
+    },
+    {
+        "id": "A4_Q1",
+        "moduleId": "P1",
+        "syllabusSubArea": "A4",
+        "questionText": "An organisation produces two joint products, A and B, with total joint costs of $750. Details are:\n- Product A: 100 kgs produced, selling price $5/kg\n- Product B: 200 kgs produced, selling price $2/kg\nIf joint costs are allocated based on physical measurement (kgs), what is the cost per kg?",
+        "options": [
+            "$2.50/kg for both",
+            "$4.17/kg for A and $1.67/kg for B",
+            "$5.00/kg for A and $2.00/kg for B",
+            "$7.50/kg for both"
+        ],
+        "correctAnswerIndex": 0
+    },
+    {
+        "id": "A4_Q2",
+        "moduleId": "P1",
+        "syllabusSubArea": "A4",
+        "questionText": "Using the data from the previous question (Joint costs $750), if the costs are allocated based on market value at the separation point, what is the allocated cost to Product A?",
+        "options": [
+            "$250.00",
+            "$500.00",
+            "$416.67",
+            "$333.33"
+        ],
+        "correctAnswerIndex": 2
+    },
+    {
+        "id": "A4_Q3",
+        "moduleId": "P1",
+        "syllabusSubArea": "A4",
+        "questionText": "In throughput accounting, which is the only cost treated as a unit-level variable cost?",
+        "options": [
+            "Direct labour",
+            "Variable overheads",
+            "Direct materials",
+            "All direct costs"
+        ],
+        "correctAnswerIndex": 2
+    },
+    {
+        "id": "A4_Q4",
+        "moduleId": "P1",
+        "syllabusSubArea": "A4",
+        "questionText": "A company produces two products, Standard and Ultra. Labour is a bottleneck resource. Details:\n\n| | Standard | Ultra |\n|---|---|---|\n| Selling Price | $80 | $120 |\n| Material Costs | $20 | $24 |\n| Hours at bottleneck | 1.0 | 2.0 |\n\nHow should the products be ranked for production to maximise throughput?",
+        "options": [
+            "Standard 1st, Ultra 2nd",
+            "Ultra 1st, Standard 2nd",
+            "Both are equal",
+            "Cannot be determined"
+        ],
+        "correctAnswerIndex": 0
+    },
+    {
+        "id": "A4_Q5",
+        "moduleId": "P1",
+        "syllabusSubArea": "A4",
+        "questionText": "A company has two products, X and Y. Direct materials are readily available, but direct labour is limited to 21,000 hours. Details:\n\n| | Product X | Product Y |\n|---|---|---|\n| Selling Price | $140 | $150 |\n| Direct Materials | $40 | $60 |\n| Direct Labour | 4 hours | 3 hours |\n\nTo maximise throughput contribution, what is the optimum production mix?",
+        "options": [
+            "Produce only Product X",
+            "Produce only Product Y",
+            "Produce a mix of both",
+            "Produce whichever has higher demand"
+        ],
+        "correctAnswerIndex": 1
+    },
+    {
+        "id": "A4_Q6",
+        "moduleId": "P1",
+        "syllabusSubArea": "A4",
+        "questionText": "For Cled company, the return per factory hour is $60 for its Standard product, and the cost per factory hour is $40. What is the throughput accounting ratio (TAR) for the Standard product?",
+        "options": [
+            "0.67",
+            "1.00",
+            "1.50",
+            "2.00"
+        ],
+        "correctAnswerIndex": 2
+    },
+    {
+        "id": "A4_Q7",
+        "moduleId": "P1",
+        "syllabusSubArea": "A4",
+        "questionText": "A product requires 5 hours of labour at a bottleneck. It sells for $500, material cost is $220. Total factory costs are $42,000 per week, and total available bottleneck hours are 1,050. What is the throughput accounting ratio?",
+        "options": [
+            "1.00",
+            "1.20",
+            "1.40",
+            "1.50"
+        ],
+        "correctAnswerIndex": 2
+    },
+    {
+        "id": "A4_Q8",
+        "moduleId": "P1",
+        "syllabusSubArea": "A4",
+        "questionText": "Which statement is most likely to be true of a digital product compared to a physical product?",
+        "options": [
+            "Standard costing will be the most appropriate costing system.",
+            "Most costs are upfront and predictable.",
+            "Overheads are easily absorbed based on known drivers.",
+            "IT support service costs will continue to be high after launch."
+        ],
+        "correctAnswerIndex": 3
+    },
+    {
+        "id": "A4_Q9",
+        "moduleId": "P1",
+        "syllabusSubArea": "A4",
+        "questionText": "A company has installed smart-meters in its factory to measure and monitor electricity usage. This cost is an example of which category of environmental costs?",
+        "options": [
+            "Environmental prevention costs",
+            "Environmental appraisal costs",
+            "Environmental internal failure costs",
+            "Environmental external failure costs"
+        ],
+        "correctAnswerIndex": 1
+    },
+    {
+        "id": "A5_Q1",
+        "moduleId": "P1",
+        "syllabusSubArea": "A5",
+        "questionText": "An organisation wants to highlight inefficiencies and identify opportunities for cost savings. Which type of standard would be most appropriate to use?",
+        "options": [
+            "Attainable",
+            "Ideal",
+            "Current",
+            "Basic"
+        ],
+        "correctAnswerIndex": 1
+    },
+    {
+        "id": "A5_Q2",
+        "moduleId": "P1",
+        "syllabusSubArea": "A5",
+        "questionText": "A company budgets to sell 1,000 boxes at $120 each. It actually sells 1,100 boxes at $115 each. What is the sales price variance?",
+        "options": [
+            "$5,500 Favourable",
+            "$5,500 Adverse",
+            "$6,000 Favourable",
+            "$6,000 Adverse"
+        ],
+        "correctAnswerIndex": 1
+    },
+    {
+        "id": "A5_Q3",
+        "moduleId": "P1",
+        "syllabusSubArea": "A5",
+        "questionText": "A company budgets to sell 1,000 boxes and actually sells 1,100. The standard profit is $30 per box. What is the sales volume profit variance?",
+        "options": [
+            "$3,000 Favourable",
+            "$3,000 Adverse",
+            "$3,300 Favourable",
+            "$3,300 Adverse"
+        ],
+        "correctAnswerIndex": 0
+    },
+    {
+        "id": "A5_Q4",
+        "moduleId": "P1",
+        "syllabusSubArea": "A5",
+        "questionText": "A product's standard material usage is 0.2 kgs per box at $50 per kg. To make 1,100 boxes, 192.5 kgs were purchased and used, costing $10,587.50. What is the materials usage variance?",
+        "options": [
+            "$962.50 Adverse",
+            "$962.50 Favourable",
+            "$1,375.00 Adverse",
+            "$1,375.00 Favourable"
+        ],
+        "correctAnswerIndex": 3
+    },
+    {
+        "id": "A5_Q5",
+        "moduleId": "P1",
+        "syllabusSubArea": "A5",
+        "questionText": "Standard labour is 4 hours per box at $15 per hour. To make 1,100 boxes, 4,200 hours were paid for at a total cost of $71,400. There were 20 hours of idle time due to a breakdown. What is the labour efficiency variance?",
+        "options": [
+            "$3,300 Favourable",
+            "$3,300 Adverse",
+            "$3,000 Favourable",
+            "$3,000 Adverse"
+        ],
+        "correctAnswerIndex": 0
+    },
+    {
+        "id": "A5_Q6",
+        "moduleId": "P1",
+        "syllabusSubArea": "A5",
+        "questionText": "The direct labour efficiency variance for Jayco was favourable. Which TWO of the following reasons could have contributed to this variance?",
+        "options": [
+            "Output was lower than budgeted.",
+            "The purchasing department bought poorer quality material which was difficult to process.",
+            "The original standard time for the output was set too high.",
+            "Employees were more skilled than specified in the standard."
+        ],
+        "correctAnswerIndex": 2
+    },
+    {
+        "id": "A5_Q7",
+        "moduleId": "P1",
+        "syllabusSubArea": "A5",
+        "questionText": "Standard variable overhead rate is $2 per hour. 4,180 hours were worked to produce 1,100 units (standard 4 hours/unit), and total variable overheads were $7,315. What is the variable overhead expenditure variance?",
+        "options": [
+            "$1,045 Favourable",
+            "$1,045 Adverse",
+            "$440 Favourable",
+            "$440 Adverse"
+        ],
+        "correctAnswerIndex": 0
+    },
+    {
+        "id": "A5_Q8",
+        "moduleId": "P1",
+        "syllabusSubArea": "A5",
+        "questionText": "Budgeted fixed overheads were $12,000 for 1,000 boxes. Actual fixed overhead expenditure was $11,600. What is the fixed overhead expenditure variance?",
+        "options": [
+            "$400 Favourable",
+            "$400 Adverse",
+            "$1,200 Favourable",
+            "$1,200 Adverse"
+        ],
+        "correctAnswerIndex": 0
+    },
+    {
+        "id": "A5_Q9",
+        "moduleId": "P1",
+        "syllabusSubArea": "A5",
+        "questionText": "A statement reconciling budgeted profit with actual profit helps managers identify unusual items for further investigation. This practice is known as:",
+        "options": [
+            "Responsibility accounting",
+            "Exception reporting",
+            "Profit analysis",
+            "Performance management"
+        ],
+        "correctAnswerIndex": 1
+    },
+    {
+        "id": "A5_Q10",
+        "moduleId": "P1",
+        "syllabusSubArea": "A5",
+        "questionText": "An organisation reported actual profit of $78,000. Variances were: Sales volume profit $6,600 A, Sales price $5,000 F, Materials price $2,400 A, Labour rate $3,850 F, Fixed overhead capacity $2,100 F. What was the budgeted profit?",
+        "options": [
+            "$79,950",
+            "$62,850",
+            "$76,050",
+            "$91,200"
+        ],
+        "correctAnswerIndex": 2
+    },
+    {
+        "id": "A6_Q1",
+        "moduleId": "P1",
+        "syllabusSubArea": "A6",
+        "questionText": "A company sells two bikes, Basic (600 budget sales, $350 contribution) and Premium (400 budget sales, $450 contribution). Actual sales were 900 Basic and 300 Premium. What is the sales mix contribution variance?",
+        "options": [
+            "$18,000 Favourable",
+            "$18,000 Adverse",
+            "$60,000 Favourable",
+            "$78,000 Favourable"
+        ],
+        "correctAnswerIndex": 1
+    },
+    {
+        "id": "A6_Q2",
+        "moduleId": "P1",
+        "syllabusSubArea": "A6",
+        "questionText": "A new machine reduced the standard labour time for a product from 4 hours to 3.5 hours per unit. The standard labour rate is $15 per hour. For an actual output of 1,100 units, what is the planning efficiency variance?",
+        "options": [
+            "$8,250 Favourable",
+            "$8,250 Adverse",
+            "$4,950 Favourable",
+            "$4,950 Adverse"
+        ],
+        "correctAnswerIndex": 0
+    },
+    {
+        "id": "A6_Q3",
+        "moduleId": "P1",
+        "syllabusSubArea": "A6",
+        "questionText": "A dental practice introduced new technology, reducing standard treatment time from 1 hour to 0.75 hours. Actual results showed 280 treatments took 230 hours. Which calculation represents the operational labour efficiency variance?",
+        "options": [
+            "210 hours at standard rate vs 280 hours at standard rate",
+            "230 hours at standard rate vs 210 hours at standard rate",
+            "230 hours at actual rate vs 230 hours at standard rate",
+            "200 hours at standard rate vs 150 hours at standard rate"
+        ],
+        "correctAnswerIndex": 1
+    },
+    {
+        "id": "A6_Q4",
+        "moduleId": "P1",
+        "syllabusSubArea": "A6",
+        "questionText": "A company shows a favourable material price variance of $400. The standard price is $100 per litre and 200 litres were purchased. What was the actual price paid per litre?",
+        "options": [
+            "$98",
+            "$99",
+            "$101",
+            "$102"
+        ],
+        "correctAnswerIndex": 0
+    },
+    {
+        "id": "B1_Q1",
+        "moduleId": "P1",
+        "syllabusSubArea": "B1",
+        "questionText": "A company estimates sales of 10,000 units. Opening inventory is 1,000 units and desired closing inventory is 1,500 units. What is the budgeted level of production?",
+        "options": [
+            "9,500 units",
+            "10,000 units",
+            "10,500 units",
+            "11,500 units"
+        ],
+        "correctAnswerIndex": 2
+    },
+    {
+        "id": "B1_Q2",
+        "moduleId": "P1",
+        "syllabusSubArea": "B1",
+        "questionText": "A production budget is 10,500 units. Each unit uses 2 kg of material Y at $4/kg. Opening inventory of Y is 2,000 kg and desired closing is 1,500 kg. What is the total material purchases budget in dollars?",
+        "options": [
+            "$84,000",
+            "$82,000",
+            "$86,000",
+            "$80,000"
+        ],
+        "correctAnswerIndex": 1
+    },
+    {
+        "id": "B1_Q3",
+        "moduleId": "P1",
+        "syllabusSubArea": "B1",
+        "questionText": "A production budget is 10,500 units. Each unit requires 1.5 hours of labour at $10/hour. What is the budgeted labour cost?",
+        "options": [
+            "$105,000",
+            "$15,750",
+            "$157,500",
+            "$175,000"
+        ],
+        "correctAnswerIndex": 2
+    },
+    {
+        "id": "B1_Q4",
+        "moduleId": "P1",
+        "syllabusSubArea": "B1",
+        "questionText": "A production budget of 10,500 units requires 15,750 labour hours. Variable overheads are $2 per labour hour and fixed overheads are $50,000. What is the total budgeted overhead cost?",
+        "options": [
+            "$31,500",
+            "$50,000",
+            "$81,500",
+            "$65,750"
+        ],
+        "correctAnswerIndex": 2
+    },
+    {
+        "id": "B1_Q5",
+        "moduleId": "P1",
+        "syllabusSubArea": "B1",
+        "questionText": "4,000 units are to be manufactured. Each unit requires 9 litres of raw material. 10% of material used is wasted during manufacture. How many litres are required for production in total?",
+        "options": [
+            "36,000 litres",
+            "39,600 litres",
+            "40,000 litres",
+            "44,000 litres"
+        ],
+        "correctAnswerIndex": 2
+    },
+    {
+        "id": "B1_Q6",
+        "moduleId": "P1",
+        "syllabusSubArea": "B1",
+        "questionText": "A new business forecasts sales of $15k, $20k, and $24k in its first three months. 20% of customers pay in the month of sale, 50% one month later, and 25% two months later. 5% are irrecoverable. What are the expected cash receipts in month 3?",
+        "options": [
+            "$18,550",
+            "$19,500",
+            "$24,000",
+            "$20,000"
+        ],
+        "correctAnswerIndex": 0
+    },
+    {
+        "id": "B1_Q7",
+        "moduleId": "P1",
+        "syllabusSubArea": "B1",
+        "questionText": "A company's sales are $110,000, with a 25% mark-up on cost. What is the cost of sales?",
+        "options": [
+            "$82,500",
+            "$88,000",
+            "$137,500",
+            "$100,000"
+        ],
+        "correctAnswerIndex": 1
+    },
+    {
+        "id": "B1_Q8",
+        "moduleId": "P1",
+        "syllabusSubArea": "B1",
+        "questionText": "A business has a budgeted profit of $1,200. It considers reducing its service time, which would reduce direct labour costs of $3,600 by 25%. What would be the revised monthly profit?",
+        "options": [
+            "$900",
+            "$1,200",
+            "$2,100",
+            "$300"
+        ],
+        "correctAnswerIndex": 2
+    },
+    {
+        "id": "B1_Q9",
+        "moduleId": "P1",
+        "syllabusSubArea": "B1",
+        "questionText": "A single product has a selling price of $10/unit and variable cost of $4/unit. Fixed costs are $50,000. A competitor forces sales to fall to 20,000 units and fixed costs to increase by $10,000. What is the lowest price the company could sell at to break even?",
+        "options": [
+            "$6",
+            "$7",
+            "$8",
+            "$9"
+        ],
+        "correctAnswerIndex": 1
+    },
+    {
+        "id": "B1_Q10",
+        "moduleId": "P1",
+        "syllabusSubArea": "B1",
+        "questionText": "A company uses incremental budgeting. This year's labour budget was $250,000. Two employees on $25,000 each are leaving. Three new employees will join on $28,000 each. Existing employees will receive a 3% pay rise. What is next year's labour budget?",
+        "options": [
+            "$290,000",
+            "$284,000",
+            "$300,000",
+            "$250,000"
+        ],
+        "correctAnswerIndex": 0
+    },
+    {
+        "id": "B1_Q11",
+        "moduleId": "P1",
+        "syllabusSubArea": "B1",
+        "questionText": "Which of the following budgets is likely to be the MOST time-consuming to construct and manage?",
+        "options": [
+            "A periodic budget based on incremental budgeting principles",
+            "A periodic budget based on ZBB principles",
+            "A rolling budget based on incremental budgeting principles",
+            "A rolling budget based on ZBB principles"
+        ],
+        "correctAnswerIndex": 3
+    },
+    {
+        "id": "B2_Q1",
+        "moduleId": "P1",
+        "syllabusSubArea": "B2",
+        "questionText": "A company has a linear cost relationship of y = 5,000 + 10x, where x is output. If variable costs are expected to inflate by 5% and fixed costs by 2%, what is the predicted cost for an output of 3,000 units?",
+        "options": [
+            "$35,000",
+            "$36,600",
+            "$35,750",
+            "$37,250"
+        ],
+        "correctAnswerIndex": 1
+    },
+    {
+        "id": "B2_Q2",
+        "moduleId": "P1",
+        "syllabusSubArea": "B2",
+        "questionText": "A study on students found a relationship between study hours (x) and exam results (y) of y = 16.99 + 0.56x. What is the predicted exam result for a student who studies for 120 hours?",
+        "options": [
+            "75%",
+            "80%",
+            "84%",
+            "90%"
+        ],
+        "correctAnswerIndex": 2
+    },
+    {
+        "id": "B2_Q3",
+        "moduleId": "P1",
+        "syllabusSubArea": "B2",
+        "questionText": "The coefficient of determination (r²) for a regression analysis is 0.81. What does this mean?",
+        "options": [
+            "The correlation is weak.",
+            "81% of changes in the dependent variable are explained by changes in the independent variable.",
+            "The forecast is 81% accurate.",
+            "The fixed costs are 81% of the total costs."
+        ],
+        "correctAnswerIndex": 1
+    },
+    {
+        "id": "B2_Q4",
+        "moduleId": "P1",
+        "syllabusSubArea": "B2",
+        "questionText": "A company has a sales trend of T = 500 + 2m, where m is the month number. In Dec 20X5, m was 250. It has a seasonal variation for Jan-Mar of +50 boxes. What is the predicted sales for March 20X7?",
+        "options": [
+            "1,030 boxes",
+            "1,080 boxes",
+            "550 boxes",
+            "1,000 boxes"
+        ],
+        "correctAnswerIndex": 1
+    },
+    {
+        "id": "B2_Q5",
+        "moduleId": "P1",
+        "syllabusSubArea": "B2",
+        "questionText": "A company has a deseasonalised sales forecast of y = 275 + 21x, where x is the accounting period. For Quarter 2 (Q2), the seasonal variation is +35%. What are the seasonally adjusted sales for period 16 (which is a Q2)?",
+        "options": [
+            "611 units",
+            "825 units",
+            "700 units",
+            "900 units"
+        ],
+        "correctAnswerIndex": 1
+    },
+    {
+        "id": "B3_Q1",
+        "moduleId": "P1",
+        "syllabusSubArea": "B3",
+        "questionText": "Which ONE of the following statements in relation to a feedback control system is correct?",
+        "options": [
+            "Corrective action intended to increase deviation from target is known as 'negative feedback'.",
+            "An example of feedback control is cash budgeting.",
+            "In a feedback control system, actual results are compared with the budget to correct problems that have been discovered.",
+            "In a feedback control system, problems are anticipated in advance."
+        ],
+        "correctAnswerIndex": 2
+    },
+    {
+        "id": "B3_Q2",
+        "moduleId": "P1",
+        "syllabusSubArea": "B3",
+        "questionText": "A company has a fixed budget for 10,000 units: Sales $100,000, Variable costs $40,000, Fixed costs $20,000. What would the budgeted profit be in a flexible budget for 12,000 units?",
+        "options": [
+            "$40,000",
+            "$48,000",
+            "$52,000",
+            "$60,000"
+        ],
+        "correctAnswerIndex": 2
+    },
+    {
+        "id": "B3_Q3",
+        "moduleId": "P1",
+        "syllabusSubArea": "B3",
+        "questionText": "A company budgets for 40,000 units. Fixed overheads are $220,000, which includes a 10% step-up for production over 35,000 units. What is the flexed budgeted fixed cost for actual production of 32,000 units?",
+        "options": [
+            "$220,000",
+            "$242,000",
+            "$198,000",
+            "$200,000"
+        ],
+        "correctAnswerIndex": 3
+    },
+    {
+        "id": "B3_Q4",
+        "moduleId": "P1",
+        "syllabusSubArea": "B3",
+        "questionText": "A company planned to sell 1,000 units. Budgeted material cost was $5,000. Actual sales were 900 units with actual material cost of $4,800. What is the material cost variance?",
+        "options": [
+            "$200 Favourable",
+            "$300 Favourable",
+            "$200 Adverse",
+            "$300 Adverse"
+        ],
+        "correctAnswerIndex": 3
+    },
+    {
+        "id": "B3_Q5",
+        "moduleId": "P1",
+        "syllabusSubArea": "B3",
+        "questionText": "In a top-down (imposed) budgeting system, which of the following is a key advantage?",
+        "options": [
+            "It is highly motivational for junior managers.",
+            "It leads to more accurate, detailed budgets.",
+            "It is quick to prepare and ensures goal congruence.",
+            "It avoids the need for senior management oversight."
+        ],
+        "correctAnswerIndex": 2
+    },
+    {
+        "id": "C1_Q1",
+        "moduleId": "P1",
+        "syllabusSubArea": "C1",
+        "questionText": "A new machine requires $2,500 in additional monthly running costs. Because it saves labour time, the absorbed fixed overhead will reduce by $100 per month. Which of these is relevant to the decision to purchase the new machine?",
+        "options": [
+            "$2,500 additional running costs only",
+            "$100 reduction in absorbed fixed overheads only",
+            "Both of the costs",
+            "Neither of the costs"
+        ],
+        "correctAnswerIndex": 0
+    },
+    {
+        "id": "C1_Q2",
+        "moduleId": "P1",
+        "syllabusSubArea": "C1",
+        "questionText": "A contract requires 1,200kg of material X. 800kg is in inventory (original cost $3.20/kg, could be sold for $2.50/kg). The company has no other use for it. The remaining 400kg must be bought for $4.60/kg. What is the relevant cost of the material for the contract?",
+        "options": [
+            "$4,400",
+            "$3,840",
+            "$3,800",
+            "$5,520"
+        ],
+        "correctAnswerIndex": 2
+    },
+    {
+        "id": "C1_Q3",
+        "moduleId": "P1",
+        "syllabusSubArea": "C1",
+        "questionText": "A new contract requires 200 hours of skilled labour. The company employs skilled labourers on a permanent contract, paid $18/hour, but they are currently only working at 50% capacity and have 280 spare hours available. What is the relevant cost of the labour for the contract?",
+        "options": [
+            "$0",
+            "$1,800",
+            "$3,600",
+            "$5,040"
+        ],
+        "correctAnswerIndex": 0
+    },
+    {
+        "id": "C1_Q4",
+        "moduleId": "P1",
+        "syllabusSubArea": "C1",
+        "questionText": "A project requires a machine currently used elsewhere, where it generates a present value of $20,000. It has a scrap value of $12,000. A replacement machine can be bought for $15,000. What is the relevant cost of using the machine in the project?",
+        "options": [
+            "$12,000",
+            "$20,000",
+            "$15,000",
+            "$5,000"
+        ],
+        "correctAnswerIndex": 2
+    },
+    {
+        "id": "C1_Q5",
+        "moduleId": "P1",
+        "syllabusSubArea": "C1",
+        "questionText": "A project requires 1,000 kgs of Material A. It is in stock and regularly used in other products. The current purchase price is $2.15 per kg. What is the relevant cost of Material A?",
+        "options": [
+            "$0",
+            "$2,150",
+            "The original purchase price",
+            "The contribution foregone from other products"
+        ],
+        "correctAnswerIndex": 1
+    },
+    {
+        "id": "C1_Q6",
+        "moduleId": "P1",
+        "syllabusSubArea": "C1",
+        "questionText": "A project requires 3,000 hours of semi-skilled labour paid at $6/hour. This labour is fully occupied on other work that generates a contribution of $4 per hour. There is no other labour available. What is the relevant cost of the semi-skilled labour for the project?",
+        "options": [
+            "$18,000",
+            "$12,000",
+            "$30,000",
+            "$6,000"
+        ],
+        "correctAnswerIndex": 2
+    },
+    {
+        "id": "C1_Q7",
+        "moduleId": "P1",
+        "syllabusSubArea": "C1",
+        "questionText": "A company is deciding whether to convert a product. Revenue from conversion would be $85,000. Relevant costs are: Material A $2,150, Material B $5,500, Skilled Labour $24,000, Unskilled Labour $30,000, Machine $15,000. Should the company convert the product?",
+        "options": [
+            "Yes, there is a net benefit of $8,350",
+            "No, there is a net cost of $8,350",
+            "Yes, there is a net benefit of $76,650",
+            "No, there is a net cost of $76,650"
+        ],
+        "correctAnswerIndex": 0
+    },
+    {
+        "id": "C1_Q8",
+        "moduleId": "P1",
+        "syllabusSubArea": "C1",
+        "questionText": "Z Ltd produces two products from a single process. Product AB can be sold for $15/litre at split-off, or processed further for $7.50/litre to be sold for $25/litre. Product XY can be sold for $10/litre, or processed further for $4/litre to be sold for $13/litre. Which product(s) should be further processed?",
+        "options": [
+            "Neither product",
+            "Product AB only",
+            "Product XY only",
+            "Both products"
+        ],
+        "correctAnswerIndex": 1
+    },
+    {
+        "id": "C1_Q9",
+        "moduleId": "P1",
+        "syllabusSubArea": "C1",
+        "questionText": "A division has a budgeted loss of $70,000. If it is shut down, the company would save its specific fixed costs of $60,000 and variable costs of $120,000. It would lose revenue of $150,000, incur redundancy costs of $25,000 and another division would lose $30,000 of internal contribution. What is the net financial impact of shutting the division?",
+        "options": [
+            "$5,000 benefit",
+            "$30,000 benefit",
+            "$70,000 benefit",
+            "$25,000 cost"
+        ],
+        "correctAnswerIndex": 3
+    },
+    {
+        "id": "C1_Q10",
+        "moduleId": "P1",
+        "syllabusSubArea": "C1",
+        "questionText": "The purchasing manager of D plc is considering a make-vs-buy decision. Details:\n- If made in-house: Variable costs $10, Selling price $15.\n- If bought-in and rebadged: Variable costs $2, External purchase costs $6, Selling price $15.\nWhich decision will maximise contribution?",
+        "options": [
+            "Make in-house",
+            "Buy-in and rebadge",
+            "Both options give equal contribution",
+            "Cannot be determined"
+        ],
+        "correctAnswerIndex": 1
+    },
+    {
+        "id": "C1_Q11",
+        "moduleId": "P1",
+        "syllabusSubArea": "C1",
+        "questionText": "A company manufactures four products (A, B, C, D) and can also buy them externally. Direct labour hours are in short supply. To maximise profit, how should the company prioritise which products to 'make' in-house rather than 'buy'?",
+        "options": [
+            "Rank by the highest contribution per unit.",
+            "Rank by the lowest external purchase price.",
+            "Rank by the highest saving per unit of the limiting factor (labour hour).",
+            "Rank by the lowest variable cost to make."
+        ],
+        "correctAnswerIndex": 2
+    },
+    {
+        "id": "C1_Q12",
+        "moduleId": "P1",
+        "syllabusSubArea": "C1",
+        "questionText": "A company is using weighted benefit scoring to select a supplier based on four criteria: Cost (30% weight), Quality (40%), Environmental (20%), and Credit terms (10%). Supplier A scores 70, 80, 90, and 70 respectively on these criteria. What is Supplier A's total weighted score?",
+        "options": [
+            "75",
+            "78",
+            "80",
+            "70"
+        ],
+        "correctAnswerIndex": 1
+    },
+    {
+        "id": "C2_Q1",
+        "moduleId": "P1",
+        "syllabusSubArea": "C2",
+        "questionText": "A company's product has a selling price of $120/unit and variable costs of $72/unit. Fixed costs are $24,000 per month. What is the breakeven point in units?",
+        "options": [
+            "200 units",
+            "333 units",
+            "500 units",
+            "600 units"
+        ],
+        "correctAnswerIndex": 2
+    },
+    {
+        "id": "C2_Q2",
+        "moduleId": "P1",
+        "syllabusSubArea": "C2",
+        "questionText": "Consider the following breakeven chart. The revenue and total cost lines intersect at 400 units. The fixed cost line is at $2,400. If planned sales are 1,200 units, what is the margin of safety as a percentage?",
+        "options": [
+            "33.3%",
+            "50.0%",
+            "66.7%",
+            "75.0%"
+        ],
+        "correctAnswerIndex": 2
+    },
+    {
+        "id": "C2_Q3",
+        "moduleId": "P1",
+        "syllabusSubArea": "C2",
+        "questionText": "Which TWO of the following statements are correct in respect of a profit-volume chart?",
+        "options": [
+            "The line plotted represents the variable costs.",
+            "The margin of safety can be determined from the chart.",
+            "The steeper the slope of the line, the greater the contribution per unit.",
+            "Variable cost per unit can be determined from the chart."
+        ],
+        "correctAnswerIndex": 1
+    },
+    {
+        "id": "C2_Q4",
+        "moduleId": "P1",
+        "syllabusSubArea": "C2",
+        "questionText": "A company sells two products, X and Y. Budgeted sales are 20,000 units of X and 10,000 units of Y. Contribution is $20 for X and $15 for Y. Total fixed costs are $200,000. What is the breakeven point in total units, assuming the sales mix remains constant?",
+        "options": [
+            "10,000 units",
+            "10,911 units",
+            "11,429 units",
+            "12,500 units"
+        ],
+        "correctAnswerIndex": 1
+    },
+    {
+        "id": "C2_Q5",
+        "moduleId": "P1",
+        "syllabusSubArea": "C2",
+        "questionText": "M Ltd produces two products, I and II. Budgeted sales are 4,000 of I and 8,000 of II. Contribution is $24 for I and $30 for II. Fixed costs are $238,000. What is the margin of safety in units?",
+        "options": [
+            "8,500 units",
+            "3,500 units",
+            "3,185 units",
+            "2,846 units"
+        ],
+        "correctAnswerIndex": 1
+    },
+    {
+        "id": "C2_Q6",
+        "moduleId": "P1",
+        "syllabusSubArea": "C2",
+        "questionText": "A company has a budgeted profit of $60,000 on revenue of $400,000 and variable costs of $240,000. Assuming the sales mix does not change, what percentage increase in sales volume is needed to increase profit to $100,000?",
+        "options": [
+            "10%",
+            "15%",
+            "25%",
+            "40%"
+        ],
+        "correctAnswerIndex": 2
+    },
+    {
+        "id": "C2_Q7",
+        "moduleId": "P1",
+        "syllabusSubArea": "C2",
+        "questionText": "A product has a selling price of $120, variable costs of $40, and fixed costs of $10 per unit based on 5,000 units. A competitor forces the selling price down by $20. What percentage increase in the number of units sold is needed to breakeven?",
+        "options": [
+            "3%",
+            "25%",
+            "33%",
+            "40%"
+        ],
+        "correctAnswerIndex": 2
+    },
+    {
+        "id": "C3_Q1",
+        "moduleId": "P1",
+        "syllabusSubArea": "C3",
+        "questionText": "A company produces two products, X and Y, in three departments (A, B, C), each with limited hours. If the ONLY limiting factor is time in Department B (X requires 4 hours, Y requires 10 hours; Contribution is $4 for X, $8 for Y), which product should be prioritised?",
+        "options": [
+            "Product X",
+            "Product Y",
+            "Both are equal",
+            "Cannot be determined"
+        ],
+        "correctAnswerIndex": 0
+    },
+    {
+        "id": "C3_Q2",
+        "moduleId": "P1",
+        "syllabusSubArea": "C3",
+        "questionText": "A company produces two products, X and Y. The objective function to maximise contribution is C = 4x + 8y. What does this mean?",
+        "options": [
+            "The company makes 4 units of X and 8 units of Y.",
+            "The company makes a total of 12 units.",
+            "Each unit of X contributes $4 and each unit of Y contributes $8.",
+            "The total contribution is $12."
+        ],
+        "correctAnswerIndex": 2
+    },
+    {
+        "id": "C3_Q3",
+        "moduleId": "P1",
+        "syllabusSubArea": "C3",
+        "questionText": "For a linear programming problem, which of the following is a valid constraint expression for a resource limited to 11,000 hours, where product x uses 8 hours and product y uses 10 hours?",
+        "options": [
+            "8x + 10y > 11,000",
+            "8x + 10y < 11,000",
+            "8x + 10y = 11,000",
+            "8x + 10y ≤ 11,000"
+        ],
+        "correctAnswerIndex": 3
+    },
+    {
+        "id": "C3_Q4",
+        "moduleId": "P1",
+        "syllabusSubArea": "C3",
+        "questionText": "In a graphical linear programming solution, the area that satisfies all constraints simultaneously is known as the:",
+        "options": [
+            "Optimal region",
+            "Constraint region",
+            "Feasible region",
+            "Solution region"
+        ],
+        "correctAnswerIndex": 2
+    },
+    {
+        "id": "C3_Q5",
+        "moduleId": "P1",
+        "syllabusSubArea": "C3",
+        "questionText": "In a graphical solution to a maximisation problem, the optimal production plan is found at which point of the feasible region?",
+        "options": [
+            "The corner point closest to the origin.",
+            "The center of the feasible region.",
+            "The final corner point touched by the iso-contribution line as it moves away from the origin.",
+            "Any point along the edge of the feasible region."
+        ],
+        "correctAnswerIndex": 2
+    },
+    {
+        "id": "C3_Q6",
+        "moduleId": "P1",
+        "syllabusSubArea": "C3",
+        "questionText": "In a linear programming problem, a resource constraint that is fully utilised at the optimal solution point is known as a:",
+        "options": [
+            "Slack constraint",
+            "Surplus constraint",
+            "Binding constraint",
+            "Non-binding constraint"
+        ],
+        "correctAnswerIndex": 2
+    },
+    {
+        "id": "C3_Q7",
+        "moduleId": "P1",
+        "syllabusSubArea": "C3",
+        "questionText": "What is the shadow price (or dual price) of a scarce resource?",
+        "options": [
+            "The original cost of one extra unit of the resource.",
+            "The increase in contribution from one extra unit of the resource.",
+            "The selling price of a product that uses the resource.",
+            "The total cost saved by not using the resource."
+        ],
+        "correctAnswerIndex": 1
+    },
+    {
+        "id": "C3_Q8",
+        "moduleId": "P1",
+        "syllabusSubArea": "C3",
+        "questionText": "The optimal solution for a company is to produce 125 units of X and 75 units of Y. The objective function is C = 50x + 40y. The raw material constraint is 10x + 10y ≤ 2,000 kg. If one extra kg of material becomes available, the new optimal solution is x=125.125 and y=74.975. What is the shadow price per kg of raw material?",
+        "options": [
+            "$5.00",
+            "$5.25",
+            "$10.00",
+            "$15.25"
+        ],
+        "correctAnswerIndex": 1
+    },
+    {
+        "id": "C3_Q9",
+        "moduleId": "P1",
+        "syllabusSubArea": "C3",
+        "questionText": "Which of the following is a key limitation of linear programming?",
+        "options": [
+            "It cannot handle more than one constraint.",
+            "It assumes that all relationships (costs, revenues, resource usage) are linear.",
+            "It is only suitable for cost minimisation problems.",
+            "It cannot be solved using computer software."
+        ],
+        "correctAnswerIndex": 1
+    },
+    {
+        "id": "C3_Q10",
+        "moduleId": "P1",
+        "syllabusSubArea": "C3",
+        "questionText": "In a linear programming problem, what does 'slack' represent?",
+        "options": [
+            "The amount of a binding resource that has been over-utilised.",
+            "The amount of a non-binding resource that is unused at the optimal solution.",
+            "The difference between planned and actual profit.",
+            "The extra cost of acquiring more of a scarce resource."
+        ],
+        "correctAnswerIndex": 1
+    },
+    {
+        "id": "C3_Q11",
+        "moduleId": "P1",
+        "syllabusSubArea": "C3",
+        "questionText": "The optimal production plan occurs at the intersection of two constraints: 10x + 20y = 400,000 and 15x + 10y = 300,000. How many units of x and y should be produced?",
+        "options": [
+            "x = 10,000, y = 15,000",
+            "x = 15,000, y = 10,000",
+            "x = 20,000, y = 10,000",
+            "x = 10,000, y = 20,000"
+        ],
+        "correctAnswerIndex": 0
+    },
+    {
+        "id": "D1_Q1",
+        "moduleId": "P1",
+        "syllabusSubArea": "D1",
+        "questionText": "A company is considering launching a new product. It has identified four possible profit/(loss) outcomes and their probabilities: ($10,000) at 0.10, $46,000 at 0.30, $80,000 at 0.50, and $120,000 at 0.10. What is the expected value of launching the product?",
+        "options": [
+            "$60,000",
+            "$64,800",
+            "$58,000",
+            "$70,000"
+        ],
+        "correctAnswerIndex": 1
+    },
+    {
+        "id": "D1_Q2",
+        "moduleId": "P1",
+        "syllabusSubArea": "D1",
+        "questionText": "A pizza parlour is considering how many slices to prepare. A payoff table shows the expected value of profit is: 80 slices ($40), 120 slices ($52), 160 slices ($48), 200 slices ($4). Based on expected values, what is the optimal number of slices to prepare?",
+        "options": [
+            "80",
+            "120",
+            "160",
+            "200"
+        ],
+        "correctAnswerIndex": 1
+    },
+    {
+        "id": "D1_Q3",
+        "moduleId": "P1",
+        "syllabusSubArea": "D1",
+        "questionText": "A beauty salon is choosing between three locations. The expected value of profits for each location is: Location 1 ($46,200), Location 2 ($57,000), Location 3 ($43,950). Based on expected values, which location should be chosen?",
+        "options": [
+            "Location 1",
+            "Location 2",
+            "Location 3",
+            "They would be indifferent"
+        ],
+        "correctAnswerIndex": 1
+    },
+    {
+        "id": "D1_Q4",
+        "moduleId": "P1",
+        "syllabusSubArea": "D1",
+        "questionText": "A manager is making a decision under uncertainty. They want to choose the option that gives the best possible outcome in the worst-case scenario. Which decision criterion are they using?",
+        "options": [
+            "Maximax",
+            "Maximin",
+            "Minimax regret",
+            "Expected value"
+        ],
+        "correctAnswerIndex": 1
+    },
+    {
+        "id": "D1_Q5",
+        "moduleId": "P1",
+        "syllabusSubArea": "D1",
+        "questionText": "A manager wants to choose the option that gives the best possible outcome in the best-case scenario. Which decision criterion are they using?",
+        "options": [
+            "Maximax",
+            "Maximin",
+            "Minimax regret",
+            "Expected value"
+        ],
+        "correctAnswerIndex": 0
+    },
+    {
+        "id": "D1_Q6",
+        "moduleId": "P1",
+        "syllabusSubArea": "D1",
+        "questionText": "A manager wants to choose an option to minimise the opportunity loss of having made the wrong decision. Which criterion should they use?",
+        "options": [
+            "Maximax",
+            "Maximin",
+            "Minimax regret",
+            "Expected value"
+        ],
+        "correctAnswerIndex": 2
+    },
+    {
+        "id": "D1_Q7",
+        "moduleId": "P1",
+        "syllabusSubArea": "D1",
+        "questionText": "The expected value of a decision without perfect information is $52. With perfect information, the expected value would be $76. What is the maximum amount that should be paid for this perfect information?",
+        "options": [
+            "$24",
+            "$52",
+            "$76",
+            "$128"
+        ],
+        "correctAnswerIndex": 0
+    },
+    {
+        "id": "D1_Q8",
+        "moduleId": "P1",
+        "syllabusSubArea": "D1",
+        "questionText": "The coefficient of variation is a measure of:",
+        "options": [
+            "Absolute risk",
+            "Expected return",
+            "Relative risk",
+            "Correlation"
+        ],
+        "correctAnswerIndex": 2
+    },
+    {
+        "id": "D1_Q9",
+        "moduleId": "P1",
+        "syllabusSubArea": "D1",
+        "questionText": "A project's monthly labour costs are normally distributed with a mean of $65,000 and a standard deviation of $3,500. What is the probability that the monthly labour costs will be less than $58,700?",
+        "options": [
+            "46.41%",
+            "3.59%",
+            "50.00%",
+            "96.41%"
+        ],
+        "correctAnswerIndex": 1
+    },
+    {
+        "id": "D1_Q10",
+        "moduleId": "P1",
+        "syllabusSubArea": "D1",
+        "questionText": "On a decision tree, what does a square node represent?",
+        "options": [
+            "A chance point / outcome",
+            "A decision point",
+            "A final payoff",
+            "A probability"
+        ],
+        "correctAnswerIndex": 1
+    },
+    {
+        "id": "D1_Q11",
+        "moduleId": "P1",
+        "syllabusSubArea": "D1",
+        "questionText": "A product requires two coats of paint, A and B. There is a 4% probability of a fault with paint A and an 8% probability of a fault with paint B. The processes are independent. What is the probability of the final product having a fault with both paints?",
+        "options": [
+            "12.00%",
+            "4.00%",
+            "0.32%",
+            "8.00%"
+        ],
+        "correctAnswerIndex": 2
+    },
+    {
+        "id": "D1_Q12",
+        "moduleId": "P1",
+        "syllabusSubArea": "D1",
+        "questionText": "A manager is considering a make-vs-buy decision. The contribution is $5 if made in-house and $6 if bought-in. The external purchase price is $6. What is the sensitivity of this decision to a change in the external purchase price?",
+        "options": [
+            "10%",
+            "17%",
+            "20%",
+            "25%"
+        ],
+        "correctAnswerIndex": 1
+    },
+    {
+        "id": "A2_Supp_Q1",
+        "moduleId": "P1",
+        "syllabusSubArea": "A2",
+        "questionText": "A company has the following budget for the year:\n- Selling price/unit: $310\n- Variable production cost/unit: $135\n- Fixed production cost/unit: $90\n- Sales volume: 60,000 units\n- Production volume: 62,000 units\nIf budgeted profit statements were prepared using absorption costing and then marginal costing, what would the difference be?",
+        "options": [
+            "Marginal costing profits would be higher by $270,000",
+            "Absorption costing profits would be higher by $180,000",
+            "Absorption costing profits would be higher by $270,000",
+            "Marginal costing profits would be higher by $180,000"
+        ],
+        "correctAnswerIndex": 1
+    },
+    {
+        "id": "A2_Supp_Q2",
+        "moduleId": "P1",
+        "syllabusSubArea": "A2",
+        "questionText": "An organisation's absorption costing profit was $288,000. Opening inventory was 6,000 units and closing inventory was 4,000 units. The fixed production overhead is $15 per unit. The reported profit using marginal costing would be:",
+        "options": [
+            "$258,000",
+            "$318,000",
+            "$288,000",
+            "$30,000"
+        ],
+        "correctAnswerIndex": 1
+    },
+    {
+        "id": "A3_Supp_Q1",
+        "moduleId": "P1",
+        "syllabusSubArea": "A3",
+        "questionText": "A company using ABC has production set-up costs of $50,400. Product A requires 20 production runs and Product B requires 8 runs. What is the set-up cost per production run?",
+        "options": [
+            "$1,800",
+            "$2,520",
+            "$6,300",
+            "$50,400"
+        ],
+        "correctAnswerIndex": 0
+    },
+    {
+        "id": "A3_Supp_Q2",
+        "moduleId": "P1",
+        "syllabusSubArea": "A3",
+        "questionText": "A business advisor using ABC has a total cost for legal checks of $864,000, driven by the number of checks. Total checks are 2,880. A 'property management' service requires 8 legal checks. What is the legal check cost attached to each property management service?",
+        "options": [
+            "$300",
+            "$800",
+            "$1,600",
+            "$2,400"
+        ],
+        "correctAnswerIndex": 3
+    },
+    {
+        "id": "A4_Supp_Q1",
+        "moduleId": "P1",
+        "syllabusSubArea": "A4",
+        "questionText": "A company uses throughput accounting and has a machine bottleneck. Using the following data, which product should be ranked 1st?\n\n| | Product A | Product C |\n|---|---|---|\n| Selling Price | $50 | $100 |\n| Direct Materials | $18 | $40 |\n| Machine hours | 0.5 | 1.0 |\n",
+        "options": [
+            "Product A",
+            "Product C",
+            "Both are equal",
+            "Cannot be determined"
+        ],
+        "correctAnswerIndex": 0
+    },
+    {
+        "id": "A3_Supp_Q3",
+        "moduleId": "P1",
+        "syllabusSubArea": "A3",
+        "questionText": "Which of the following statements regarding activity based costing (ABC) is incorrect?",
+        "options": [
+            "Activity costs are absorbed into products.",
+            "Apportionment of overhead costs is not required.",
+            "Cost drivers need to be determined for each activity.",
+            "ABC can be used by non-production organisations."
+        ],
+        "correctAnswerIndex": 1
+    },
+    {
+        "id": "A4_Supp_Q2",
+        "moduleId": "P1",
+        "syllabusSubArea": "A4",
+        "questionText": "A product is sold for $620 per unit, with a material cost of $220. It takes 2 hours of bottleneck labour time. Total operating expenses are $70,000 per week, and total bottleneck hours available are 700. What is the throughput accounting ratio?",
+        "options": [
+            "1.0",
+            "2.0",
+            "2.8",
+            "4.0"
+        ],
+        "correctAnswerIndex": 1
+    },
+    {
+        "id": "A4_Supp_Q3",
+        "moduleId": "P1",
+        "syllabusSubArea": "A4",
+        "questionText": "Which of the following statements regarding by-products is true?",
+        "options": [
+            "A by-product is a product that cannot be further processed.",
+            "By-products have a relatively low value when compared to main products.",
+            "The production of by-products is a key aim of processing.",
+            "Profit from a by-product must be used to reduce any joint process costs."
+        ],
+        "correctAnswerIndex": 1
+    },
+    {
+        "id": "A2_Supp_Q3",
+        "moduleId": "P1",
+        "syllabusSubArea": "A2",
+        "questionText": "Which costing system values inventory at its total variable production cost per unit?",
+        "options": [
+            "Activity based costing",
+            "Marginal costing",
+            "Throughput accounting",
+            "Absorption Costing"
+        ],
+        "correctAnswerIndex": 1
+    },
+    {
+        "id": "A1_Supp_Q1",
+        "moduleId": "P1",
+        "syllabusSubArea": "A1",
+        "questionText": "Which TWO of the following would not be classified as indirect production overheads?",
+        "options": [
+            "Supervision costs incurred in the factory.",
+            "Electricity costs for running the factory.",
+            "Royalty payments paid on each unit produced.",
+            "Costs associated with distributing products from the factory."
+        ],
+        "correctAnswerIndex": 2
+    },
+    {
+        "id": "A5_Supp_Q1",
+        "moduleId": "P1",
+        "syllabusSubArea": "A5",
+        "questionText": "Standard direct labour is 6 hours @ $25/hr. Actual production was 4,250 units. Actual hours worked were 26,350, costing $685,100. What is the adverse labour rate variance?",
+        "options": [
+            "$25,500",
+            "$26,350",
+            "$28,750",
+            "$30,000"
+        ],
+        "correctAnswerIndex": 1
+    },
+    {
+        "id": "A5_Supp_Q2",
+        "moduleId": "P1",
+        "syllabusSubArea": "A5",
+        "questionText": "An accountancy firm has budgeted fixed overheads of $40,000 based on 20,000 hours. Actual hours were 19,500. What is the fixed overhead capacity variance?",
+        "options": [
+            "$2,400 favourable",
+            "$2,400 adverse",
+            "$1,000 favourable",
+            "$1,000 adverse"
+        ],
+        "correctAnswerIndex": 3
+    },
+    {
+        "id": "A5_Supp_Q3",
+        "moduleId": "P1",
+        "syllabusSubArea": "A5",
+        "questionText": "Standard material cost is 10kg @ $6/kg per unit. Actual production was 8,700 units. Materials issued to production were 88,000 kg. What is the materials usage variance?",
+        "options": [
+            "$6,000 favourable",
+            "$6,000 adverse",
+            "$18,000 favourable",
+            "$18,000 adverse"
+        ],
+        "correctAnswerIndex": 1
+    },
+    {
+        "id": "A5_Supp_Q4",
+        "moduleId": "P1",
+        "syllabusSubArea": "A5",
+        "questionText": "A company bought 22,000 kg of materials for $14,520. It had a favourable material price variance of $440. What is the standard price per kg?",
+        "options": [
+            "$0.66",
+            "$0.68",
+            "$0.70",
+            "$0.72"
+        ],
+        "correctAnswerIndex": 1
+    },
+    {
+        "id": "A5_Supp_Q5",
+        "moduleId": "P1",
+        "syllabusSubArea": "A5",
+        "questionText": "Which of the following variances would appear in a marginal costing operating statement?",
+        "options": [
+            "Fixed overhead expenditure variance",
+            "Sales volume profit variance",
+            "Fixed overhead capacity variance",
+            "Sales volume contribution variance"
+        ],
+        "correctAnswerIndex": 0
+    },
+    {
+        "id": "A5_Supp_Q6",
+        "moduleId": "P1",
+        "syllabusSubArea": "A5",
+        "questionText": "An organisation uses marginal costing. Budgeted profit was $1,260,000. Variances were: Sales volume ($80k A), Materials price ($20k F), Labour efficiency ($10k F), Fixed overhead expenditure ($70k A). What is the actual profit?",
+        "options": [
+            "$1,170,000",
+            "$1,140,000",
+            "$1,210,000",
+            "$1,380,000"
+        ],
+        "correctAnswerIndex": 1
+    },
+    {
+        "id": "A6_Supp_Q1",
+        "moduleId": "P1",
+        "syllabusSubArea": "A6",
+        "questionText": "Which of the following would not normally lead to a planning variance?",
+        "options": [
+            "A legal change to working methods that alters the standard time.",
+            "An unexpected increase in world market prices for a material.",
+            "A change in supplier causing a change to material prices.",
+            "An incorrect standard cost card compiled by the firm's accountant."
+        ],
+        "correctAnswerIndex": 2
+    },
+    {
+        "id": "A6_Supp_Q2",
+        "moduleId": "P1",
+        "syllabusSubArea": "A6",
+        "questionText": "Which of the following would normally lead to a favourable sales mix variance?",
+        "options": [
+            "An organisation sold more products overall than expected.",
+            "An organisation sold less products overall than expected.",
+            "An organisation sold a greater proportion of its most profitable product than expected.",
+            "An organisation sold a lesser proportion of its most profitable product than expected."
+        ],
+        "correctAnswerIndex": 2
+    },
+    {
+        "id": "A6_Supp_Q3",
+        "moduleId": "P1",
+        "syllabusSubArea": "A6",
+        "questionText": "An ice cream parlour budgets for total sales of 4,000 units, with a weighted average contribution of $1.40 per unit. Actual sales were 3,000 units. What is the sales quantity variance?",
+        "options": [
+            "$1,200 Favourable",
+            "$1,200 Adverse",
+            "$1,400 Favourable",
+            "$1,400 Adverse"
+        ],
+        "correctAnswerIndex": 3
+    },
+    {
+        "id": "A6_Supp_Q4",
+        "moduleId": "P1",
+        "syllabusSubArea": "A6",
+        "questionText": "Standard labour rate is $23/hr. Actual rate paid was $23.50/hr for 2,450 hours. What is the labour rate operational variance?",
+        "options": [
+            "$1,225 adverse",
+            "$1,500 adverse",
+            "$2,450 adverse",
+            "$3,675 adverse"
+        ],
+        "correctAnswerIndex": 0
+    },
+    {
+        "id": "B1_Supp_Q1",
+        "moduleId": "P1",
+        "syllabusSubArea": "B1",
+        "questionText": "Which of the following is not considered to be a purpose of budgeting?",
+        "options": [
+            "Planning for future events",
+            "Removing the need for responsibility accounting",
+            "Ensuring the best utilisation of resources",
+            "Communicating strategic plans to employees"
+        ],
+        "correctAnswerIndex": 1
+    },
+    {
+        "id": "B1_Supp_Q2",
+        "moduleId": "P1",
+        "syllabusSubArea": "B1",
+        "questionText": "A company sells two services. Total budgeted revenue is $1,600,000. The C/S ratio for Service 2 is 0.7. The directors wish to change the sales mix (by revenue) to 40% Service 1 and 60% Service 2. What is the revised budgeted contribution from Service 2?",
+        "options": [
+            "$840,000",
+            "$960,000",
+            "$672,000",
+            "$1,120,000"
+        ],
+        "correctAnswerIndex": 2
+    },
+    {
+        "id": "B1_Supp_Q3",
+        "moduleId": "P1",
+        "syllabusSubArea": "B1",
+        "questionText": "How is the material purchases budget (in kg) determined?",
+        "options": [
+            "(Production units × materials per unit) - opening inventory + closing inventory",
+            "(Sales units × materials per unit) + opening inventory - closing inventory",
+            "(Sales units × materials per unit) - opening inventory + closing inventory",
+            "(Production units × materials per unit) + opening inventory - closing inventory"
+        ],
+        "correctAnswerIndex": 0
+    },
+    {
+        "id": "B1_Supp_Q4",
+        "moduleId": "P1",
+        "syllabusSubArea": "B1",
+        "questionText": "A company expects accounts receivable of $24,000 at the start of the year. Budgeted sales are $600,000, occurring evenly. 75% of sales are on credit, paid in the following month. What are the budgeted cash receipts for the year?",
+        "options": [
+            "$600,000",
+            "$624,000",
+            "$586,500",
+            "$450,000"
+        ],
+        "correctAnswerIndex": 2
+    },
+    {
+        "id": "B1_Supp_Q5",
+        "moduleId": "P1",
+        "syllabusSubArea": "B1",
+        "questionText": "A firm uses ABB. Total cost for 'Purchasing of materials' is $60,000, driven by purchase orders. Total purchase orders are 6,000. Product D requires 2 purchase orders per batch, and each batch has 100 units. What is the purchase order cost per unit of Product D?",
+        "options": [
+            "$0.10",
+            "$0.20",
+            "$10.00",
+            "$20.00"
+        ],
+        "correctAnswerIndex": 1
+    },
+    {
+        "id": "B2_Supp_Q1",
+        "moduleId": "P1",
+        "syllabusSubArea": "B2",
+        "questionText": "A company's deseasonalised sales forecast is y = 60 + 5x, where x is the accounting period. For Quarter 4, the seasonal variation is +14 units. What are the seasonally adjusted sales for period 16 (which is a Q4)?",
+        "options": [
+            "88 units",
+            "126 units",
+            "140 units",
+            "154 units"
+        ],
+        "correctAnswerIndex": 3
+    },
+    {
+        "id": "B2_Supp_Q2",
+        "moduleId": "P1",
+        "syllabusSubArea": "B2",
+        "questionText": "Using the high-low method on the following data, what is the expected energy cost for 50,000 machine hours?\n\n| Hours | Cost ($) |\n|---|---|\n| 58,613 | 739,257 |\n| 45,713 | 615,417 |\n",
+        "options": [
+            "$656,572",
+            "$642,641",
+            "$559,500",
+            "$480,000"
+        ],
+        "correctAnswerIndex": 0
+    },
+    {
+        "id": "B1_Supp_Q6",
+        "moduleId": "P1",
+        "syllabusSubArea": "B1",
+        "questionText": "Which of the following statements is incorrect?",
+        "options": [
+            "Zero based budgeting can be used on a rolling basis.",
+            "In high tech, unpredictable environments, standard costing becomes less useful.",
+            "In departments which have promoted a new manager from within, a participative style of budgeting should not be used.",
+            "Activity based budgeting is inappropriate in organisations which do not intend to apportion costs to each activity."
+        ],
+        "correctAnswerIndex": 2
+    },
+    {
+        "id": "B1_Supp_Q7",
+        "moduleId": "P1",
+        "syllabusSubArea": "B1",
+        "questionText": "Which of the following is an example of sensitivity analysis in budgeting?",
+        "options": [
+            "Changing the expected material cost per unit in order to examine the impact on profits.",
+            "Changing from a zero-based to an activity-based budgeting system.",
+            "Changing from an imposed to a participative style of budgeting.",
+            "Comparing the performance of two separate business units."
+        ],
+        "correctAnswerIndex": 0
+    },
+    {
+        "id": "B3_Supp_Q1",
+        "moduleId": "P1",
+        "syllabusSubArea": "B3",
+        "questionText": "Measuring differences between planned outputs and actual outputs is a characteristic of what type(s) of budgetary control system?",
+        "options": [
+            "Feedback control",
+            "Feedforward control",
+            "Both feedback control and feedforward control",
+            "Neither feedback control nor feedforward control"
+        ],
+        "correctAnswerIndex": 0
+    },
+    {
+        "id": "C1_Supp_Q1",
+        "moduleId": "P1",
+        "syllabusSubArea": "C1",
+        "questionText": "Which of the following is required when deciding (on financial grounds) whether to further process a joint product?",
+        "options": [
+            "The value of the common process costs.",
+            "The method of apportioning the common costs.",
+            "The sales value of the joint products at the separation point.",
+            "The running costs for the common process."
+        ],
+        "correctAnswerIndex": 2
+    },
+    {
+        "id": "C1_Supp_Q2",
+        "moduleId": "P1",
+        "syllabusSubArea": "C1",
+        "questionText": "Which of the following is not normally considered to be a relevant cost for decision making?",
+        "options": [
+            "Incremental fixed costs",
+            "Unpaid committed costs",
+            "Project decommissioning costs",
+            "Project investment costs"
+        ],
+        "correctAnswerIndex": 1
+    },
+    {
+        "id": "C1_Supp_Q3",
+        "moduleId": "P1",
+        "syllabusSubArea": "C1",
+        "questionText": "A project requires 10,000 kgs of material that is currently held in inventory and is regularly used. The material can be bought on the external market for $6 per kg. What is the total relevant cost of using the material in the project?",
+        "options": [
+            "$20,000",
+            "$30,000",
+            "$50,000",
+            "$60,000"
+        ],
+        "correctAnswerIndex": 3
+    },
+    {
+        "id": "C2_Supp_Q1",
+        "moduleId": "P1",
+        "syllabusSubArea": "C2",
+        "questionText": "Which of the following is not normally represented on a multi-product profit-volume chart?",
+        "options": [
+            "A contribution line for each product",
+            "Multiple break even points",
+            "Profit (or loss) earned",
+            "Variable costs"
+        ],
+        "correctAnswerIndex": 3
+    },
+    {
+        "id": "C2_Supp_Q2",
+        "moduleId": "P1",
+        "syllabusSubArea": "C2",
+        "questionText": "A company has budgeted sales of $140,000, variable costs of $60,000 and fixed costs of $100,000, resulting in a loss of $20,000. What is the margin of safety for the product?",
+        "options": [
+            "25% positive",
+            "25% negative",
+            "14% positive",
+            "14% negative"
+        ],
+        "correctAnswerIndex": 1
+    },
+    {
+        "id": "C2_Supp_Q3",
+        "moduleId": "P1",
+        "syllabusSubArea": "C2",
+        "questionText": "A company provides two services with a total revenue of $1,800,000 and total contribution of $1,120,000. Fixed costs are $500,000. What is the breakeven sales revenue for the company?",
+        "options": [
+            "$500,000",
+            "$804,000",
+            "$833,000",
+            "$1,600,000"
+        ],
+        "correctAnswerIndex": 1
+    },
+    {
+        "id": "C3_Supp_Q1",
+        "moduleId": "P1",
+        "syllabusSubArea": "C3",
+        "questionText": "Product A has a contribution per labour hour of $11. Product C has a contribution per labour hour of $21.33. Labour is a scarce resource. If more labour hours were sourced, what would be the shadow price per hour to produce more of Product A (assuming Product C is already at max demand)?",
+        "options": [
+            "$0",
+            "$10",
+            "$11",
+            "$21"
+        ],
+        "correctAnswerIndex": 2
+    },
+    {
+        "id": "C3_Supp_Q2",
+        "moduleId": "P1",
+        "syllabusSubArea": "C3",
+        "questionText": "An industrial survey (P) requires 5 junior surveyor hours. A commercial survey (C) requires 8 junior surveyor hours. If only 50,000 hours of junior surveyor time is available, what is the constraint equation?",
+        "options": [
+            "5P + 8C ≤ 50,000",
+            "P + 4C ≤ 50,000",
+            "5P + 2C ≤ 50,000",
+            "P + 5C ≤ 50,000"
+        ],
+        "correctAnswerIndex": 0
+    },
+    {
+        "id": "C1_Supp_Q4",
+        "moduleId": "P1",
+        "syllabusSubArea": "C1",
+        "questionText": "A one-off project requires 80 hours of labour. 20 hours can be provided by existing staff paid at $40/hour. The remaining 60 hours must be taken from another contract which generates $80 contribution over 4 labour hours. What is the total relevant cost of labour?",
+        "options": [
+            "$800",
+            "$3,200",
+            "$3,600",
+            "$4,400"
+        ],
+        "correctAnswerIndex": 3
+    },
+    {
+        "id": "D1_Supp_Q1",
+        "moduleId": "P1",
+        "syllabusSubArea": "D1",
+        "questionText": "Which of the following is not a disadvantage of using expected value techniques?",
+        "options": [
+            "Outcomes and associated probabilities can be subjective.",
+            "The expected value represents the long run average and may not be suitable for one-off decisions.",
+            "It ignores the investor’s attitude to risk.",
+            "It is a simple calculation to perform."
+        ],
+        "correctAnswerIndex": 3
+    },
+    {
+        "id": "D1_Supp_Q2",
+        "moduleId": "P1",
+        "syllabusSubArea": "D1",
+        "questionText": "An outside caterer expects to sell 2,000 meals if it is rainy (0.4 probability) and 800 meals if it is sunny (0.6 probability). What is the expected value for the number of meals to be sold?",
+        "options": [
+            "1,280",
+            "1,400",
+            "2,000",
+            "800"
+        ],
+        "correctAnswerIndex": 0
+    },
+    {
+        "id": "D1_Supp_Q3",
+        "moduleId": "P1",
+        "syllabusSubArea": "D1",
+        "questionText": "Using a maximin criteria on the payoff table provided, how many cakes should be baked each day?\n\n| Demand | Bake 20 | Bake 30 | Bake 40 | Bake 50 |\n|---|---|---|---|---|\n| 20 | $400 | $140 | $(140) | $(400) |\n| 30 | $400 | $600 | $300 | $80 |\n",
+        "options": [
+            "20",
+            "30",
+            "40",
+            "50"
+        ],
+        "correctAnswerIndex": 0
+    },
+    {
+        "id": "D1_Supp_Q4",
+        "moduleId": "P1",
+        "syllabusSubArea": "D1",
+        "questionText": "Which of the following would be considered by an investor who is risk averse?",
+        "options": [
+            "The overall expected value from the decision.",
+            "The standard deviation of the data.",
+            "The potential maximax value of the outcomes.",
+            "The normal distribution of the data."
+        ],
+        "correctAnswerIndex": 1
+    },
+    {
+        "id": "D1_Supp_Q5",
+        "moduleId": "P1",
+        "syllabusSubArea": "D1",
+        "questionText": "On the provided decision tree, what is the expected value at decision point A if the company decides to 'Invest'? Initial investment is $8k. High success (80% prob) payoff is $40k, Low success (20% prob) payoff is $5k.",
+        "options": [
+            "$10,000",
+            "$25,000",
+            "$33,000",
+            "$45,000"
+        ],
+        "correctAnswerIndex": 1
+    },
+    {
+        "id": "D1_Supp_Q6",
+        "moduleId": "P1",
+        "syllabusSubArea": "D1",
+        "questionText": "In a minimax regret table, what would the value be at Point X?\n\n| Demand | Production 20 | Production 40 |\n|---|---|---|\n| 40 | $7,500 | $9,000 |\n\nRegret Table:\n| Demand | Production 20 | Production 40 |\n|---|---|---|\n| 40 | X | ? |\n",
+        "options": [
+            "$300",
+            "$600",
+            "$750",
+            "$1,500"
+        ],
+        "correctAnswerIndex": 3
+    },
+    {
+        "id": "D1_Supp_Q7",
+        "moduleId": "P1",
+        "syllabusSubArea": "D1",
+        "questionText": "Which TWO of the following statements are true?",
+        "options": [
+            "As standard deviation increases risk decreases.",
+            "Perfect information is always correct.",
+            "A risk neutral investor typically ignores the range of possible outcomes.",
+            "Imperfect information has no value."
+        ],
+        "correctAnswerIndex": 1
+    },
+    {
+        "id": "D1_Supp_Q8",
+        "moduleId": "P1",
+        "syllabusSubArea": "D1",
+        "questionText": "A salon can open in Area 1 (EV $42k) or Area 2 (EV $47k). With perfect information about which area will get a new housing development, the EV of the decision becomes $69k. What is the maximum the salon should pay for this perfect information?",
+        "options": [
+            "$27,000",
+            "$22,000",
+            "$47,000",
+            "$69,000"
+        ],
+        "correctAnswerIndex": 1
+    },
+    {
+        "id": "D1_Supp_Q9",
+        "moduleId": "P1",
+        "syllabusSubArea": "D1",
+        "questionText": "A business has two investment options, A (EV $74k) and B (EV $78k). With perfect information on the state of the economy, the EV of the decision rises to $80k. What is the value of this perfect information?",
+        "options": [
+            "$2,000",
+            "$3,200",
+            "$4,000",
+            "$6,000"
+        ],
+        "correctAnswerIndex": 0
+    },
+    {
+        "id": "D1_Supp_Q10",
+        "moduleId": "P1",
+        "syllabusSubArea": "D1",
+        "questionText": "A company averages sales of 100,000 units/week. Rivals may run a promotion, reducing sales by 20%. There is a 40% chance of a promotion in week 3 only. What is the total estimated sales volume for the next 4-week period?",
+        "options": [
+            "400,000 units",
+            "380,000 units",
+            "392,000 units",
+            "320,000 units"
+        ],
+        "correctAnswerIndex": 2
+    }
+]

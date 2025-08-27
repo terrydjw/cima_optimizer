@@ -1,3 +1,6 @@
+import 'package:cima_optimizer/features/dashboard/screens/sub_syllabus_stats_screen.dart';
+import 'package:cima_optimizer/features/modules/models/module_details.dart';
+import 'package:cima_optimizer/features/modules/providers/module_provider.dart';
 import 'package:flutter/material.dart';
 import 'package:provider/provider.dart';
 import '../practice/providers/quiz_provider.dart';
@@ -10,10 +13,16 @@ class DashboardScreen extends StatelessWidget {
 
   @override
   Widget build(BuildContext context) {
+    final moduleId = context.watch<ModuleProvider>().selectedModuleId;
+
     return Consumer<QuizProvider>(
       builder: (context, quizProvider, child) {
-        final double syllabusCoverage = quizProvider.syllabusCoverage;
-        final Lesson? recommendation = quizProvider.weakestTopic;
+        if (moduleId == null || quizProvider.isLoading) {
+          return const Center(child: CircularProgressIndicator());
+        }
+
+        final syllabusAreas = getSyllabusAreasForModule(moduleId);
+        final recommendation = quizProvider.weakestTopic;
         final recentQuizzes = quizProvider.recentQuizzes;
 
         return SingleChildScrollView(
@@ -32,29 +41,47 @@ class DashboardScreen extends StatelessWidget {
                 style: Theme.of(context).textTheme.titleLarge,
               ),
               const SizedBox(height: 16),
-              ProgressCard(
-                title: 'Syllabus Area A: Ethics',
-                value: quizProvider.getPerformanceForArea('A'),
-                metricLabel:
-                    '${(quizProvider.getPerformanceForArea('A') * 100).toStringAsFixed(0)}%',
-                color: Colors.red.shade400,
-              ),
-              ProgressCard(
-                title: 'Syllabus Area B: Governance',
-                value: quizProvider.getPerformanceForArea('B'),
-                metricLabel:
-                    '${(quizProvider.getPerformanceForArea('B') * 100).toStringAsFixed(0)}%',
-                color: Colors.blue.shade400,
-              ),
-              ProgressCard(
-                title: 'Syllabus Area C: Law',
-                value: quizProvider.getPerformanceForArea('C'),
-                metricLabel:
-                    '${(quizProvider.getPerformanceForArea('C') * 100).toStringAsFixed(0)}%',
-                color: Colors.orange.shade400,
-              ),
+
+              // This is the updated, dynamic section
+              ...syllabusAreas.asMap().entries.map((entry) {
+                final idx = entry.key;
+                final area = entry.value;
+
+                final colors = [
+                  Colors.red.shade400,
+                  Colors.blue.shade400,
+                  Colors.orange.shade400,
+                  Colors.green.shade400,
+                  Colors.purple.shade400,
+                ];
+                final color = colors[idx % colors.length];
+                final performance = quizProvider.getPerformanceForArea(area.id);
+
+                return GestureDetector(
+                  onTap: () {
+                    Navigator.push(
+                      context,
+                      MaterialPageRoute(
+                        builder: (context) => SubSyllabusStatsScreen(
+                          areaId: area.id,
+                          areaTitle: area.title,
+                        ),
+                      ),
+                    );
+                  },
+                  child: ProgressCard(
+                    title: area.title,
+                    subtitle: area.subtitle,
+                    value: performance,
+                    metricLabel: '${(performance * 100).toStringAsFixed(0)}%',
+                    color: color,
+                  ),
+                );
+              }),
+
               const SizedBox(height: 24),
 
+              // This is the restored Recommendation section
               Text(
                 'Next Up: Your Recommendation',
                 style: Theme.of(context).textTheme.titleLarge,
@@ -93,6 +120,7 @@ class DashboardScreen extends StatelessWidget {
               ),
               const SizedBox(height: 24),
 
+              // This is the restored Recent Activity section
               Text(
                 'Recent Activity',
                 style: Theme.of(context).textTheme.titleLarge,

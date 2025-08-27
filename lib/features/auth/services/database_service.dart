@@ -5,17 +5,28 @@ class DatabaseService {
 
   Future<void> updateUserProgress({
     required String userId,
+    required String moduleId,
     required Set<String> answeredQuestionIds,
     required Map<String, int> topicAttempts,
     required Map<String, int> topicCorrectAnswers,
+    // Add the new sub-topic maps
+    required Map<String, int> subTopicAttempts,
+    required Map<String, int> subTopicCorrectAnswers,
     required List<Map<String, dynamic>> recentQuizzes,
   }) async {
     try {
-      final userDocRef = _db.collection('users').doc(userId);
-      await userDocRef.set({
+      final userProgressDocRef = _db
+          .collection('users')
+          .doc(userId)
+          .collection('progress')
+          .doc(moduleId);
+      await userProgressDocRef.set({
         'answeredQuestionIds': answeredQuestionIds.toList(),
         'topicAttempts': topicAttempts,
         'topicCorrectAnswers': topicCorrectAnswers,
+        // Add the new fields to be saved to Firestore
+        'subTopicAttempts': subTopicAttempts,
+        'subTopicCorrectAnswers': subTopicCorrectAnswers,
         'recentQuizzes': recentQuizzes,
       }, SetOptions(merge: true));
     } catch (e) {
@@ -23,9 +34,17 @@ class DatabaseService {
     }
   }
 
-  Future<Map<String, dynamic>?> getUserProgress(String userId) async {
+  Future<Map<String, dynamic>?> getUserProgress({
+    required String userId,
+    required String moduleId,
+  }) async {
     try {
-      final doc = await _db.collection('users').doc(userId).get();
+      final doc = await _db
+          .collection('users')
+          .doc(userId)
+          .collection('progress')
+          .doc(moduleId)
+          .get();
       return doc.data();
     } catch (e) {
       print(e.toString());

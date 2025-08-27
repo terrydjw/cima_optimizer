@@ -1,3 +1,4 @@
+import 'package:cima_optimizer/features/modules/screens/module_selection_screen.dart'; // Add this import
 import 'package:firebase_auth/firebase_auth.dart';
 import 'package:flutter/material.dart';
 import 'package:provider/provider.dart';
@@ -17,13 +18,15 @@ class AuthWrapper extends StatelessWidget {
       builder: (context, snapshot) {
         if (snapshot.connectionState == ConnectionState.active) {
           final User? user = snapshot.data;
-          // If the user is null, they are logged out, so I'll show the AuthScreen.
-          // Otherwise, I'll show the main app.
+
+          // If the user is logged in, show the ModuleSelectionScreen.
+          // Otherwise, show the AuthScreen.
           return user == null
               ? const AuthScreen()
-              : MainScreen(key: mainScreenKey);
+              // This is the only line that changes.
+              : const ModuleSelectionScreen();
         }
-        // While waiting for the auth state, I'll show a loading spinner.
+        // While waiting for the auth state, show a loading spinner.
         return const Scaffold(body: Center(child: CircularProgressIndicator()));
       },
     );

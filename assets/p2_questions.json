@@ -1,0 +1,1939 @@
+[
+    {
+        "id": "A1_Q1",
+        "moduleId": "P2",
+        "syllabusSubArea": "A1",
+        "questionText": "A company is changing from traditional absorption costing (AC) based on labour hours to an ABC system. Overheads of $156,000 are related to material deliveries. Total units are 6,000. Total labour hours are 45,000. Delivery info:\n\n| | Product X | Product Y | Product Z |\n|---|---|---|---|\n| Total units | 1,000 | 2,000 | 3,000 |\n| Delivery size | 200 | 400 | 1,000 |\n\nWhat is the change in unit cost for Product Z from the switch to ABC?",
+        "options": [
+            "$0.50 increase",
+            "$0.50 decrease",
+            "$14.00 increase",
+            "$14.00 decrease"
+        ],
+        "correctAnswerIndex": 3
+    },
+    {
+        "id": "A1_Q2",
+        "moduleId": "P2",
+        "syllabusSubArea": "A1",
+        "questionText": "Match the following activities to their corresponding level in the ABC hierarchy: (1) Security for the factory site, (2) Advertising, (3) Direct materials, (4) Machine set-ups.",
+        "options": [
+            "Unit-level: 3, Batch-related: 4, Product-sustaining: 2, Facility-sustaining: 1",
+            "Unit-level: 4, Batch-related: 3, Product-sustaining: 1, Facility-sustaining: 2",
+            "Unit-level: 3, Batch-related: 2, Product-sustaining: 4, Facility-sustaining: 1",
+            "Unit-level: 1, Batch-related: 4, Product-sustaining: 2, Facility-sustaining: 3"
+        ],
+        "correctAnswerIndex": 0
+    },
+    {
+        "id": "A1_Q3",
+        "moduleId": "P2",
+        "syllabusSubArea": "A1",
+        "questionText": "A retail company sells two products, J and H. Warehouse costs are $2.50 per m³ per month. Transport costs are $4.50 per m³. Product H occupies 0.20 m³ and spends 1 month in the warehouse. What is the total warehouse and transport cost for one unit of Product H (its Direct Product Cost)?",
+        "options": [
+            "$0.90",
+            "$0.50",
+            "$1.40",
+            "$2.75"
+        ],
+        "correctAnswerIndex": 2
+    },
+    {
+        "id": "A2_Q1",
+        "moduleId": "P2",
+        "syllabusSubArea": "A2",
+        "questionText": "A product has a selling price of $130, direct material costs of $50, labour costs of $40, and factory overheads of $20. It requires 4 hours of machine time, which is a bottleneck resource. Total factory costs are $9,000 per week for 150 units. What is the throughput accounting ratio (TPAR)?",
+        "options": [
+            "1.33",
+            "2.00",
+            "0.75",
+            "0.31"
+        ],
+        "correctAnswerIndex": 0
+    },
+    {
+        "id": "A2_Q2",
+        "moduleId": "P2",
+        "syllabusSubArea": "A2",
+        "questionText": "A company makes two products, X and Y, using three processes. Daily demand is 10 units of X and 16 units of Y. Process 2 is identified as the bottleneck, with 22 hours available but 23.5 hours required to meet full demand. Which of the following actions will improve throughput? Select all that apply.",
+        "options": [
+            "Increasing the efficiency of the maintenance routine for Process 2.",
+            "Increasing the demand for both products.",
+            "Reducing the time taken for rest breaks on Process 3.",
+            "Reducing the time product X requires for Process 1."
+        ],
+        "correctAnswerIndex": 0
+    },
+    {
+        "id": "A2_Q3",
+        "moduleId": "P2",
+        "syllabusSubArea": "A2",
+        "questionText": "Which of the following statements about Business Process Re-engineering (BPR) is true?",
+        "options": [
+            "BPR focuses on making small, incremental improvements to existing practices.",
+            "BPR has a long-term strategic focus.",
+            "The correct order of BPR stages is: Identify, Re-design, Re-assemble, Rationalise.",
+            "BPR is primarily concerned with short-term cost-cutting."
+        ],
+        "correctAnswerIndex": 1
+    },
+    {
+        "id": "A3_Q1",
+        "moduleId": "P2",
+        "syllabusSubArea": "A3",
+        "questionText": "A company is launching a product into a market where the price is established at $140. An annual profit return of 20% is required on an initial investment of $100,000. Expected sales are 1,000 units. What is the target cost per unit?",
+        "options": [
+            "$140",
+            "$120",
+            "$100",
+            "$20"
+        ],
+        "correctAnswerIndex": 1
+    },
+    {
+        "id": "A3_Q2",
+        "moduleId": "P2",
+        "syllabusSubArea": "A3",
+        "questionText": "A company uses a 10% mark-up on prime cost. For a new digital camera, the target cost is $166.30. What is the maximum selling price the company can charge?",
+        "options": [
+            "$166.30",
+            "$182.93",
+            "$151.18",
+            "$190.00"
+        ],
+        "correctAnswerIndex": 1
+    },
+    {
+        "id": "A3_Q3",
+        "moduleId": "P2",
+        "syllabusSubArea": "A3",
+        "questionText": "A product has total design costs of $200,000 and asset depreciation of $350,000. Over its life, 400,000 units will be produced at a cost of $15 per unit, using 3 labour hours each. Total company fixed overheads are $15 million, absorbed over 10 million total labour hours. What is the budgeted lifecycle cost per unit?",
+        "options": [
+            "$15.00",
+            "$16.38",
+            "$20.88",
+            "$15.50"
+        ],
+        "correctAnswerIndex": 2
+    },
+    {
+        "id": "C1_Q1",
+        "moduleId": "P2",
+        "syllabusSubArea": "C1",
+        "questionText": "The salary of a market researcher for a new product, a new post created specifically for the project, is a fixed cost of $12,000. Is this cost relevant to the decision to proceed with the product development?",
+        "options": [
+            "Yes, it is a future, incremental cash flow.",
+            "No, because it is a fixed cost.",
+            "No, because it is a sunk cost.",
+            "Only half of it is relevant."
+        ],
+        "correctAnswerIndex": 0
+    },
+    {
+        "id": "C1_Q2",
+        "moduleId": "P2",
+        "syllabusSubArea": "C1",
+        "questionText": "Hester Co has an integrated sales, inventory and purchasing system. The system automatically creates a purchase order when inventory falls to a minimum level. This is an example of what kind of control?",
+        "options": [
+            "General control",
+            "Application control",
+            "Manual control",
+            "Security control"
+        ],
+        "correctAnswerIndex": 1
+    },
+    {
+        "id": "B1_Q1",
+        "moduleId": "P2",
+        "syllabusSubArea": "B1",
+        "questionText": "An investment of $500 is made today in an account earning 5% interest per annum. What will be the value of the account after 3 years?",
+        "options": [
+            "$575.00",
+            "$578.81",
+            "$551.25",
+            "$600.00"
+        ],
+        "correctAnswerIndex": 1
+    },
+    {
+        "id": "B1_Q2",
+        "moduleId": "P2",
+        "syllabusSubArea": "B1",
+        "questionText": "What is the present value of $65,000 receivable in 6 years’ time if the applicable interest rate is 7%?",
+        "options": [
+            "$97,556",
+            "$60,748",
+            "$43,312",
+            "$65,000"
+        ],
+        "correctAnswerIndex": 2
+    },
+    {
+        "id": "B1_Q3",
+        "moduleId": "P2",
+        "syllabusSubArea": "B1",
+        "questionText": "Mickey Ltd is considering two mutually exclusive projects. Project A has an NPV of $73,620. Project B has an NPV of $33,310. The company has a cost of capital of 10%. Which project should be recommended?",
+        "options": [
+            "Project A",
+            "Project B",
+            "Both should be accepted",
+            "Neither should be accepted"
+        ],
+        "correctAnswerIndex": 0
+    },
+    {
+        "id": "B1_Q4",
+        "moduleId": "P2",
+        "syllabusSubArea": "B1",
+        "questionText": "Project A has an NPV of $73,620 at a 10% discount rate and an NPV of ($24,900) at 20%. What is the Internal Rate of Return (IRR) of Project A?",
+        "options": [
+            "15.0%",
+            "17.5%",
+            "24.8%",
+            "12.5%"
+        ],
+        "correctAnswerIndex": 1
+    },
+    {
+        "id": "B1_Q5",
+        "moduleId": "P2",
+        "syllabusSubArea": "B1",
+        "questionText": "When comparing two mutually exclusive projects, Project A has a higher NPV but Project B has a higher IRR. Which decision rule should be followed?",
+        "options": [
+            "Choose Project B because IRR is a better measure.",
+            "Choose Project A because NPV increases absolute shareholder wealth.",
+            "Choose neither project as the results are conflicting.",
+            "Choose the project with the shorter payback period."
+        ],
+        "correctAnswerIndex": 1
+    },
+    {
+        "id": "B1_Q6",
+        "moduleId": "P2",
+        "syllabusSubArea": "B1",
+        "questionText": "Mickey Ltd is evaluating two projects. Project A has a higher MIRR (16.52%) than Project B (13.39%). Based only on MIRR, which project should be chosen?",
+        "options": [
+            "Project A",
+            "Project B",
+            "Both",
+            "Neither"
+        ],
+        "correctAnswerIndex": 0
+    },
+    {
+        "id": "B1_Q7",
+        "moduleId": "P2",
+        "syllabusSubArea": "B1",
+        "questionText": "What is the present value of receiving $10,000 per annum for 4 years, with the first payment due now, using a discount rate of 10%? (Annuity factor for 3 years @ 10% is 2.487)",
+        "options": [
+            "$31,700",
+            "$24,870",
+            "$34,870",
+            "$40,000"
+        ],
+        "correctAnswerIndex": 2
+    },
+    {
+        "id": "B1_Q8",
+        "moduleId": "P2",
+        "syllabusSubArea": "B1",
+        "questionText": "An individual wants to receive $22,000 annually in perpetuity. They can earn an interest rate of 2.5% per annum. How much do they need to set aside now?",
+        "options": [
+            "$22,000",
+            "$550,000",
+            "$880,000",
+            "$1,000,000"
+        ],
+        "correctAnswerIndex": 2
+    },
+    {
+        "id": "B1_Q9",
+        "moduleId": "P2",
+        "syllabusSubArea": "B1",
+        "questionText": "What is the present value of a series of 3 annual payments of $5,000 starting in 4 years’ time, with a discount rate of 10%? (3-year annuity factor is 2.487; 3-year discount factor is 0.751)",
+        "options": [
+            "$12,435",
+            "$9,339",
+            "$11,250",
+            "$15,000"
+        ],
+        "correctAnswerIndex": 1
+    },
+    {
+        "id": "B1_Q10",
+        "moduleId": "P2",
+        "syllabusSubArea": "B1",
+        "questionText": "Cassini Ltd has $450,000 to invest. It ranks projects using the Profitability Index (PI). Project V has an investment of $50k and NPV of $25k. Project T has an investment of $250k and NPV of $100k. Which project is ranked higher?",
+        "options": [
+            "Project V",
+            "Project T",
+            "They are ranked equally",
+            "Cannot be determined"
+        ],
+        "correctAnswerIndex": 0
+    },
+    {
+        "id": "B2_Q1",
+        "moduleId": "P2",
+        "syllabusSubArea": "B2",
+        "questionText": "Project A has an initial investment of $450,000 and annual cash inflows of $200k, $150k, $100k, $100k, $100k. What is its payback period?",
+        "options": [
+            "2.5 years",
+            "3 years",
+            "3.5 years",
+            "4 years"
+        ],
+        "correctAnswerIndex": 1
+    },
+    {
+        "id": "B2_Q2",
+        "moduleId": "P2",
+        "syllabusSubArea": "B2",
+        "questionText": "Project B has an initial investment of $100,000 and total cash inflows over 5 years of $160,000. The scrap value is $10,000. What is the Accounting Rate of Return (ARR) based on the average investment?",
+        "options": [
+            "14.0%",
+            "25.5%",
+            "12.7%",
+            "28.0%"
+        ],
+        "correctAnswerIndex": 1
+    },
+    {
+        "id": "B2_Q3",
+        "moduleId": "P2",
+        "syllabusSubArea": "B2",
+        "questionText": "An asset is purchased for $50,000 and sold for $10,000 at the end of year 4. Tax depreciation is 25% on a reducing balance basis. What is the balancing allowance in year 4?",
+        "options": [
+            "$7,031",
+            "$10,000",
+            "$11,094",
+            "$21,094"
+        ],
+        "correctAnswerIndex": 2
+    },
+    {
+        "id": "B2_Q4",
+        "moduleId": "P2",
+        "syllabusSubArea": "B2",
+        "questionText": "A company's money cost of capital is 15% and the inflation rate is 5.5%. What is the real cost of capital?",
+        "options": [
+            "9.50%",
+            "9.00%",
+            "8.75%",
+            "8.50%"
+        ],
+        "correctAnswerIndex": 1
+    },
+    {
+        "id": "B2_Q5",
+        "moduleId": "P2",
+        "syllabusSubArea": "B2",
+        "questionText": "A company is comparing two machines with unequal lives that are required for the foreseeable future. Machine X has an NPV of costs of $170k over 3 years. Machine Y has an NPV of costs of $125k over 2 years. The 3-year annuity factor is 2.487 and the 2-year is 1.736. Which machine should be chosen based on Equivalent Annual Cost (EAC)?",
+        "options": [
+            "Machine X",
+            "Machine Y",
+            "Both are equal",
+            "Cannot be determined"
+        ],
+        "correctAnswerIndex": 0
+    },
+    {
+        "id": "C1_Q1",
+        "moduleId": "P2",
+        "syllabusSubArea": "C1",
+        "questionText": "A company is changing its costing system from traditional absorption costing (AC) based on labour hours to an ABC system. Overheads of $156,000 are related to taking material deliveries.",
+        "options": [
+            "ABC can be used by non-production organisations",
+            "Cost drivers need to be determined for each activity",
+            "Apportionment of overhead costs is not required",
+            "Activity costs are absorbed into products"
+        ],
+        "correctAnswerIndex": 2
+    },
+    {
+        "id": "C1_Q2",
+        "moduleId": "P2",
+        "syllabusSubArea": "C1",
+        "questionText": "A retail company selling two products; the J and the H. Further information about each product is as follows: The delivery information about each product is given below:",
+        "options": [
+            "Activity-based costing and activity-based management",
+            "This is an example of a directly attributable fixed cost.",
+            "The salary is a relevant cost of $12,000. Do not be fooled by the mention of the fact that it is a fixed cost, it is a cost that is relevant to the decision to proceed with the future development of the new product.",
+            "Only future incremental or avoidable cash flows are relevant"
+        ],
+        "correctAnswerIndex": 0
+    },
+    {
+        "id": "C2_Q1",
+        "moduleId": "P2",
+        "syllabusSubArea": "C2",
+        "questionText": "The price of a chocolate bar has risen from $0.10 to $0.15, causing monthly demand to fall from 20,000 to 17,500 units. What is the price elasticity of demand (PED)?",
+        "options": [
+            "-0.25 (Inelastic)",
+            "-1.25 (Elastic)",
+            "-4.00 (Elastic)",
+            "-0.50 (Inelastic)"
+        ],
+        "correctAnswerIndex": 0
+    },
+    {
+        "id": "C2_Q2",
+        "moduleId": "P2",
+        "syllabusSubArea": "C2",
+        "questionText": "For a product, at a price of $10, demand is 200 units. Each time the price increases by $1, demand falls by 20 units. The variable cost is $2.50 per unit. What is the optimal selling price to maximise profit?",
+        "options": [
+            "$10.00",
+            "$11.25",
+            "$12.50",
+            "$20.00"
+        ],
+        "correctAnswerIndex": 1
+    },
+    {
+        "id": "C2_Q3",
+        "moduleId": "P2",
+        "syllabusSubArea": "C2",
+        "questionText": "A football club sells 16,000 tickets per week at $12 each. If the price increases by $1, attendance falls by 2,000. What price should they set to achieve a full capacity of 25,000?",
+        "options": [
+            "$7.00",
+            "$7.50",
+            "$8.00",
+            "$8.50"
+        ],
+        "correctAnswerIndex": 1
+    },
+    {
+        "id": "C3_Q1",
+        "moduleId": "P2",
+        "syllabusSubArea": "C3",
+        "questionText": "A company has two divisions, A and B. Division A has a new project with an ROI of 20%. Division A's current ROI is 30%. The company's cost of capital is 15%. If the manager is judged on divisional ROI, will they accept the project?",
+        "options": [
+            "Yes, because 20% is greater than the company's cost of capital.",
+            "No, because 20% is less than the current divisional ROI of 30%.",
+            "Yes, because it is a profitable project.",
+            "Cannot be determined from the information."
+        ],
+        "correctAnswerIndex": 1
+    },
+    {
+        "id": "C3_Q2",
+        "moduleId": "P2",
+        "syllabusSubArea": "C3",
+        "questionText": "An investment centre has capital employed of $800,000 and profits of $160,000. The cost of capital is 12%. What is the Residual Income (RI)?",
+        "options": [
+            "$64,000",
+            "$96,000",
+            "$160,000",
+            "$20,000"
+        ],
+        "correctAnswerIndex": 0
+    },
+    {
+        "id": "C3_Q3",
+        "moduleId": "P2",
+        "syllabusSubArea": "C3",
+        "questionText": "A company has a profit after tax of $60,000. Adjustments for EVA are: add back accounting depreciation of $25,000, add back development costs of $50,000, less economic depreciation of $32,000, less amortisation of development costs of $10,000. The capital charge is $64,000. What is the EVA?",
+        "options": [
+            "$29,000",
+            "$93,000",
+            "$135,000",
+            "$60,000"
+        ],
+        "correctAnswerIndex": 0
+    },
+    {
+        "id": "C3_Q4",
+        "moduleId": "P2",
+        "syllabusSubArea": "C3",
+        "questionText": "In the Balanced Scorecard, which perspective would include a measure for 'employee productivity'?",
+        "options": [
+            "Financial",
+            "Customer",
+            "Internal Business Process",
+            "Learning and Growth"
+        ],
+        "correctAnswerIndex": 3
+    },
+    {
+        "id": "C3_Q5",
+        "moduleId": "P2",
+        "syllabusSubArea": "C3",
+        "questionText": "A government department aims to cut expenditure by 5%. This target relates to which of the '3 Es' of Value for Money?",
+        "options": [
+            "Economy",
+            "Efficiency",
+            "Effectiveness",
+            "Equity"
+        ],
+        "correctAnswerIndex": 0
+    },
+    {
+        "id": "C4_Q1",
+        "moduleId": "P2",
+        "syllabusSubArea": "C4",
+        "questionText": "A selling division can sell a component on a perfect external market for $25. External sales require $3 of packaging costs, which are not needed for internal transfers. What is the minimum acceptable transfer price?",
+        "options": [
+            "$25",
+            "$28",
+            "$22",
+            "$10"
+        ],
+        "correctAnswerIndex": 2
+    },
+    {
+        "id": "C4_Q2",
+        "moduleId": "P2",
+        "syllabusSubArea": "C4",
+        "questionText": "A selling division has spare capacity and an external market for its product. The marginal cost to produce is $10. What is the minimum acceptable transfer price for an internal transfer?",
+        "options": [
+            "The external market price.",
+            "More than the marginal cost.",
+            "The marginal cost of $10.",
+            "The full absorption cost."
+        ],
+        "correctAnswerIndex": 2
+    },
+    {
+        "id": "C4_Q3",
+        "moduleId": "P2",
+        "syllabusSubArea": "C4",
+        "questionText": "Division A is at full capacity making Product Y, which sells externally and has a contribution of $80 per labour hour. Division B wants Division A to make Product X for internal transfer, which requires 6 labour hours. What is the opportunity cost to Division A of making one unit of Product X?",
+        "options": [
+            "$80",
+            "$120",
+            "$270",
+            "$480"
+        ],
+        "correctAnswerIndex": 3
+    },
+    {
+        "id": "C4_Q4",
+        "moduleId": "P2",
+        "syllabusSubArea": "C4",
+        "questionText": "A buying division can sell a final product for $30. It incurs additional variable costs of $11 to convert a component it buys internally. What is the maximum transfer price the buying division would be willing to pay for the component?",
+        "options": [
+            "$11",
+            "$19",
+            "$30",
+            "$41"
+        ],
+        "correctAnswerIndex": 1
+    },
+    {
+        "id": "D1_Q1",
+        "moduleId": "P2",
+        "syllabusSubArea": "D1",
+        "questionText": "A manager is choosing between projects. They select the project that is preferred using the maximax method. What is this manager's attitude to risk?",
+        "options": [
+            "Risk averse",
+            "Risk neutral",
+            "Risk seeking",
+            "It cannot be determined"
+        ],
+        "correctAnswerIndex": 2
+    },
+    {
+        "id": "D1_Q2",
+        "moduleId": "P2",
+        "syllabusSubArea": "D1",
+        "questionText": "A company is considering a project where the NPV of contribution could fall by a maximum of 7.89% before the project becomes non-viable. This 7.89% is known as the:",
+        "options": [
+            "Margin of safety",
+            "Sensitivity margin",
+            "Expected value",
+            "Standard deviation"
+        ],
+        "correctAnswerIndex": 1
+    },
+    {
+        "id": "D1_Q3",
+        "moduleId": "P2",
+        "syllabusSubArea": "D1",
+        "questionText": "A company is using a decision tree to evaluate a project. At a chance node, there is a 70% chance of success with a payoff of $100,000 and a 30% chance of failure with a payoff of ($20,000). What is the Expected Value at this chance node?",
+        "options": [
+            "$80,000",
+            "$70,000",
+            "$64,000",
+            "$40,000"
+        ],
+        "correctAnswerIndex": 2
+    },
+    {
+        "id": "D2_Q1",
+        "moduleId": "P2",
+        "syllabusSubArea": "D2",
+        "questionText": "A company is assessing a risk with a high probability of occurring but a low financial impact. According to the TARA framework, which is the most appropriate response?",
+        "options": [
+            "Transfer",
+            "Avoid",
+            "Reduce",
+            "Accept"
+        ],
+        "correctAnswerIndex": 2
+    },
+    {
+        "id": "A1_Supp_Q1",
+        "moduleId": "P2",
+        "syllabusSubArea": "A1",
+        "questionText": "Which TWO of the following statements regarding the use of Activity Based Costing (ABC) information are NOT correct?",
+        "options": [
+            "An ABC system produces future information relating to product costs.",
+            "ABC assumes that products consume activities in proportion to their production volumes.",
+            "ABC can support decisions regarding changes to the range and mix of products.",
+            "ABC systems remedy the tendency of traditional costing systems to over-cost high-volume products."
+        ],
+        "correctAnswerIndex": 0
+    },
+    {
+        "id": "A1_Supp_Q2",
+        "moduleId": "P2",
+        "syllabusSubArea": "A1",
+        "questionText": "The main difference between ABC and ABM is that:",
+        "options": [
+            "ABC emphasises tracing costs to cost objects, while ABM emphasises performance evaluation.",
+            "ABC emphasises product costs, while ABM emphasises managing processes and work.",
+            "ABC includes activity management, while ABM excludes activity management.",
+            "ABC and ABM are the same thing."
+        ],
+        "correctAnswerIndex": 1
+    },
+    {
+        "id": "A1_Supp_Q3",
+        "moduleId": "P2",
+        "syllabusSubArea": "A1",
+        "questionText": "Classify the following ABM application: Using Activity Based information to design and develop new products.",
+        "options": [
+            "Operational",
+            "Strategic",
+            "Financial",
+            "Customer-facing"
+        ],
+        "correctAnswerIndex": 1
+    },
+    {
+        "id": "A1_Supp_Q4",
+        "moduleId": "P2",
+        "syllabusSubArea": "A1",
+        "questionText": "Wayne Co. has two customers. After conducting a customer profitability analysis, it finds the Net Profit from Customer A is $233,600 and from Customer B is $270,625. Which statement is true?",
+        "options": [
+            "Both customers are equally profitable.",
+            "Customer A is more profitable than Customer B.",
+            "Customer A is less profitable than Customer B.",
+            "Both customers are served at a loss."
+        ],
+        "correctAnswerIndex": 2
+    },
+    {
+        "id": "A2_Supp_Q1",
+        "moduleId": "P2",
+        "syllabusSubArea": "A2",
+        "questionText": "Which of the following statements regarding Just-In-Time (JIT) is true?",
+        "options": [
+            "JIT is a 'push' system where goods are made for inventory.",
+            "JIT relies on having many different suppliers to ensure competitive pricing.",
+            "JIT aims to reduce inventory levels to as close to zero as possible.",
+            "JIT focuses on individual performance targets over team productivity."
+        ],
+        "correctAnswerIndex": 2
+    },
+    {
+        "id": "A2_Supp_Q2",
+        "moduleId": "P2",
+        "syllabusSubArea": "A2",
+        "questionText": "The cost of a product recall due to a defect found by a customer is an example of which type of quality cost?",
+        "options": [
+            "Prevention cost",
+            "Appraisal cost",
+            "Internal failure cost",
+            "External failure cost"
+        ],
+        "correctAnswerIndex": 3
+    },
+    {
+        "id": "A2_Supp_Q3",
+        "moduleId": "P2",
+        "syllabusSubArea": "A2",
+        "questionText": "Which of the following is a typical advantage of Business Process Re-engineering (BPR)?",
+        "options": [
+            "Making small incremental improvements in existing practices.",
+            "A one-off reduction in costs and a refocus on strategic direction.",
+            "Maintaining the existing organisational structure.",
+            "A quick and easy implementation process."
+        ],
+        "correctAnswerIndex": 1
+    },
+    {
+        "id": "A2_Supp_Q4",
+        "moduleId": "P2",
+        "syllabusSubArea": "A2",
+        "questionText": "A product has a selling price of $30 and a throughput per unit of $12. What is the material cost per unit?",
+        "options": [
+            "$12",
+            "$18",
+            "$30",
+            "$42"
+        ],
+        "correctAnswerIndex": 1
+    },
+    {
+        "id": "A3_Supp_Q1",
+        "moduleId": "P2",
+        "syllabusSubArea": "A3",
+        "questionText": "The target cost for a product is $38.00, which is 5% less than the current actual cost. What is the current actual cost?",
+        "options": [
+            "$36.10",
+            "$39.90",
+            "$40.00",
+            "$42.00"
+        ],
+        "correctAnswerIndex": 2
+    },
+    {
+        "id": "A3_Supp_Q2",
+        "moduleId": "P2",
+        "syllabusSubArea": "A3",
+        "questionText": "In Porter's Value Chain model, which of the following is considered a primary activity?",
+        "options": [
+            "Procurement",
+            "Technology Development",
+            "Human Resource Management",
+            "Operations"
+        ],
+        "correctAnswerIndex": 3
+    },
+    {
+        "id": "A3_Supp_Q3",
+        "moduleId": "P2",
+        "syllabusSubArea": "A3",
+        "questionText": "A company is developing a new product. Lifetime costs are estimated as: Design $43,000, Manufacturing $15/unit, Decommissioning $30,000. Forecast sales are 20,000 units. What is the life cycle cost per unit?",
+        "options": [
+            "$18.65",
+            "$22.00",
+            "$15.00",
+            "$16.50"
+        ],
+        "correctAnswerIndex": 0
+    },
+    {
+        "id": "A3_Supp_Q4",
+        "moduleId": "P2",
+        "syllabusSubArea": "A3",
+        "questionText": "A customer calculates they would save $5,500 in train fares over a year by buying a new car. Within the framework of value analysis, what kind of value does this figure represent?",
+        "options": [
+            "Cost value",
+            "Exchange value",
+            "Use value",
+            "Esteem value"
+        ],
+        "correctAnswerIndex": 2
+    },
+    {
+        "id": "C1_Supp_Q1",
+        "moduleId": "P2",
+        "syllabusSubArea": "C1",
+        "questionText": "A company is considering closing a plant. Head office administration costs are apportioned to the plant. Is this apportioned cost relevant to the closure decision?",
+        "options": [
+            "Yes, it is an incremental cash flow.",
+            "No, it is not an incremental cost as it will be incurred anyway.",
+            "Yes, because it is a future cost.",
+            "No, because it is a sunk cost."
+        ],
+        "correctAnswerIndex": 1
+    },
+    {
+        "id": "C1_Supp_Q2",
+        "moduleId": "P2",
+        "syllabusSubArea": "C1",
+        "questionText": "Which term describes the 'deliberate accessing of on-line systems by unauthorised persons'?",
+        "options": [
+            "Hacking",
+            "Human interference",
+            "Virus attack",
+            "Human resource risk"
+        ],
+        "correctAnswerIndex": 0
+    },
+    {
+        "id": "C1_Supp_Q3",
+        "moduleId": "P2",
+        "syllabusSubArea": "C1",
+        "questionText": "Consider the following statement: 'Data warehouses include a database, a data extraction tool and a decision-support system.' Is this statement correct?",
+        "options": [
+            "Yes",
+            "No",
+            "Only partially correct",
+            "This describes Big Data, not a data warehouse"
+        ],
+        "correctAnswerIndex": 0
+    },
+    {
+        "id": "B1_Supp_Q1",
+        "moduleId": "P2",
+        "syllabusSubArea": "B1",
+        "questionText": "$10,000 was invested on 1 January 2014, earning 5% interest per annum. What will be the value of this investment on 31 December 2018 (after 5 years)?",
+        "options": [
+            "$12,155",
+            "$12,763",
+            "$13,540",
+            "$14,320"
+        ],
+        "correctAnswerIndex": 1
+    },
+    {
+        "id": "B1_Supp_Q2",
+        "moduleId": "P2",
+        "syllabusSubArea": "B1",
+        "questionText": "Victoria invested $5,000 on 1 January 2014, earning 5% interest per annum. What is the value of her investment on 31 December 2016 (after 3 years)?",
+        "options": [
+            "$5,750",
+            "$5,788",
+            "$6,000",
+            "$6,125"
+        ],
+        "correctAnswerIndex": 1
+    },
+    {
+        "id": "B1_Supp_Q3",
+        "moduleId": "P2",
+        "syllabusSubArea": "B1",
+        "questionText": "Calculate the net present value of five annual revenues of $1,000 where the first payment is due now, using an interest rate of 8%. The 4-year annuity factor at 8% is 3.312.",
+        "options": [
+            "$3,312",
+            "$3,993",
+            "$4,312",
+            "$5,000"
+        ],
+        "correctAnswerIndex": 2
+    },
+    {
+        "id": "B1_Supp_Q4",
+        "moduleId": "P2",
+        "syllabusSubArea": "B1",
+        "questionText": "A project requires an initial investment of $350,000. It generates a positive NPV of $48,000 at a 10% discount rate and a negative NPV of ($45,000) at a 20% discount rate. What is the approximate IRR of the investment?",
+        "options": [
+            "12.6%",
+            "15.2%",
+            "17.4%",
+            "18.1%"
+        ],
+        "correctAnswerIndex": 1
+    },
+    {
+        "id": "B1_Supp_Q5",
+        "moduleId": "P2",
+        "syllabusSubArea": "B1",
+        "questionText": "A sum of money was invested for 12 years at 5% per annum and is now worth $1,705.56. What was the original principal invested (to the nearest whole $)? The discount factor for 12 years at 5% is 0.557.",
+        "options": [
+            "$948",
+            "$949",
+            "$950",
+            "$951"
+        ],
+        "correctAnswerIndex": 2
+    },
+    {
+        "id": "B1_Supp_Q6",
+        "moduleId": "P2",
+        "syllabusSubArea": "B1",
+        "questionText": "When using interpolation to approximate IRR, what is the effect of using two positive NPVs?",
+        "options": [
+            "It will underestimate the IRR.",
+            "It will overestimate the IRR.",
+            "It will give the exact IRR.",
+            "It is not possible to calculate IRR with two positive NPVs."
+        ],
+        "correctAnswerIndex": 0
+    },
+    {
+        "id": "B2_Supp_Q1",
+        "moduleId": "P2",
+        "syllabusSubArea": "B2",
+        "questionText": "A project has cash inflows of $4,000 p.a. for 4 years and a final inflow in year 5 of $20,000. The initial investment is $8,000. A company only accepts projects with a discounted payback of 2 years or less at a cost of capital of 8%. Should the project be accepted?",
+        "options": [
+            "Yes, because the undiscounted payback is 2 years.",
+            "No, because the discounted payback is over 2 years.",
+            "Yes, because the total inflows exceed the outflows.",
+            "Cannot be determined without calculating NPV."
+        ],
+        "correctAnswerIndex": 1
+    },
+    {
+        "id": "B2_Supp_Q2",
+        "moduleId": "P2",
+        "syllabusSubArea": "B2",
+        "questionText": "A machine costs $80,000 and has a 9-year life with a scrap value of $6,000. It will generate a contribution of $96,000 per year and has fixed costs of $70,000. The company's cost of capital is 10%. What is the undiscounted payback period?",
+        "options": [
+            "2.08 years",
+            "3.08 years",
+            "3.87 years",
+            "4.12 years"
+        ],
+        "correctAnswerIndex": 1
+    },
+    {
+        "id": "B2_Supp_Q3",
+        "moduleId": "P2",
+        "syllabusSubArea": "B2",
+        "questionText": "Which investment appraisal method fails to take account of the timing of cash flows and uses subjective accounting profits?",
+        "options": [
+            "Net Present Value (NPV)",
+            "Internal Rate of Return (IRR)",
+            "Payback Period",
+            "Accounting Rate of Return (ARR)"
+        ],
+        "correctAnswerIndex": 3
+    },
+    {
+        "id": "C2_Supp_Q1",
+        "moduleId": "P2",
+        "syllabusSubArea": "C2",
+        "questionText": "Which ONE of the following statements on the advantages of cost-plus pricing is true?",
+        "options": [
+            "Cost-plus pricing takes account of price elasticity of demand.",
+            "Cost-plus pricing is useful in contracting industries.",
+            "By setting prices based on expected volumes, the company can be sure of recovering all production overheads.",
+            "Cost-plus pricing provides flexibility during the different stages of a product’s life cycle."
+        ],
+        "correctAnswerIndex": 1
+    },
+    {
+        "id": "C2_Supp_Q2",
+        "moduleId": "P2",
+        "syllabusSubArea": "C2",
+        "questionText": "The B5 phone will be priced high initially as the research and development costs involved in making it need to be recovered. This is an example of which pricing strategy?",
+        "options": [
+            "Premium pricing",
+            "Market skimming",
+            "Penetration pricing",
+            "Loss leader pricing"
+        ],
+        "correctAnswerIndex": 1
+    },
+    {
+        "id": "C3_Supp_Q1",
+        "moduleId": "P2",
+        "syllabusSubArea": "C3",
+        "questionText": "A vehicle manufacturing company has three managers. Manager A is responsible for the residual income of the vans division. Manager B is responsible for the net profit margin of the commercial leasing team. Manager C is responsible for controlling spending in the factory maintenance department. What are their respective responsibility centres?",
+        "options": [
+            "A: Investment, B: Profit, C: Cost",
+            "A: Profit, B: Investment, C: Cost",
+            "A: Investment, B: Cost, C: Profit",
+            "A: Cost, B: Profit, C: Investment"
+        ],
+        "correctAnswerIndex": 0
+    },
+    {
+        "id": "C3_Supp_Q2",
+        "moduleId": "P2",
+        "syllabusSubArea": "C3",
+        "questionText": "The financial performance of IRS Ltd for 2014 and 2015 is shown below:\n\n| | 2014 | 2015 |\n|---|---|---|\n| Sales revenue | $38,000 | $42,000 |\n| Profit | $12,000 | $12,500 |\n| Capital employed | $72,000 | $86,000 |\n\nWhich ONE of the following statements is correct?",
+        "options": [
+            "The profit has increased from 2014 to 2015 as has the profit margin.",
+            "The profit margin has fallen from 2014 to 2015 as has the Return on Capital Employed.",
+            "The improvement in asset turnover from 2014 to 2015 counterbalances the drop in profit margin.",
+            "The Return on Capital Employed can be calculated by dividing the profit margin by the asset turnover."
+        ],
+        "correctAnswerIndex": 1
+    },
+    {
+        "id": "C3_Supp_Q3",
+        "moduleId": "P2",
+        "syllabusSubArea": "C3",
+        "questionText": "Division X has a current ROI of 25%. It is considering a new project with an ROI of 20%. The company's required ROI is 18%. From the perspective of the company as a whole, should the project be accepted?",
+        "options": [
+            "Yes, because its ROI of 20% is above the company's required return of 18%.",
+            "No, because its ROI of 20% is below the division's current ROI of 25%.",
+            "Yes, because it increases overall profit.",
+            "No, because it reduces the division's ROI."
+        ],
+        "correctAnswerIndex": 0
+    },
+    {
+        "id": "C3_Supp_Q4",
+        "moduleId": "P2",
+        "syllabusSubArea": "C3",
+        "questionText": "The following data relate to four divisions. Using residual income with a 15% cost of capital, which division appears most successful?\n\n| | Profit ($000) | Net Assets ($000) |\n|---|---|---|\n| A | 320 | 1,600 |\n| B | 400 | 2,500 |\n| C | 250 | 1,300 |\n| D | 80 | 320 |\n",
+        "options": [
+            "Division A",
+            "Division B",
+            "Division C",
+            "Division D"
+        ],
+        "correctAnswerIndex": 0
+    },
+    {
+        "id": "C3_Supp_Q5",
+        "moduleId": "P2",
+        "syllabusSubArea": "C3",
+        "questionText": "In a Balanced Scorecard, which perspective would 'Revenue growth' and 'ROCE' fall under?",
+        "options": [
+            "Financial",
+            "Customer",
+            "Internal Business Process",
+            "Learning and Growth"
+        ],
+        "correctAnswerIndex": 0
+    },
+    {
+        "id": "C3_Supp_Q6",
+        "moduleId": "P2",
+        "syllabusSubArea": "C3",
+        "questionText": "A company uses published league tables of its competitors to assess its own performance on metrics like energy produced and installation efficiency. This is an example of which type of benchmarking?",
+        "options": [
+            "Internal",
+            "Historic",
+            "Competitive",
+            "Generic"
+        ],
+        "correctAnswerIndex": 2
+    },
+    {
+        "id": "C4_Supp_Q1",
+        "moduleId": "P2",
+        "syllabusSubArea": "C4",
+        "questionText": "Division H is at full capacity and can sell its product, the widget, externally for $78. The variable cost is $62. Division J wishes to buy the widget internally and can source it externally for $85. What is the minimum transfer price Division H should accept to ensure goal congruence?",
+        "options": [
+            "$62",
+            "$78",
+            "$81",
+            "$85"
+        ],
+        "correctAnswerIndex": 1
+    },
+    {
+        "id": "C4_Supp_Q2",
+        "moduleId": "P2",
+        "syllabusSubArea": "C4",
+        "questionText": "Division Able operates at full capacity. It can sell Product X externally for $42 (variable cost $32). Alternatively, it can make Product Y (variable cost $35) to sell to Division Baker. Baker can buy Product Y externally for $38. What is the optimal transfer price for Product Y?",
+        "options": [
+            "$35",
+            "$38",
+            "$42",
+            "$45"
+        ],
+        "correctAnswerIndex": 3
+    },
+    {
+        "id": "C4_Supp_Q3",
+        "moduleId": "P2",
+        "syllabusSubArea": "C4",
+        "questionText": "A UK holding company wishes to transfer profits from its UK division to an overseas subsidiary in a lower-tax country. To achieve this, how should it set the transfer price for goods shipped FROM the overseas subsidiary TO the UK?",
+        "options": [
+            "Set a high transfer price",
+            "Set a low transfer price",
+            "Set the transfer price equal to marginal cost",
+            "Transfer pricing does not affect profit location"
+        ],
+        "correctAnswerIndex": 0
+    },
+    {
+        "id": "D1_Supp_Q1",
+        "moduleId": "P2",
+        "syllabusSubArea": "D1",
+        "questionText": "Which of the following is NOT a disadvantage of using Expected Value techniques?",
+        "options": [
+            "Probabilities are often subjective.",
+            "It is not meaningful for one-off projects.",
+            "It ignores the decision-maker's attitude to risk.",
+            "It takes risk into account by weighting outcomes."
+        ],
+        "correctAnswerIndex": 3
+    },
+    {
+        "id": "D1_Supp_Q2",
+        "moduleId": "P2",
+        "syllabusSubArea": "D1",
+        "questionText": "A caterer expects to sell 2,000 meals if it is rainy (0.4 probability) and 800 meals if it is sunny (0.6 probability). What is the expected value of meals to be sold?",
+        "options": [
+            "1,280",
+            "1,400",
+            "2,000",
+            "800"
+        ],
+        "correctAnswerIndex": 0
+    },
+    {
+        "id": "D1_Supp_Q3",
+        "moduleId": "P2",
+        "syllabusSubArea": "D1",
+        "questionText": "A baker has a payoff table for daily profits. Using a maximin criterion, which production level should be chosen?\n\n| Demand | Bake 20 | Bake 30 | Bake 40 |\n|---|---|---|---|\n| 20 | $400 | $140 | $(140) |\n| 30 | $400 | $600 | $300 |\n| 40 | $400 | $600 | $800 |\n",
+        "options": [
+            "20",
+            "30",
+            "40",
+            "50"
+        ],
+        "correctAnswerIndex": 0
+    },
+    {
+        "id": "D1_Supp_Q4",
+        "moduleId": "P2",
+        "syllabusSubArea": "D1",
+        "questionText": "Which of the following would be considered by an investor who is risk averse?",
+        "options": [
+            "The overall expected value from the decision.",
+            "The standard deviation of the data.",
+            "The potential maximax value of the outcomes.",
+            "The normal distribution of the data."
+        ],
+        "correctAnswerIndex": 1
+    },
+    {
+        "id": "D1_Supp_Q5",
+        "moduleId": "P2",
+        "syllabusSubArea": "D1",
+        "questionText": "On a decision tree, if a decision is taken to 'Invest' for $8k, there is an 80% chance of a $40k payoff and a 20% chance of a $5k payoff. What is the expected value of the 'Invest' decision?",
+        "options": [
+            "$10,000",
+            "$25,000",
+            "$33,000",
+            "$45,000"
+        ],
+        "correctAnswerIndex": 1
+    },
+    {
+        "id": "D1_Supp_Q6",
+        "moduleId": "P2",
+        "syllabusSubArea": "D1",
+        "questionText": "From the payoff table, what is the regret at Point X (producing 20 units when demand is 40)?\n\n| Demand | Production 20 | Production 40 |\n|---|---|---|\n| 40 | $7,500 | $9,000 |\n",
+        "options": [
+            "$300",
+            "$600",
+            "$750",
+            "$1,500"
+        ],
+        "correctAnswerIndex": 3
+    },
+    {
+        "id": "D1_Supp_Q7",
+        "moduleId": "P2",
+        "syllabusSubArea": "D1",
+        "questionText": "Which TWO of the following statements are true?",
+        "options": [
+            "As standard deviation increases, risk decreases.",
+            "Perfect information is always correct.",
+            "A risk neutral investor typically makes decisions based on expected value.",
+            "Imperfect information has no value."
+        ],
+        "correctAnswerIndex": 1
+    },
+    {
+        "id": "D1_Supp_Q8",
+        "moduleId": "P2",
+        "syllabusSubArea": "D1",
+        "questionText": "A salon can open in Area 1 (EV $42k) or Area 2 (EV $47k). With perfect information, the EV of the decision becomes $69k. What is the maximum the salon should pay for this perfect information?",
+        "options": [
+            "$27,000",
+            "$22,000",
+            "$47,000",
+            "$69,000"
+        ],
+        "correctAnswerIndex": 1
+    },
+    {
+        "id": "D1_Supp_Q9",
+        "moduleId": "P2",
+        "syllabusSubArea": "D1",
+        "questionText": "A business has two investment options, A (EV $74k) and B (EV $78k). With perfect information on the state of the economy, the EV of the decision rises to $80k. What is the value of this perfect information?",
+        "options": [
+            "$2,000",
+            "$3,200",
+            "$4,000",
+            "$6,000"
+        ],
+        "correctAnswerIndex": 0
+    },
+    {
+        "id": "D1_Supp_Q10",
+        "moduleId": "P2",
+        "syllabusSubArea": "D1",
+        "questionText": "A company averages sales of 100,000 units/week. Rivals may run a promotion, reducing sales by 20%. There is a 40% chance of a promotion in week 3 only. What is the total estimated sales volume for the next 4-week period?",
+        "options": [
+            "400,000 units",
+            "380,000 units",
+            "392,000 units",
+            "320,000 units"
+        ],
+        "correctAnswerIndex": 2
+    },
+    {
+        "id": "D2_Supp_Q1",
+        "moduleId": "P2",
+        "syllabusSubArea": "D2",
+        "questionText": "Which term describes the amount of risk an organisation is willing to accept in pursuit of value?",
+        "options": [
+            "Risk capacity",
+            "Risk attitude",
+            "Risk appetite",
+            "Risk strategy"
+        ],
+        "correctAnswerIndex": 2
+    },
+    {
+        "id": "D2_Supp_Q2",
+        "moduleId": "P2",
+        "syllabusSubArea": "D2",
+        "questionText": "A company has decided to abandon its operations in a politically volatile country where the risks are considered too great. Using the TARA framework, what is this an example of?",
+        "options": [
+            "Acceptance",
+            "Transference",
+            "Avoidance",
+            "Reduction"
+        ],
+        "correctAnswerIndex": 2
+    },
+    {
+        "id": "D2_Supp_Q3",
+        "moduleId": "P2",
+        "syllabusSubArea": "D2",
+        "questionText": "A company continues to sell a highly profitable product despite facing some compensation claims from product failures, believing the returns are worth the liabilities. Using the TARA framework, what is this an example of?",
+        "options": [
+            "A risk acceptance strategy",
+            "A risk transference strategy",
+            "A risk avoidance strategy",
+            "A risk reduction strategy"
+        ],
+        "correctAnswerIndex": 0
+    },
+    {
+        "id": "D2_Supp_Q4",
+        "moduleId": "P2",
+        "syllabusSubArea": "D2",
+        "questionText": "Risk Appetite is determined by which two factors?",
+        "options": [
+            "Risk attitude and risk awareness",
+            "Risk attitude and risk capacity",
+            "Risk strategy and risk awareness",
+            "Risk attitude and residual risk"
+        ],
+        "correctAnswerIndex": 1
+    },
+    {
+        "id": "D2_Supp_Q5",
+        "moduleId": "P2",
+        "syllabusSubArea": "D2",
+        "questionText": "The four strategies in the TARA framework do NOT include:",
+        "options": [
+            "Transference",
+            "Approving",
+            "Avoiding",
+            "Accepting"
+        ],
+        "correctAnswerIndex": 1
+    },
+    {
+        "id": "D2_Supp_Q6",
+        "moduleId": "P2",
+        "syllabusSubArea": "D2",
+        "questionText": "Which of the following statements concerning Big Data is correct?",
+        "options": [
+            "Big Data is always structured and stored in consistent formats.",
+            "There is a heightened risk of inaccuracy with Big Data because of the number of different sources.",
+            "Relationships identified by analysing Big Data always have organisational value.",
+            "Big Data refers to any data storage in excess of one petabyte."
+        ],
+        "correctAnswerIndex": 1
+    },
+    {
+        "id": "D2_Supp_Q7",
+        "moduleId": "P2",
+        "syllabusSubArea": "D2",
+        "questionText": "The fact that 400 million tweets are sent every day by 200 million users best illustrates which of the four V's of Big Data?",
+        "options": [
+            "Variety",
+            "Volume",
+            "Veracity",
+            "Velocity"
+        ],
+        "correctAnswerIndex": 3
+    },
+    {
+        "id": "A1_Ext_Q1",
+        "moduleId": "P2",
+        "syllabusSubArea": "A1",
+        "questionText": "Which of the following is a primary goal of Activity Based Management (ABM)?",
+        "options": [
+            "To accurately calculate inventory values for financial statements.",
+            "To identify and eliminate non-value-adding activities.",
+            "To allocate all factory overheads based on labour hours.",
+            "To simplify the costing process for service industries."
+        ],
+        "correctAnswerIndex": 1
+    },
+    {
+        "id": "A2_Ext_Q1",
+        "moduleId": "P2",
+        "syllabusSubArea": "A2",
+        "questionText": "A company is implementing Total Quality Management (TQM). The cost of training staff in quality control procedures is an example of what type of quality cost?",
+        "options": [
+            "Appraisal cost",
+            "Internal failure cost",
+            "External failure cost",
+            "Prevention cost"
+        ],
+        "correctAnswerIndex": 3
+    },
+    {
+        "id": "A2_Ext_Q2",
+        "moduleId": "P2",
+        "syllabusSubArea": "A2",
+        "questionText": "The core principle of a Just-In-Time (JIT) production system is:",
+        "options": [
+            "Maintaining high levels of buffer inventory.",
+            "A 'push' system based on sales forecasts.",
+            "A 'pull' system based on customer demand.",
+            "Maximising production volume to achieve economies of scale."
+        ],
+        "correctAnswerIndex": 2
+    },
+    {
+        "id": "A3_Ext_Q1",
+        "moduleId": "P2",
+        "syllabusSubArea": "A3",
+        "questionText": "A company has determined that a new product must have a cost no greater than $50 to be profitable in a competitive market. This $50 figure is known as the:",
+        "options": [
+            "Standard cost",
+            "Marginal cost",
+            "Target cost",
+            "Lifecycle cost"
+        ],
+        "correctAnswerIndex": 2
+    },
+    {
+        "id": "A3_Ext_Q2",
+        "moduleId": "P2",
+        "syllabusSubArea": "A3",
+        "questionText": "In lifecycle costing, a significant majority of a product's costs are typically 'locked in' during which phase?",
+        "options": [
+            "Production phase",
+            "Marketing and sales phase",
+            "Design and development phase",
+            "Decommissioning phase"
+        ],
+        "correctAnswerIndex": 2
+    },
+    {
+        "id": "A1_Ext_Q2",
+        "moduleId": "P2",
+        "syllabusSubArea": "A1",
+        "questionText": "Direct Product Profitability (DPP) is a technique used primarily in which sector?",
+        "options": [
+            "Manufacturing",
+            "Retail",
+            "Service",
+            "Public Sector"
+        ],
+        "correctAnswerIndex": 1
+    },
+    {
+        "id": "A2_Ext_Q3",
+        "moduleId": "P2",
+        "syllabusSubArea": "A2",
+        "questionText": "Kaizen costing is best described as a process of:",
+        "options": [
+            "Radical, one-off process redesign.",
+            "Small, continuous improvements in cost reduction.",
+            "Setting static cost standards for a year.",
+            "Eliminating all non-value-adding activities immediately."
+        ],
+        "correctAnswerIndex": 1
+    },
+    {
+        "id": "A3_Ext_Q3",
+        "moduleId": "P2",
+        "syllabusSubArea": "A3",
+        "questionText": "Which costing method accumulates all costs from a product's inception to its abandonment?",
+        "options": [
+            "Target Costing",
+            "Lifecycle Costing",
+            "Activity Based Costing",
+            "Absorption Costing"
+        ],
+        "correctAnswerIndex": 1
+    },
+    {
+        "id": "A1_Ext_Q3",
+        "moduleId": "P2",
+        "syllabusSubArea": "A1",
+        "questionText": "In the ABC cost hierarchy, the cost of redesigning a product is an example of what level of activity?",
+        "options": [
+            "Unit-level",
+            "Batch-level",
+            "Product-sustaining",
+            "Facility-sustaining"
+        ],
+        "correctAnswerIndex": 2
+    },
+    {
+        "id": "A2_Ext_Q4",
+        "moduleId": "P2",
+        "syllabusSubArea": "A2",
+        "questionText": "The cost of reworking a faulty product before it is delivered to the customer is an example of what?",
+        "options": [
+            "Prevention cost",
+            "Appraisal cost",
+            "Internal failure cost",
+            "External failure cost"
+        ],
+        "correctAnswerIndex": 2
+    },
+    {
+        "id": "A3_Ext_Q4",
+        "moduleId": "P2",
+        "syllabusSubArea": "A3",
+        "questionText": "What is the first step in the target costing process?",
+        "options": [
+            "Estimate the product's cost.",
+            "Determine a target selling price based on the market.",
+            "Calculate the cost gap.",
+            "Engineer the production process."
+        ],
+        "correctAnswerIndex": 1
+    },
+    {
+        "id": "B1_Ext_Q1",
+        "moduleId": "P2",
+        "syllabusSubArea": "B1",
+        "questionText": "A firm is evaluating a project. It spent $50,000 on market research last year to investigate the project's feasibility. This $50,000 is an example of a:",
+        "options": [
+            "Relevant cost",
+            "Sunk cost",
+            "Opportunity cost",
+            "Committed cost"
+        ],
+        "correctAnswerIndex": 1
+    },
+    {
+        "id": "B1_Ext_Q2",
+        "moduleId": "P2",
+        "syllabusSubArea": "B1",
+        "questionText": "A project requires the use of a machine that is currently idle. If not used on this project, the machine could be sold for $10,000. What is the relevant cost of using the machine?",
+        "options": [
+            "Its original purchase price.",
+            "Its current book value.",
+            "$0, as it is currently idle.",
+            "$10,000, as this is the opportunity cost."
+        ],
+        "correctAnswerIndex": 3
+    },
+    {
+        "id": "B2_Ext_Q1",
+        "moduleId": "P2",
+        "syllabusSubArea": "B2",
+        "questionText": "If a project has a positive Net Present Value (NPV), what does this imply about its Internal Rate of Return (IRR)?",
+        "options": [
+            "The IRR is greater than the company's cost of capital.",
+            "The IRR is less than the company's cost of capital.",
+            "The IRR is equal to the company's cost of capital.",
+            "The IRR is negative."
+        ],
+        "correctAnswerIndex": 0
+    },
+    {
+        "id": "B2_Ext_Q2",
+        "moduleId": "P2",
+        "syllabusSubArea": "B2",
+        "questionText": "What is the primary reason why NPV is generally considered a superior investment appraisal method to IRR?",
+        "options": [
+            "NPV is a percentage, which is easier to understand.",
+            "NPV provides an absolute measure of the increase in shareholder wealth.",
+            "NPV ignores the time value of money.",
+            "NPV is easier to calculate when cash flows are unconventional."
+        ],
+        "correctAnswerIndex": 1
+    },
+    {
+        "id": "B3_Ext_Q1",
+        "moduleId": "P2",
+        "syllabusSubArea": "B3",
+        "questionText": "A project requires an initial investment of $100,000 and generates cash inflows of $30,000 per year for 5 years. What is the payback period?",
+        "options": [
+            "3 years",
+            "3.33 years",
+            "4 years",
+            "5 years"
+        ],
+        "correctAnswerIndex": 1
+    },
+    {
+        "id": "B3_Ext_Q2",
+        "moduleId": "P2",
+        "syllabusSubArea": "B3",
+        "questionText": "A major weakness of the standard Payback Period method is that it:",
+        "options": [
+            "Is difficult to calculate.",
+            "Ignores all cash flows after the payback period.",
+            "Uses profits instead of cash flows.",
+            "Cannot be used for projects with uneven cash flows."
+        ],
+        "correctAnswerIndex": 1
+    },
+    {
+        "id": "B4_Ext_Q1",
+        "moduleId": "P2",
+        "syllabusSubArea": "B4",
+        "questionText": "When dealing with inflation in an NPV calculation using the money method, what should you do?",
+        "options": [
+            "Discount real cash flows using the real discount rate.",
+            "Discount money (inflated) cash flows using the money discount rate.",
+            "Discount real cash flows using the money discount rate.",
+            "Ignore inflation completely."
+        ],
+        "correctAnswerIndex": 1
+    },
+    {
+        "id": "B4_Ext_Q2",
+        "moduleId": "P2",
+        "syllabusSubArea": "B4",
+        "questionText": "A company has more positive-NPV projects than it has funds for. This situation is known as:",
+        "options": [
+            "Capital rationing",
+            "Risk management",
+            "Profit maximisation",
+            "Sensitivity analysis"
+        ],
+        "correctAnswerIndex": 0
+    },
+    {
+        "id": "B2_Ext_Q3",
+        "moduleId": "P2",
+        "syllabusSubArea": "B2",
+        "questionText": "A project's NPV is zero. What does this mean?",
+        "options": [
+            "The project will make no profit.",
+            "The project's cash inflows equal its cash outflows.",
+            "The project's rate of return is exactly equal to the company's cost of capital.",
+            "The project should be rejected."
+        ],
+        "correctAnswerIndex": 2
+    },
+    {
+        "id": "B3_Ext_Q3",
+        "moduleId": "P2",
+        "syllabusSubArea": "B3",
+        "questionText": "Which investment appraisal method uses accounting profit rather than cash flows?",
+        "options": [
+            "Net Present Value (NPV)",
+            "Internal Rate of Return (IRR)",
+            "Payback Period",
+            "Accounting Rate of Return (ARR)"
+        ],
+        "correctAnswerIndex": 3
+    },
+    {
+        "id": "B4_Ext_Q3",
+        "moduleId": "P2",
+        "syllabusSubArea": "B4",
+        "questionText": "Tax savings from capital allowances (tax-allowable depreciation) on a new asset should be treated in an NPV calculation as:",
+        "options": [
+            "A relevant cash outflow.",
+            "A relevant cash inflow.",
+            "A non-cash item to be ignored.",
+            "A sunk cost."
+        ],
+        "correctAnswerIndex": 1
+    },
+    {
+        "id": "B1_Ext_Q3",
+        "moduleId": "P2",
+        "syllabusSubArea": "B1",
+        "questionText": "Which of the following is NOT a relevant cash flow for an investment decision?",
+        "options": [
+            "The scrap value of the new asset at the end of the project.",
+            "The change in working capital required by the project.",
+            "Depreciation of the new asset.",
+            "Additional fixed costs incurred by the project."
+        ],
+        "correctAnswerIndex": 2
+    },
+    {
+        "id": "B4_Ext_Q4",
+        "moduleId": "P2",
+        "syllabusSubArea": "B4",
+        "questionText": "A project has an NPV of $20,000 and required an initial investment of $100,000. What is its Profitability Index (PI)?",
+        "options": [
+            "0.20",
+            "1.20",
+            "5.00",
+            "0.80"
+        ],
+        "correctAnswerIndex": 0
+    },
+    {
+        "id": "B2_Ext_Q4",
+        "moduleId": "P2",
+        "syllabusSubArea": "B2",
+        "questionText": "A project has unconventional cash flows (e.g., a large negative cash flow at the end of the project). Which problem might arise when using IRR?",
+        "options": [
+            "The IRR will always be negative.",
+            "It is impossible to calculate the payback period.",
+            "The project may have multiple IRRs.",
+            "The NPV will be misleading."
+        ],
+        "correctAnswerIndex": 2
+    },
+    {
+        "id": "C1_Ext_Q1",
+        "moduleId": "P2",
+        "syllabusSubArea": "C1",
+        "questionText": "A manager of a sales department is held accountable for achieving revenue targets, but not for the costs incurred. This department is a:",
+        "options": [
+            "Cost centre",
+            "Revenue centre",
+            "Profit centre",
+            "Investment centre"
+        ],
+        "correctAnswerIndex": 1
+    },
+    {
+        "id": "C1_Ext_Q2",
+        "moduleId": "P2",
+        "syllabusSubArea": "C1",
+        "questionText": "The principle that a manager should only be held accountable for costs over which they have significant influence is known as:",
+        "options": [
+            "Goal congruence",
+            "Responsibility accounting",
+            "The controllability principle",
+            "Performance management"
+        ],
+        "correctAnswerIndex": 2
+    },
+    {
+        "id": "C2_Ext_Q1",
+        "moduleId": "P2",
+        "syllabusSubArea": "C2",
+        "questionText": "A key advantage of Residual Income (RI) over Return on Investment (ROI) is that:",
+        "options": [
+            "RI is a relative measure, making it better for comparing divisions of different sizes.",
+            "RI is simpler to calculate than ROI.",
+            "RI promotes goal congruence by encouraging managers to accept all projects that earn more than the cost of capital.",
+            "RI uses cash flows whereas ROI uses profits."
+        ],
+        "correctAnswerIndex": 2
+    },
+    {
+        "id": "C2_Ext_Q2",
+        "moduleId": "P2",
+        "syllabusSubArea": "C2",
+        "questionText": "A division has a controllable profit of $500,000 and controllable capital employed of $2,500,000. What is the division's ROI?",
+        "options": [
+            "5%",
+            "10%",
+            "15%",
+            "20%"
+        ],
+        "correctAnswerIndex": 3
+    },
+    {
+        "id": "C3_Ext_Q1",
+        "moduleId": "P2",
+        "syllabusSubArea": "C3",
+        "questionText": "In the Balanced Scorecard, 'customer satisfaction' and 'on-time delivery' are typical measures for which perspective?",
+        "options": [
+            "Financial",
+            "Customer",
+            "Internal Business Process",
+            "Learning and Growth"
+        ],
+        "correctAnswerIndex": 1
+    },
+    {
+        "id": "C3_Ext_Q2",
+        "moduleId": "P2",
+        "syllabusSubArea": "C3",
+        "questionText": "Which of the following is a non-financial performance measure?",
+        "options": [
+            "Net profit margin",
+            "Number of customer complaints",
+            "Earnings per share",
+            "Residual Income"
+        ],
+        "correctAnswerIndex": 1
+    },
+    {
+        "id": "C4_Ext_Q1",
+        "moduleId": "P2",
+        "syllabusSubArea": "C4",
+        "questionText": "The general rule for setting an optimal transfer price to ensure goal congruence is:",
+        "options": [
+            "Market Price",
+            "Full cost plus a mark-up",
+            "Marginal cost + Opportunity cost",
+            "Negotiated price"
+        ],
+        "correctAnswerIndex": 2
+    },
+    {
+        "id": "C4_Ext_Q2",
+        "moduleId": "P2",
+        "syllabusSubArea": "C4",
+        "questionText": "A selling division has spare capacity to produce a component for an internal transfer. The marginal cost of the component is $15. What is the minimum transfer price the division should accept?",
+        "options": [
+            "$0",
+            "$15",
+            "Full cost",
+            "Market price"
+        ],
+        "correctAnswerIndex": 1
+    },
+    {
+        "id": "C2_Ext_Q3",
+        "moduleId": "P2",
+        "syllabusSubArea": "C2",
+        "questionText": "A division has a controllable profit of $200,000 and capital employed of $1,000,000. The company's imputed interest rate is 12%. What is the Residual Income (RI)?",
+        "options": [
+            "$80,000",
+            "$120,000",
+            "$200,000",
+            "$320,000"
+        ],
+        "correctAnswerIndex": 0
+    },
+    {
+        "id": "C3_Ext_Q3",
+        "moduleId": "P2",
+        "syllabusSubArea": "C3",
+        "questionText": "Which of the following is a limitation of focusing solely on financial performance measures?",
+        "options": [
+            "They are difficult to calculate.",
+            "They can encourage a short-term perspective at the expense of long-term value.",
+            "They are not understood by shareholders.",
+            "They cannot be benchmarked against competitors."
+        ],
+        "correctAnswerIndex": 1
+    },
+    {
+        "id": "C4_Ext_Q3",
+        "moduleId": "P2",
+        "syllabusSubArea": "C4",
+        "questionText": "A selling division is operating at full capacity in a perfect external market where the product sells for $50. The marginal cost is $30. What is the optimal transfer price?",
+        "options": [
+            "$20",
+            "$30",
+            "$50",
+            "$80"
+        ],
+        "correctAnswerIndex": 2
+    },
+    {
+        "id": "C1_Ext_Q3",
+        "moduleId": "P2",
+        "syllabusSubArea": "C1",
+        "questionText": "A manager who is responsible for costs, revenues, and the investment in assets is in charge of what type of responsibility centre?",
+        "options": [
+            "Cost centre",
+            "Revenue centre",
+            "Profit centre",
+            "Investment centre"
+        ],
+        "correctAnswerIndex": 3
+    },
+    {
+        "id": "D1_Ext_Q1",
+        "moduleId": "P2",
+        "syllabusSubArea": "D1",
+        "questionText": "On a decision tree, what is the 'rollback' technique used for?",
+        "options": [
+            "To calculate the probabilities of each outcome.",
+            "To evaluate the tree from left to right.",
+            "To calculate expected values at chance nodes and make choices at decision nodes.",
+            "To determine the initial investment required for the project."
+        ],
+        "correctAnswerIndex": 2
+    },
+    {
+        "id": "D1_Ext_Q2",
+        "moduleId": "P2",
+        "syllabusSubArea": "D1",
+        "questionText": "The value of perfect information is calculated as:",
+        "options": [
+            "The expected value of the decision with perfect information.",
+            "The expected value of the decision without perfect information.",
+            "The sum of the expected values with and without perfect information.",
+            "The difference between the expected value with perfect information and the expected value of the original optimal decision."
+        ],
+        "correctAnswerIndex": 3
+    },
+    {
+        "id": "D2_Ext_Q1",
+        "moduleId": "P2",
+        "syllabusSubArea": "D2",
+        "questionText": "Buying insurance to cover potential losses from a factory fire is an example of which risk management strategy from the TARA framework?",
+        "options": [
+            "Transfer",
+            "Avoid",
+            "Reduce",
+            "Accept"
+        ],
+        "correctAnswerIndex": 0
+    },
+    {
+        "id": "D2_Ext_Q2",
+        "moduleId": "P2",
+        "syllabusSubArea": "D2",
+        "questionText": "Deciding not to launch a new product in a politically unstable country is an example of which risk response?",
+        "options": [
+            "Transfer",
+            "Avoid",
+            "Reduce",
+            "Accept"
+        ],
+        "correctAnswerIndex": 1
+    },
+    {
+        "id": "D1_Ext_Q3",
+        "moduleId": "P2",
+        "syllabusSubArea": "D1",
+        "questionText": "Which decision rule would be used by a manager who is a complete optimist?",
+        "options": [
+            "Maximax",
+            "Maximin",
+            "Minimax regret",
+            "Expected value"
+        ],
+        "correctAnswerIndex": 0
+    },
+    {
+        "id": "D2_Ext_Q3",
+        "moduleId": "P2",
+        "syllabusSubArea": "D2",
+        "questionText": "A risk with a low probability and a low impact would typically be managed by which response?",
+        "options": [
+            "Transfer",
+            "Avoid",
+            "Reduce",
+            "Accept"
+        ],
+        "correctAnswerIndex": 3
+    },
+    {
+        "id": "B2_Ext_Q5",
+        "moduleId": "P2",
+        "syllabusSubArea": "B2",
+        "questionText": "When comparing two projects with unequal lives that will be replaced indefinitely, which method is most appropriate?",
+        "options": [
+            "Comparing their standard NPVs",
+            "Comparing their IRRs",
+            "Comparing their Payback Periods",
+            "Comparing their Equivalent Annual Costs (EACs)"
+        ],
+        "correctAnswerIndex": 3
+    },
+    {
+        "id": "C2_Ext_Q4",
+        "moduleId": "P2",
+        "syllabusSubArea": "C2",
+        "questionText": "The Economic Value Added (EVA) is calculated as NOPAT minus what?",
+        "options": [
+            "Taxation",
+            "Depreciation",
+            "A capital charge (Capital Employed x WACC)",
+            "Interest"
+        ],
+        "correctAnswerIndex": 2
+    },
+    {
+        "id": "A1_Ext_Q4",
+        "moduleId": "P2",
+        "syllabusSubArea": "A1",
+        "questionText": "In the ABC cost hierarchy, the cost of a factory manager's salary is an example of what level of activity?",
+        "options": [
+            "Unit-level",
+            "Batch-level",
+            "Product-sustaining",
+            "Facility-sustaining"
+        ],
+        "correctAnswerIndex": 3
+    },
+    {
+        "id": "B4_Ext_Q5",
+        "moduleId": "P2",
+        "syllabusSubArea": "B4",
+        "questionText": "If a project requires an increase in inventory and accounts receivable, what is the effect on the project's working capital cash flows?",
+        "options": [
+            "A cash inflow at the start and a cash outflow at the end.",
+            "A cash outflow at the start and a cash inflow at the end.",
+            "A cash inflow in every year of the project.",
+            "Working capital has no cash flow effect."
+        ],
+        "correctAnswerIndex": 1
+    },
+    {
+        "id": "C3_Ext_Q4",
+        "moduleId": "P2",
+        "syllabusSubArea": "C3",
+        "questionText": "The 'internal business process' perspective of the Balanced Scorecard would focus on which of the following?",
+        "options": [
+            "Return on Investment (ROI)",
+            "Customer loyalty",
+            "Employee skills and training",
+            "Process efficiency and quality"
+        ],
+        "correctAnswerIndex": 3
+    },
+    {
+        "id": "D1_Ext_Q4",
+        "moduleId": "P2",
+        "syllabusSubArea": "D1",
+        "questionText": "Sensitivity analysis in investment appraisal is used to:",
+        "options": [
+            "Calculate the probability of a project succeeding.",
+            "Determine the project's exact rate of return.",
+            "Identify how much a key variable must change before the investment decision is reversed.",
+            "Select the project with the lowest risk."
+        ],
+        "correctAnswerIndex": 2
+    },
+    {
+        "id": "A2_Ext_Q5",
+        "moduleId": "P2",
+        "syllabusSubArea": "A2",
+        "questionText": "Business Process Re-engineering (BPR) is best described as:",
+        "options": [
+            "Continuous small improvements to processes.",
+            "Fundamental rethinking and radical redesign of business processes.",
+            "A method for setting annual budgets.",
+            "A quality control technique focused on zero defects."
+        ],
+        "correctAnswerIndex": 1
+    },
+    {
+        "id": "B2_Ext_Q6",
+        "moduleId": "P2",
+        "syllabusSubArea": "B2",
+        "questionText": "The Modified Internal Rate of Return (MIRR) is considered an improvement on the standard IRR because:",
+        "options": [
+            "It is easier to calculate.",
+            "It always results in a higher rate of return.",
+            "It assumes that project cash inflows are reinvested at the company's cost of capital, which is more realistic.",
+            "It uses profits instead of cash flows."
+        ],
+        "correctAnswerIndex": 2
+    },
+    {
+        "id": "C4_Ext_Q4",
+        "moduleId": "P2",
+        "syllabusSubArea": "C4",
+        "questionText": "A multinational company has subsidiaries in a high-tax country and a low-tax country. To minimise its global tax bill, what transfer price should it set for goods sold from the high-tax subsidiary to the low-tax subsidiary?",
+        "options": [
+            "A high transfer price",
+            "A low transfer price",
+            "Market price",
+            "Full cost"
+        ],
+        "correctAnswerIndex": 1
+    },
+    {
+        "id": "D1_Ext_Q5",
+        "moduleId": "P2",
+        "syllabusSubArea": "D1",
+        "questionText": "A project has a 30% chance of making a profit of $100,000 and a 70% chance of making a loss of $50,000. What is the expected value of the project?",
+        "options": [
+            "$30,000",
+            "$50,000",
+            "($5,000)",
+            "($35,000)"
+        ],
+        "correctAnswerIndex": 2
+    }
+]

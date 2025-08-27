@@ -1,3 +1,5 @@
+import 'package:cima_optimizer/features/modules/models/module_details.dart';
+import 'package:cima_optimizer/features/modules/providers/module_provider.dart';
 import 'package:flutter/material.dart';
 import 'package:provider/provider.dart';
 import '../../shared/widgets/syllabus_area_card.dart';
@@ -10,7 +12,10 @@ class PracticeScreen extends StatelessWidget {
 
   @override
   Widget build(BuildContext context) {
-    void _navigateToOptions(String? area, String title) {
+    // We get the selected module ID from the ModuleProvider.
+    final moduleId = context.watch<ModuleProvider>().selectedModuleId?.trim();
+
+    void navigateToOptions(String? area, String title) {
       Navigator.push(
         context,
         MaterialPageRoute(
@@ -29,6 +34,14 @@ class PracticeScreen extends StatelessWidget {
           return const QuizView();
         }
 
+        // If no module is selected, show a message.
+        if (moduleId == null) {
+          return const Center(child: Text('Please select a module first.'));
+        }
+
+        // Get the dynamic list of syllabus areas for the current module.
+        final syllabusAreas = getSyllabusAreasForModule(moduleId);
+
         return SingleChildScrollView(
           padding: const EdgeInsets.all(16.0),
           child: Column(
@@ -39,30 +52,22 @@ class PracticeScreen extends StatelessWidget {
                 style: Theme.of(context).textTheme.headlineSmall,
               ),
               const SizedBox(height: 16),
+              // This card for the full syllabus remains.
               SyllabusAreaCard(
                 title: 'Full Syllabus',
                 subtitle: 'Questions from all areas',
                 icon: Icons.all_inclusive,
-                onTap: () => _navigateToOptions(null, 'Full Syllabus'),
+                onTap: () => navigateToOptions(null, 'Full Syllabus'),
               ),
-              SyllabusAreaCard(
-                title: 'Syllabus Area A',
-                subtitle: 'Business Ethics & Ethical Conflict',
-                icon: Icons.shield_outlined,
-                onTap: () => _navigateToOptions('A', 'Syllabus Area A'),
-              ),
-              SyllabusAreaCard(
-                title: 'Syllabus Area B',
-                subtitle: 'Corporate Governance & Controls',
-                icon: Icons.account_balance_outlined,
-                onTap: () => _navigateToOptions('B', 'Syllabus Area B'),
-              ),
-              SyllabusAreaCard(
-                title: 'Syllabus Area C',
-                subtitle: 'Business & Employment Law',
-                icon: Icons.gavel_outlined,
-                onTap: () => _navigateToOptions('C', 'Syllabus Area C'),
-              ),
+              // I'm using the spread operator (...) to add our dynamic list of cards here.
+              ...syllabusAreas.map((area) {
+                return SyllabusAreaCard(
+                  title: area.title,
+                  subtitle: area.subtitle,
+                  icon: area.icon,
+                  onTap: () => navigateToOptions(area.id, area.title),
+                );
+              }),
             ],
           ),
         );

@@ -1,3 +1,5 @@
+import 'package:cima_optimizer/features/modules/providers/module_provider.dart';
+import 'package:cima_optimizer/features/modules/screens/module_selection_screen.dart';
 import 'package:flutter/material.dart';
 import 'package:provider/provider.dart';
 import '../../../core/theme/theme_provider.dart';
@@ -9,10 +11,10 @@ class ProfileScreen extends StatelessWidget {
 
   @override
   Widget build(BuildContext context) {
-    final authService = Provider.of<AuthService>(context, listen: false);
-    final quizProvider = Provider.of<QuizProvider>(context);
-    // I'm getting my themeProvider to control the dark mode switch.
-    final themeProvider = Provider.of<ThemeProvider>(context);
+    final authService = context.read<AuthService>();
+    final quizProvider = context.watch<QuizProvider>();
+    final themeProvider = context.watch<ThemeProvider>();
+    final moduleProvider = context.read<ModuleProvider>();
     final user = authService.currentUser;
 
     return Scaffold(
@@ -33,7 +35,30 @@ class ProfileScreen extends StatelessWidget {
                 subtitle: Text(user?.email ?? 'Not logged in'),
               ),
             ),
-            // I'm adding my new Dark Mode toggle here.
+            // This is the new card for changing the module.
+            Card(
+              child: ListTile(
+                leading: const Icon(Icons.school_outlined),
+                title: const Text('Change Module'),
+                subtitle: Text(
+                  'Currently studying: ${moduleProvider.selectedModuleId ?? ''}',
+                ),
+                trailing: const Icon(Icons.arrow_forward_ios),
+                onTap: () {
+                  // Reset the providers to their initial state.
+                  quizProvider.clearModuleData();
+                  moduleProvider.clearModule();
+
+                  // Navigate to the selection screen and remove all previous screens.
+                  Navigator.of(context).pushAndRemoveUntil(
+                    MaterialPageRoute(
+                      builder: (context) => const ModuleSelectionScreen(),
+                    ),
+                    (Route<dynamic> route) => false,
+                  );
+                },
+              ),
+            ),
             Card(
               child: SwitchListTile(
                 title: const Text('Dark Mode'),
@@ -46,7 +71,7 @@ class ProfileScreen extends StatelessWidget {
             ),
             const SizedBox(height: 24),
             Text(
-              'Lifetime Stats',
+              'Lifetime Stats for ${moduleProvider.selectedModuleId ?? ''}',
               style: Theme.of(context).textTheme.headlineSmall,
             ),
             const SizedBox(height: 16),
@@ -90,6 +115,7 @@ class ProfileScreen extends StatelessWidget {
                 onPressed: () => authService.signOut(),
                 style: ElevatedButton.styleFrom(
                   backgroundColor: Theme.of(context).colorScheme.error,
+                  foregroundColor: Theme.of(context).colorScheme.onError,
                 ),
               ),
             ),

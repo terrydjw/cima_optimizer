@@ -2,26 +2,24 @@ import 'package:google_generative_ai/google_generative_ai.dart';
 import 'package:flutter_dotenv/flutter_dotenv.dart';
 
 class AITutorService {
-  // IMPORTANT: Replace with your actual API key
   static final String _apiKey = dotenv.env['GEMINI_API_KEY'] ?? 'NO_KEY';
 
   final GenerativeModel _model;
 
   AITutorService()
-    : _model = GenerativeModel(
-        model: 'gemini-1.5-flash', // A fast and efficient model
-        apiKey: _apiKey,
-      );
+    : _model = GenerativeModel(model: 'gemini-1.5-flash', apiKey: _apiKey);
 
   Future<String?> getExplanation({
     required String question,
     required String correctAnswer,
     required List<String> allOptions,
+    // Add moduleId as a required parameter
+    required String moduleId,
   }) async {
     try {
-      // I'm creating a specific prompt for the AI.
+      // The prompt now dynamically includes the moduleId for a more tailored explanation.
       final prompt =
-          'Explain the concept behind this multiple-choice question for a CIMA BA4 student. '
+          'Explain the concept behind this multiple-choice question for a CIMA $moduleId student. '
           'The question is: "$question". '
           'The options are: ${allOptions.join(", ")}. '
           'The correct answer is "$correctAnswer". '

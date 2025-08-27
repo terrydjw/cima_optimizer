@@ -5,6 +5,8 @@ import 'package:cima_optimizer/features/app_shell/main_screen.dart';
 import 'package:cima_optimizer/features/auth/providers/auth_provider.dart';
 import 'package:cima_optimizer/features/auth/screens/auth_wrapper.dart';
 import 'package:cima_optimizer/features/auth/services/auth_service.dart';
+// Add the import for our new provider.
+import 'package:cima_optimizer/features/modules/providers/module_provider.dart';
 import 'package:cima_optimizer/features/practice/providers/quiz_provider.dart';
 import 'package:flutter/material.dart';
 import 'package:flutter_dotenv/flutter_dotenv.dart';
@@ -20,6 +22,9 @@ void main() async {
   runApp(
     MultiProvider(
       providers: [
+        // Add the new ModuleProvider to the list.
+        ChangeNotifierProvider<ModuleProvider>(create: (_) => ModuleProvider()),
+
         Provider<AuthService>(create: (_) => AuthService()),
         // I am adding the AITutorService here so it can be used by other providers.
         Provider<AITutorService>(create: (_) => AITutorService()),

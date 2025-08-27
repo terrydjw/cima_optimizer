@@ -1,0 +1,178 @@
+[
+    {
+        "id": "A1",
+        "moduleId": "P1",
+        "title": "Cost Classification & Behaviour",
+        "syllabusArea": "A",
+        "content": "Understanding how costs are classified is fundamental to management accounting. Costs can be classified in several ways:\n\n- By Element: Materials, Labour, and Overheads (expenses).\n- By Nature: Direct costs (can be traced directly to a cost object, e.g., raw materials) and Indirect costs (cannot be traced directly, e.g., factory rent).\n- By Function: Production costs (related to manufacturing) and Non-production costs (e.g., selling, administration).\n- By Behaviour: How costs change with activity levels.\n  - Fixed Costs: Remain constant in total regardless of activity (e.g., rent). The cost per unit decreases as activity increases.\n  - Variable Costs: Vary in direct proportion to the level of activity (e.g., direct materials). The cost per unit is constant.\n  - Semi-variable Costs: Have both a fixed and a variable component (e.g., a telephone bill with a fixed line rental and variable call charges).\n  - Stepped Costs: Fixed only within a certain range of activity, then increase to a new level (e.g., a supervisor's salary, where a new supervisor is needed after a certain production volume is reached).",
+        "keyPoints": [
+            "A cost object is anything for which a cost can be calculated (e.g., a product, a service, a department).",
+            "Direct costs are traced; indirect costs (overheads) are allocated.",
+            "Fixed costs are constant in total but change per unit.",
+            "Variable costs are constant per unit but change in total.",
+            "The high-low method is used to split semi-variable costs into their fixed and variable parts."
+        ]
+    },
+    {
+        "id": "A2",
+        "moduleId": "P1",
+        "title": "Absorption Costing",
+        "syllabusArea": "A",
+        "content": "Absorption Costing is a method that aims to determine the full production cost per unit by including a share of all fixed production overheads. This is required for financial reporting (IAS 2).\n\nThe process involves three steps:\n1. Allocation & Apportionment: Allocate whole-cost items to cost centres. Apportion general overheads using a fair basis (e.g., rent based on floor area).\n2. Reapportionment: Reapportion the costs of service cost centres (e.g., maintenance) to production cost centres.\n3. Absorption: Absorb the total overheads from production cost centres into the cost of units produced. This is done using a pre-determined Overhead Absorption Rate (OAR).\n\nCalculation of OAR:\nOAR = Budgeted Production Overhead / Budgeted Activity Level\n\nThe activity level can be units, labour hours, or machine hours, depending on the nature of the production process. If actual activity or overheads differ from budget, this can lead to under or over-absorption of overheads.",
+        "keyPoints": [
+            "Absorption costing includes fixed production overheads as a product cost.",
+            "It is the required method for inventory valuation in financial statements.",
+            "The OAR is calculated using budgeted figures at the start of a period.",
+            "Under-absorption occurs when absorbed overheads are less than actual overheads.",
+            "Over-absorption occurs when absorbed overheads are more than actual overheads."
+        ]
+    },
+    {
+        "id": "A3",
+        "moduleId": "P1",
+        "title": "Marginal Costing",
+        "syllabusArea": "A",
+        "content": "Marginal Costing is an alternative to absorption costing. It treats fixed production costs as period costs, not product costs. The marginal cost of a product is its variable production cost.\n\nThis method focuses on Contribution, which is central to short-term decision making.\n\nContribution = Selling Price - All Variable Costs\n\nUnder marginal costing, the cost of a product only includes its variable costs:\n- Direct Materials\n- Direct Labour\n- Variable Production Overheads\n\nFixed production overheads are written off in full in the period they are incurred and are not carried forward in inventory values. This means that profit in marginal costing is only affected by changes in sales volume, not production volume.",
+        "keyPoints": [
+            "Marginal cost is the extra cost of producing one more unit.",
+            "Fixed costs are treated as period costs and are written off in the period incurred.",
+            "Inventory is valued at its variable production cost.",
+            "Contribution is a key measure used for short-term decision making.",
+            "Profit is calculated as: Total Contribution - Total Fixed Costs."
+        ]
+    },
+    {
+        "id": "A4",
+        "moduleId": "P1",
+        "title": "Reconciling Profits",
+        "syllabusArea": "A",
+        "content": "Because absorption and marginal costing treat fixed production overheads differently, they will report different profit figures if inventory levels change during a period.\n\nThe difference in profit can be reconciled with a simple formula:\nDifference in Profit = Change in Inventory (in units) x Fixed Overhead Absorption Rate (OAR) per unit.\n\n- If Inventory Increases (Production > Sales): Absorption costing profit will be higher. This is because some of the period's fixed overheads are carried forward into the closing inventory value, rather than being written off in the profit statement.\n- If Inventory Decreases (Sales > Production): Marginal costing profit will be higher. This is because fixed overheads from the previous period (held in opening inventory) are released into the current period's profit statement under absorption costing.\n- If Inventory is Constant (Production = Sales): Both methods will give the same profit.\n\nThe acronym SIAM can be used to remember this: Stocks Increasing, Absorption More (profit).",
+        "keyPoints": [
+            "Profits differ only if inventory levels change.",
+            "The difference is purely due to the treatment of fixed production overheads in inventory.",
+            "If inventory levels increase, absorption costing gives a higher profit.",
+            "If inventory levels decrease, marginal costing gives a higher profit.",
+            "If inventory is constant, profits are the same."
+        ]
+    },
+    {
+        "id": "A5",
+        "moduleId": "P1",
+        "title": "Activity Based Costing (ABC)",
+        "syllabusArea": "A",
+        "content": "Activity Based Costing (ABC) is a more modern approach to overhead absorption. It is particularly useful where overheads are a significant proportion of total costs and production is complex. ABC allocates overheads to products based on the activities that drive the costs.\n\nKey Terminology:\n- Cost Pool: A collection of costs related to a specific activity (e.g., the total cost of machine set-ups).\n- Cost Driver: The factor that causes the cost of an activity to be incurred (e.g., the number of machine set-ups).\n\nThe 5 Steps of ABC:\n1. Identify the major activities that cause overheads (e.g., ordering, machine setup, quality inspection).\n2. Estimate the total cost for each activity (the cost pool).\n3. Identify the cost driver for each activity.\n4. Calculate a cost driver rate for each activity (Total Cost Pool / Total Cost Drivers).\n5. Charge overheads to products based on their usage of each activity.",
+        "keyPoints": [
+            "ABC provides a more accurate product cost than traditional absorption costing.",
+            "It links overhead costs to the activities that cause them.",
+            "Better understanding of cost drivers can lead to improved cost control.",
+            "ABC is complex and costly to implement compared to traditional methods.",
+            "It is most suitable when overheads are high and there is a diverse product range."
+        ]
+    },
+    {
+        "id": "B1",
+        "moduleId": "P1",
+        "title": "The Budgeting Process",
+        "syllabusArea": "B",
+        "content": "A budget is a quantitative plan for a defined period, usually one year. Budgeting has several purposes, often remembered by the acronym PCCEM:\n\n- Planning: Forcing management to think ahead.\n- Control: Comparing actual results to the budget to take corrective action.\n- Communication: Communicating plans to managers.\n- Co-ordination: Ensuring all departments work towards the same goals.\n- Evaluation: Assessing managerial performance.\n- Motivation: Providing targets to motivate staff.\n\nThe process begins by identifying the Principal Budget Factor, which is the factor that limits an organisation's activities, usually sales demand. Once the sales budget is set, all other functional budgets (production, materials, labour) are prepared, culminating in the Master Budget (budgeted financial statements).",
+        "keyPoints": [
+            "A budget is a financial plan for the future.",
+            "The main purposes are Planning, Control, Communication, Co-ordination, Evaluation, and Motivation.",
+            "Budgeting should always start with the principal budget factor, which is usually sales.",
+            "The Master Budget consists of a budgeted Statement of Profit or Loss, Statement of Financial Position, and Cash Flow Statement."
+        ]
+    },
+    {
+        "id": "B2",
+        "moduleId": "P1",
+        "title": "Budgeting Methods",
+        "syllabusArea": "B",
+        "content": "There are several approaches to preparing budgets:\n\n- Incremental Budgeting: This method uses the previous year's budget or actual results as a base, adjusting for inflation and other known changes. It's simple and quick but can perpetuate past inefficiencies and encourages a 'spend it or lose it' mentality.\n\n- Zero-Based Budgeting (ZBB): This method starts from a 'zero base' each year. Every single cost must be justified in full to be included in the budget. It's very time-consuming and complex but is excellent for cost control and resource allocation, especially in the public sector or for discretionary spending.\n\n- Rolling Budgets: A rolling budget is continuously updated by adding a new period (e.g., a month or quarter) as the earliest one expires. This keeps the budget relevant and encourages a more continuous planning process, but it is very time-consuming.",
+        "keyPoints": [
+            "Incremental budgeting is simple but can be inefficient.",
+            "Zero-Based Budgeting requires all costs to be justified from scratch.",
+            "Rolling budgets are continuously updated, always providing a forecast for the next 12 months.",
+            "The choice of method depends on the stability of the business environment and the need for tight control."
+        ]
+    },
+    {
+        "id": "B3",
+        "moduleId": "P1",
+        "title": "Forecasting Techniques",
+        "syllabusArea": "B",
+        "content": "Forecasting is essential for creating realistic budget assumptions. Several quantitative techniques can be used:\n\n- High-Low Method: Used to separate semi-variable costs into their fixed and variable components by analysing the highest and lowest activity levels.\n  - Step 1: Calculate Variable Cost per Unit = (Cost at High Activity - Cost at Low Activity) / (High Activity - Low Activity).\n  - Step 2: Calculate Total Fixed Cost = Total Cost at High Activity - (Total Variable Cost at High Activity).\n  - Step 3: Form the cost equation: y = a + bx, where 'a' is the fixed cost and 'b' is the variable cost per unit.\n\n- Time Series Analysis: Used to forecast future values based on past data, isolating trend and seasonal variations. The actual value is seen as a combination of a long-term Trend (T) and a short-term Seasonal Variation (S). A common model is the additive model: Forecast = T + S.",
+        "keyPoints": [
+            "The high-low method uses only two data points, which can be a limitation.",
+            "Linear Regression (y = a + bx) is a more statistically accurate method that uses all available data points.",
+            "Time series analysis is used to make forecasts when there is a seasonal pattern in the data.",
+            "Forecasts must often be adjusted for inflation."
+        ]
+    },
+    {
+        "id": "C1",
+        "moduleId": "P1",
+        "title": "Relevant Costing",
+        "syllabusArea": "C",
+        "content": "Relevant costs and revenues are those that change as a direct result of a decision. For a cost to be relevant, it must meet three criteria:\n\n1. Future: It must relate to the future. Past costs, known as Sunk Costs, are never relevant (e.g., the original purchase price of a machine).\n2. Incremental: It must be an extra cost that is only incurred if the decision is taken.\n3. Cash Flow: It must be a cash flow. Non-cash items like depreciation are never relevant.\n\nKey Concepts:\n- Sunk Cost: A cost that has already been incurred and cannot be recovered. It is not relevant.\n- Committed Cost: A future cost that cannot be avoided, regardless of the decision made. It is not relevant.\n- Opportunity Cost: The value of the best alternative that is given up when a decision is made. It is always a relevant cost. For example, if a project uses a resource that could have been used to generate £5,000 in contribution on another project, that £5,000 is an opportunity cost.",
+        "keyPoints": [
+            "Relevant costs are Future, Incremental, Cash Flows.",
+            "Sunk costs and committed costs are never relevant.",
+            "Opportunity costs are always relevant.",
+            "General fixed overheads are usually not relevant unless they increase as a direct result of the decision."
+        ]
+    },
+    {
+        "id": "C2",
+        "moduleId": "P1",
+        "title": "Breakeven Analysis (CVP)",
+        "syllabusArea": "C",
+        "content": "Cost-Volume-Profit (CVP) analysis, or breakeven analysis, examines the relationship between changes in activity and changes in total revenue, costs, and profit.\n\nThe Breakeven Point is the level of activity where total revenue equals total costs, and there is neither profit nor loss. At this point, total contribution equals total fixed costs.\n\nKey Formulas:\n- Breakeven Point (units) = Total Fixed Costs / Contribution per unit.\n- Contribution to Sales (C/S) Ratio = Contribution per unit / Selling price per unit.\n- Breakeven Point (revenue) = Total Fixed Costs / C/S Ratio.\n- Margin of Safety = Budgeted Sales - Breakeven Sales. It shows how much sales can fall before a loss is made.\n- Units for Target Profit = (Fixed Costs + Target Profit) / Contribution per unit.",
+        "keyPoints": [
+            "CVP analysis helps in short-term planning and decision making.",
+            "The breakeven point is where profit is zero.",
+            "Margin of safety is the buffer between budgeted and breakeven sales.",
+            "The C/S ratio shows how much contribution is earned for every £1 of sales.",
+            "CVP analysis assumes linearity, meaning selling price and variable cost per unit are constant."
+        ]
+    },
+    {
+        "id": "C3",
+        "moduleId": "P1",
+        "title": "Limiting Factor Analysis",
+        "syllabusArea": "C",
+        "content": "A limiting factor (or bottleneck resource) is any resource that is in short supply and restricts an organisation's ability to meet demand. Examples include labour hours, machine hours, or a specific material.\n\nWhen there is one limiting factor, the goal is to maximise profit by maximising the contribution earned from the scarce resource. This is achieved by prioritising the production of products that generate the highest contribution per unit of the limiting factor.\n\nThe 5-Step Process:\n1. Identify the scarce resource (the limiting factor).\n2. Calculate the contribution per unit for each product.\n3. Calculate the contribution per unit of the scarce resource for each product (Contribution per unit / Scarce resource per unit).\n4. Rank the products in order, from highest contribution per unit of scarce resource to lowest.\n5. Allocate the scarce resource according to the ranking to create the optimal production plan.",
+        "keyPoints": [
+            "This technique is used for short-term production planning when a resource is scarce.",
+            "The aim is to get the best possible return from the limited resource.",
+            "Do not rank products based on contribution per unit or profit per unit.",
+            "Ranking must be based on contribution per unit of the limiting factor.",
+            "If there are multiple limiting factors, Linear Programming must be used."
+        ]
+    },
+    {
+        "id": "D1",
+        "moduleId": "P1",
+        "title": "Risk vs. Uncertainty",
+        "syllabusArea": "D",
+        "content": "In decision making, it's crucial to distinguish between risk and uncertainty.\n\n- Risk: This exists when a decision has a range of possible outcomes, and the probability of each outcome occurring is known. Risk is quantifiable. We can calculate an Expected Value (EV) to help make a decision.\n\n- Uncertainty: This exists when the possible outcomes of a decision are known, but the probability of them occurring is not. Uncertainty is unquantifiable. Decisions must be made based on the manager's attitude to risk (e.g., are they optimistic or pessimistic?)\n\nExpected Value (EV) is a weighted average of all possible outcomes, weighted by their probabilities. It represents the long-run average result if a decision were repeated many times.\n\nEV = Σpx (Sum of [probability x outcome])",
+        "keyPoints": [
+            "Risk is when probabilities are known; uncertainty is when they are not.",
+            "Expected Value is a tool for decision making under conditions of risk.",
+            "EV is a useful guide but has limitations, especially for one-off projects.",
+            "EV calculation assumes the decision-maker is 'risk-neutral'."
+        ]
+    },
+    {
+        "id": "D2",
+        "moduleId": "P1",
+        "title": "Decision Making Under Uncertainty",
+        "syllabusArea": "D",
+        "content": "When probabilities are unknown (uncertainty), decisions are based on the manager's risk appetite. A payoff table is used to show the outcomes of different choices under different scenarios.\n\nThree common decision criteria are:\n\n1. Maximax: For the risk-seeker or optimist. This rule involves choosing the option that offers the highest possible payoff. You find the best possible outcome for each decision and then choose the decision with the maximum of these best outcomes.\n\n2. Maximin: For the risk-averse or pessimist. This rule involves choosing the option that offers the 'best of the worst'. You find the worst possible outcome for each decision and then choose the decision with the maximum of these minimum outcomes.\n\n3. Minimax Regret: For the 'sore loser' who wants to minimise post-decision regret. Regret is the opportunity loss of making the wrong decision. The process is:\n   - Create a 'regret table' showing the difference between the payoff you got and the best payoff you could have gotten for each scenario.\n   - Find the maximum regret for each decision.\n   - Choose the decision with the minimum of these maximum regrets.",
+        "keyPoints": [
+            "These rules are used when probabilities cannot be assigned to outcomes.",
+            "Maximax is the 'best of the best' approach (optimistic).",
+            "Maximin is the 'best of the worst' approach (pessimistic).",
+            "Minimax Regret minimises the potential opportunity loss."
+        ]
+    }
+]
