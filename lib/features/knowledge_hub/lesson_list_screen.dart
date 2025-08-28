@@ -9,7 +9,8 @@ class LessonListScreen extends StatelessWidget {
 
   @override
   Widget build(BuildContext context) {
-    final quizProvider = Provider.of<QuizProvider>(context, listen: false);
+    // Use listen: true here or wrap in a Consumer to get lessons after they're loaded
+    final quizProvider = Provider.of<QuizProvider>(context);
     final lessons = quizProvider.lessons
         .where((l) => l.syllabusArea == area)
         .toList();
@@ -23,11 +24,9 @@ class LessonListScreen extends StatelessWidget {
           return Card(
             margin: const EdgeInsets.symmetric(horizontal: 16.0, vertical: 8.0),
             child: ListTile(
-              // I'm wrapping my title in a Hero widget with a unique tag.
               title: Hero(
                 tag: 'lesson_title_${lesson.id}',
                 child: Material(
-                  // This Material widget prevents text style clashes during the animation.
                   color: Colors.transparent,
                   child: Text(
                     lesson.title,

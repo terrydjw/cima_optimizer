@@ -65,6 +65,7 @@ class QuizProvider extends ChangeNotifier {
   bool _answerChecked = false;
 
   final Set<String> _answeredQuestionIds = {};
+  final Set<String> _correctlyAnsweredQuestionIds = {};
   final Map<String, int> _topicCorrectAnswers = {};
   final Map<String, int> _topicAttempts = {};
   final List<QuizResult> _recentQuizzes = [];
@@ -79,8 +80,11 @@ class QuizProvider extends ChangeNotifier {
   String _calculatorExpression = '';
   String _calculatorResult = '0';
 
-  // --- Getters ---
   List<Lesson> get lessons => _lessons;
+  List<Question> get fullQuestionList => _fullQuestionList;
+  List<Question> get weakQuestions => _fullQuestionList
+      .where((q) => !_correctlyAnsweredQuestionIds.contains(q.id))
+      .toList();
   bool get isLoading => _isLoading;
   QuizStatus get status => _status;
   int get currentQuestionIndex => _currentQuestionIndex;
@@ -156,26 +160,12 @@ class QuizProvider extends ChangeNotifier {
     notifyListeners();
   }
 
-  // ## THE DEFINITIVE FIX IS HERE ##
-  // The old version of this method incorrectly called `clearModuleData()`,
-  // which was resetting the `_currentModuleId` we had just set.
-  // This corrected version clears the state manually WITHOUT resetting the ID.
   Future<void> loadDataForModule(String moduleId) async {
     _isLoading = true;
     notifyListeners();
-
     _currentModuleId = moduleId;
 
-    // Manually clear the data from the previous module
-    _fullQuestionList.clear();
-    _lessons.clear();
-    _answeredQuestionIds.clear();
-    _topicCorrectAnswers.clear();
-    _topicAttempts.clear();
-    _subTopicCorrectAnswers.clear();
-    _subTopicAttempts.clear();
-    _recentQuizzes.clear();
-    _status = QuizStatus.notStarted;
+    clearModuleData();
 
     _fullQuestionList = await _lessonService.getQuestions(moduleId: moduleId);
     _lessons = await _lessonService.getLessons(moduleId: moduleId);
@@ -196,6 +186,9 @@ class QuizProvider extends ChangeNotifier {
     if (progress != null) {
       _answeredQuestionIds.addAll(
         Set<String>.from(progress['answeredQuestionIds'] ?? []),
+      );
+      _correctlyAnsweredQuestionIds.addAll(
+        Set<String>.from(progress['correctlyAnsweredQuestionIds'] ?? []),
       );
       _topicCorrectAnswers.addAll(
         Map<String, int>.from(progress['topicCorrectAnswers'] ?? {}),
@@ -225,6 +218,7 @@ class QuizProvider extends ChangeNotifier {
       userId: _user!.uid,
       moduleId: _currentModuleId!,
       answeredQuestionIds: _answeredQuestionIds,
+      correctlyAnsweredQuestionIds: _correctlyAnsweredQuestionIds,
       topicAttempts: _topicAttempts,
       topicCorrectAnswers: _topicCorrectAnswers,
       subTopicAttempts: _subTopicAttempts,
@@ -279,6 +273,7 @@ class QuizProvider extends ChangeNotifier {
         (value) => value + 1,
         ifAbsent: () => 1,
       );
+      _correctlyAnsweredQuestionIds.add(question.id);
     }
     _answerChecked = true;
     notifyListeners();
@@ -290,7 +285,7 @@ class QuizProvider extends ChangeNotifier {
     notifyListeners();
   }
 
-  void finishQuiz() {
+  Future<void> finishQuiz() async {
     _status = QuizStatus.finished;
     _recentQuizzes.insert(
       0,
@@ -304,11 +299,11 @@ class QuizProvider extends ChangeNotifier {
     if (_recentQuizzes.length > 3) {
       _recentQuizzes.removeLast();
     }
-    _saveProgress();
+    await _saveProgress();
     notifyListeners();
   }
 
-  void nextQuestion(BuildContext context) {
+  Future<void> nextQuestion(BuildContext context) async {
     if (_currentQuestionIndex < _sessionQuestions.length - 1) {
       _currentQuestionIndex++;
       _selectedAnswerIndex = null;
@@ -319,7 +314,7 @@ class QuizProvider extends ChangeNotifier {
       _calculatorResult = '0';
       notifyListeners();
     } else {
-      finishQuiz();
+      await finishQuiz();
       Navigator.pushReplacement(
         context,
         MaterialPageRoute(builder: (context) => const QuizResultsScreen()),
@@ -327,7 +322,8 @@ class QuizProvider extends ChangeNotifier {
     }
   }
 
-  void cancelQuiz() {
+  Future<void> cancelQuiz() async {
+    await _saveProgress();
     _status = QuizStatus.notStarted;
     _sessionQuestions = [];
     _explanationText = null;
@@ -341,17 +337,14 @@ class QuizProvider extends ChangeNotifier {
     _isExplanationLoading = true;
     _explanationText = null;
     notifyListeners();
-
     final question = currentQuestion;
     final correctAnswer = question.options[question.correctAnswerIndex];
-
     if (_currentModuleId == null) {
       _explanationText = 'Error: Module ID not found.';
       _isExplanationLoading = false;
       notifyListeners();
       return;
     }
-
     final explanation = await _aiTutorService.getExplanation(
       question: question.questionText,
       correctAnswer: correctAnswer,
@@ -364,10 +357,11 @@ class QuizProvider extends ChangeNotifier {
   }
 
   void clearModuleData() {
-    _currentModuleId = null;
+    // We keep the _currentModuleId here, but clear everything else.
     _fullQuestionList.clear();
     _lessons.clear();
     _answeredQuestionIds.clear();
+    _correctlyAnsweredQuestionIds.clear();
     _topicCorrectAnswers.clear();
     _topicAttempts.clear();
     _subTopicCorrectAnswers.clear();

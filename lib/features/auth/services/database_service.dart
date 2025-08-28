@@ -7,9 +7,9 @@ class DatabaseService {
     required String userId,
     required String moduleId,
     required Set<String> answeredQuestionIds,
+    required Set<String> correctlyAnsweredQuestionIds,
     required Map<String, int> topicAttempts,
     required Map<String, int> topicCorrectAnswers,
-    // Add the new sub-topic maps
     required Map<String, int> subTopicAttempts,
     required Map<String, int> subTopicCorrectAnswers,
     required List<Map<String, dynamic>> recentQuizzes,
@@ -22,9 +22,9 @@ class DatabaseService {
           .doc(moduleId);
       await userProgressDocRef.set({
         'answeredQuestionIds': answeredQuestionIds.toList(),
+        'correctlyAnsweredQuestionIds': correctlyAnsweredQuestionIds.toList(),
         'topicAttempts': topicAttempts,
         'topicCorrectAnswers': topicCorrectAnswers,
-        // Add the new fields to be saved to Firestore
         'subTopicAttempts': subTopicAttempts,
         'subTopicCorrectAnswers': subTopicCorrectAnswers,
         'recentQuizzes': recentQuizzes,

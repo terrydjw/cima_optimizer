@@ -7,8 +7,14 @@ import 'package:flutter/services.dart';
 class QuizOptionsScreen extends StatefulWidget {
   final String? area;
   final String title;
+  final List<Question>? questions;
 
-  const QuizOptionsScreen({super.key, this.area, required this.title});
+  const QuizOptionsScreen({
+    super.key,
+    this.area,
+    required this.title,
+    this.questions,
+  });
 
   @override
   State<QuizOptionsScreen> createState() => _QuizOptionsScreenState();
@@ -27,15 +33,16 @@ class _QuizOptionsScreenState extends State<QuizOptionsScreen> {
 
   void _startQuiz(BuildContext context, int count) {
     final quizProvider = Provider.of<QuizProvider>(context, listen: false);
-    final availableQuestions = quizProvider.getQuestionsForArea(widget.area);
 
-    // I'm validating one last time before starting.
+    // Determine the source of questions
+    final availableQuestions =
+        widget.questions ?? quizProvider.getQuestionsForArea(widget.area);
+
     if (count > 0 && count <= availableQuestions.length) {
       final selectedQuestions = (availableQuestions..shuffle())
           .take(count)
           .toList();
       quizProvider.startQuiz(selectedQuestions, widget.title);
-      // I'm popping the options screen off the navigation stack.
       Navigator.of(context).pop();
     }
   }
@@ -43,13 +50,14 @@ class _QuizOptionsScreenState extends State<QuizOptionsScreen> {
   @override
   Widget build(BuildContext context) {
     final quizProvider = Provider.of<QuizProvider>(context, listen: false);
-    final availableQuestions = quizProvider.getQuestionsForArea(widget.area);
+
+    // Use the provided list of questions if it exists, otherwise fetch from provider.
+    final availableQuestions =
+        widget.questions ?? quizProvider.getQuestionsForArea(widget.area);
 
     final List<int> questionCounts = [5, 10, 20];
-    if (availableQuestions.length > 20 &&
+    if (availableQuestions.isNotEmpty &&
         !questionCounts.contains(availableQuestions.length)) {
-      questionCounts.add(availableQuestions.length);
-    } else if (!questionCounts.contains(availableQuestions.length)) {
       questionCounts.add(availableQuestions.length);
     }
     questionCounts.removeWhere((count) => count > availableQuestions.length);
@@ -69,7 +77,6 @@ class _QuizOptionsScreenState extends State<QuizOptionsScreen> {
                 style: Theme.of(context).textTheme.headlineSmall,
               ),
               const SizedBox(height: 24),
-              // I'm creating a grid for my preset options.
               GridView.builder(
                 shrinkWrap: true,
                 physics: const NeverScrollableScrollPhysics(),
@@ -85,7 +92,9 @@ class _QuizOptionsScreenState extends State<QuizOptionsScreen> {
                   return ElevatedButton(
                     onPressed: () => _startQuiz(context, count),
                     child: Text(
-                      count == availableQuestions.length ? 'All' : '$count',
+                      count == availableQuestions.length && count > 20
+                          ? 'All'
+                          : '$count',
                     ),
                   );
                 },
