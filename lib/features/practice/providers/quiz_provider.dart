@@ -75,7 +75,6 @@ class QuizProvider extends ChangeNotifier {
   bool _isExplanationLoading = false;
   String? _explanationText;
 
-  // State for in-quiz tools
   String _notepadText = '';
   String _calculatorExpression = '';
   String _calculatorResult = '0';
@@ -157,12 +156,26 @@ class QuizProvider extends ChangeNotifier {
     notifyListeners();
   }
 
+  // ## THE DEFINITIVE FIX IS HERE ##
+  // The old version of this method incorrectly called `clearModuleData()`,
+  // which was resetting the `_currentModuleId` we had just set.
+  // This corrected version clears the state manually WITHOUT resetting the ID.
   Future<void> loadDataForModule(String moduleId) async {
     _isLoading = true;
     notifyListeners();
+
     _currentModuleId = moduleId;
 
-    clearModuleData(); // Use the clear method to reset everything
+    // Manually clear the data from the previous module
+    _fullQuestionList.clear();
+    _lessons.clear();
+    _answeredQuestionIds.clear();
+    _topicCorrectAnswers.clear();
+    _topicAttempts.clear();
+    _subTopicCorrectAnswers.clear();
+    _subTopicAttempts.clear();
+    _recentQuizzes.clear();
+    _status = QuizStatus.notStarted;
 
     _fullQuestionList = await _lessonService.getQuestions(moduleId: moduleId);
     _lessons = await _lessonService.getLessons(moduleId: moduleId);
@@ -328,14 +341,17 @@ class QuizProvider extends ChangeNotifier {
     _isExplanationLoading = true;
     _explanationText = null;
     notifyListeners();
+
     final question = currentQuestion;
     final correctAnswer = question.options[question.correctAnswerIndex];
+
     if (_currentModuleId == null) {
-      _explanationText = 'Error: No module selected.';
+      _explanationText = 'Error: Module ID not found.';
       _isExplanationLoading = false;
       notifyListeners();
       return;
     }
+
     final explanation = await _aiTutorService.getExplanation(
       question: question.questionText,
       correctAnswer: correctAnswer,
@@ -358,6 +374,9 @@ class QuizProvider extends ChangeNotifier {
     _subTopicAttempts.clear();
     _recentQuizzes.clear();
     _status = QuizStatus.notStarted;
+    _notepadText = '';
+    _calculatorExpression = '';
+    _calculatorResult = '0';
     notifyListeners();
   }
 

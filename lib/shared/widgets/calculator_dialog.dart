@@ -1,5 +1,7 @@
 import 'package:flutter/material.dart';
 import 'package:math_expressions/math_expressions.dart';
+import 'package:provider/provider.dart';
+import '../../features/practice/providers/quiz_provider.dart';
 
 class CalculatorDialog extends StatefulWidget {
   const CalculatorDialog({super.key});
@@ -9,40 +11,39 @@ class CalculatorDialog extends StatefulWidget {
 }
 
 class _CalculatorDialogState extends State<CalculatorDialog> {
-  String _expression = "";
-  String _result = "0";
-
   void _buttonPressed(String buttonText) {
-    setState(() {
-      if (buttonText == "C") {
-        _expression = "";
-        _result = "0";
-      } else if (buttonText == "⌫") {
-        if (_expression.isNotEmpty) {
-          _expression = _expression.substring(0, _expression.length - 1);
-        }
-      } else if (buttonText == "=") {
-        try {
-          // I'm using the math_expressions package to evaluate the string.
-          String finalExpression = _expression
-              .replaceAll('×', '*')
-              .replaceAll('÷', '/');
-          Parser p = Parser();
-          Expression exp = p.parse(finalExpression);
-          ContextModel cm = ContextModel();
-          double eval = exp.evaluate(EvaluationType.REAL, cm);
+    final quizProvider = context.read<QuizProvider>();
+    String currentExpression = quizProvider.calculatorExpression;
+    String newExpression = currentExpression;
+    String newResult = quizProvider.calculatorResult;
 
-          // I'll format the result to avoid unnecessary decimals like .0
-          _result = eval.toStringAsFixed(
-            eval.truncateToDouble() == eval ? 0 : 2,
-          );
-        } catch (e) {
-          _result = "Error";
-        }
-      } else {
-        _expression += buttonText;
+    if (buttonText == "C") {
+      newExpression = "";
+      newResult = "0";
+    } else if (buttonText == "⌫") {
+      if (newExpression.isNotEmpty) {
+        newExpression = newExpression.substring(0, newExpression.length - 1);
       }
-    });
+    } else if (buttonText == "=") {
+      try {
+        String finalExpression = newExpression
+            .replaceAll('×', '*')
+            .replaceAll('÷', '/');
+        Parser p = Parser();
+        Expression exp = p.parse(finalExpression);
+        ContextModel cm = ContextModel();
+        double eval = exp.evaluate(EvaluationType.REAL, cm);
+        newResult = eval.toStringAsFixed(
+          eval.truncateToDouble() == eval ? 0 : 2,
+        );
+      } catch (e) {
+        newResult = "Error";
+      }
+    } else {
+      newExpression += buttonText;
+    }
+
+    quizProvider.updateCalculatorState(newExpression, newResult);
   }
 
   Widget _buildButton(String buttonText, {Color? color, int flex = 1}) {
@@ -72,6 +73,8 @@ class _CalculatorDialogState extends State<CalculatorDialog> {
 
   @override
   Widget build(BuildContext context) {
+    final quizProvider = context.watch<QuizProvider>();
+
     return AlertDialog(
       title: const Text('Calculator'),
       content: SizedBox(
@@ -83,7 +86,7 @@ class _CalculatorDialogState extends State<CalculatorDialog> {
               alignment: Alignment.centerRight,
               padding: const EdgeInsets.symmetric(vertical: 12, horizontal: 12),
               child: Text(
-                _expression,
+                quizProvider.calculatorExpression,
                 style: TextStyle(fontSize: 24, color: Colors.grey.shade600),
                 maxLines: 1,
                 overflow: TextOverflow.ellipsis,
@@ -93,7 +96,7 @@ class _CalculatorDialogState extends State<CalculatorDialog> {
               alignment: Alignment.centerRight,
               padding: const EdgeInsets.symmetric(vertical: 12, horizontal: 12),
               child: Text(
-                _result,
+                quizProvider.calculatorResult,
                 style: const TextStyle(
                   fontSize: 48,
                   fontWeight: FontWeight.bold,

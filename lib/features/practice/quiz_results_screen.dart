@@ -31,9 +31,15 @@ class QuizResultsScreen extends StatelessWidget {
             const SizedBox(height: 24),
             ElevatedButton(
               onPressed: () {
-                // My data is already saved, so I just pop and switch tabs.
-                Navigator.pop(context);
-                mainScreenKey.currentState?.changeTab(0);
+                // This robust navigation method prevents the black screen issue.
+                Navigator.of(context)
+                    .pushAndRemoveUntil(
+                      MaterialPageRoute(
+                        builder: (context) => MainScreen(key: mainScreenKey),
+                      ),
+                      (Route<dynamic> route) => false,
+                    )
+                    .then((_) => mainScreenKey.currentState?.changeTab(0));
               },
               child: const Text('Finish'),
             ),

@@ -13,7 +13,6 @@ class KnowledgeHubScreen extends StatelessWidget {
   Widget build(BuildContext context) {
     // We get the selected module ID from the ModuleProvider.
     final moduleId = context.watch<ModuleProvider>().selectedModuleId?.trim();
-    print('KNOWLEDGE HUB - Current Module ID: "$moduleId"');
 
     return Consumer<QuizProvider>(
       builder: (context, quizProvider, child) {

@@ -11,7 +11,7 @@ class QuizView extends StatelessWidget {
   Widget build(BuildContext context) {
     final quizProvider = Provider.of<QuizProvider>(context);
     final currentQuestion = quizProvider.currentQuestion;
-    final syllabusArea = currentQuestion.id.substring(0, 1);
+    final syllabusArea = currentQuestion.syllabusSubArea.substring(0, 1);
 
     return Scaffold(
       floatingActionButton: Column(
@@ -99,6 +99,17 @@ class QuizView extends StatelessWidget {
               );
             }),
             const SizedBox(height: 24),
+            ElevatedButton(
+              onPressed: quizProvider.selectedAnswerIndex == null
+                  ? null
+                  : (quizProvider.answerChecked
+                        ? () => quizProvider.nextQuestion(context)
+                        : quizProvider.checkAnswer),
+              child: Text(
+                quizProvider.answerChecked ? 'Next Question' : 'Check Answer',
+              ),
+            ),
+            const SizedBox(height: 24),
             AnimatedSize(
               duration: const Duration(milliseconds: 300),
               curve: Curves.easeInOut,
@@ -130,17 +141,6 @@ class QuizView extends StatelessWidget {
                       ),
                     )
                   : const SizedBox.shrink(),
-            ),
-            const SizedBox(height: 24),
-            ElevatedButton(
-              onPressed: quizProvider.selectedAnswerIndex == null
-                  ? null
-                  : (quizProvider.answerChecked
-                        ? () => quizProvider.nextQuestion(context)
-                        : quizProvider.checkAnswer),
-              child: Text(
-                quizProvider.answerChecked ? 'Next Question' : 'Check Answer',
-              ),
             ),
           ],
         ),
