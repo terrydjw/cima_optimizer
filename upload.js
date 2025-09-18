@@ -1,6 +1,5 @@
 const admin = require('firebase-admin');
 const fs = require('fs');
-// I'm adding the yargs package to easily handle command-line arguments.
 const yargs = require('yargs/yargs');
 const { hideBin } = require('yargs/helpers');
 
@@ -23,13 +22,11 @@ const uploadJsonToFirestore = async (moduleId, collectionName, filePath) => {
         const fileContent = fs.readFileSync(filePath, 'utf8');
         const data = JSON.parse(fileContent);
 
-        // This is the key change: we're now targeting a sub-collection within a module document.
         const collectionRef = db.collection('modules').doc(moduleId).collection(collectionName);
 
         console.log(`Starting upload to "modules/${moduleId}/${collectionName}"...`);
         for (const item of data) {
             if (item.id) {
-                // Using .set() with the item's ID as the document ID.
                 await collectionRef.doc(item.id).set(item);
             }
         }
@@ -41,13 +38,19 @@ const uploadJsonToFirestore = async (moduleId, collectionName, filePath) => {
 
 const main = async () => {
     // --- Argument Parsing ---
-    // Here, I'm defining the command-line arguments we expect.
     const argv = yargs(hideBin(process.argv))
         .option('module', {
             alias: 'm',
-            description: 'The ID of the module to upload content for (e.g., BA4, P1)',
+            description: 'The ID of the module (e.g., BA1, P1)',
             type: 'string',
-            demandOption: true // This makes the argument required.
+            demandOption: true
+        })
+        // Add the new required title option
+        .option('title', {
+            alias: 't',
+            description: 'The display title of the module',
+            type: 'string',
+            demandOption: true
         })
         .option('lessons', {
             alias: 'l',
@@ -67,7 +70,19 @@ const main = async () => {
 
     console.log('--- Starting Data Upload ---');
 
-    // I'll call our upload function twice, using the arguments provided.
+    // --- SOLUTION IMPLEMENTATION ---
+    // This new block creates or updates the parent document with a title.
+    // This makes it "real" and discoverable by your app's query.
+    try {
+        const moduleRef = db.collection('modules').doc(argv.module);
+        await moduleRef.set({ title: argv.title }, { merge: true });
+        console.log(`✅ Materialized parent document for module "${argv.module}" with title.`);
+    } catch (error) {
+        console.error(`❌ Error setting module title:`, error);
+        return;
+    }
+    // --- END OF SOLUTION ---
+
     await uploadJsonToFirestore(argv.module, 'lessons', argv.lessons);
     await uploadJsonToFirestore(argv.module, 'questions', argv.questions);
 

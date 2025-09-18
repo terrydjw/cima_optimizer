@@ -39,6 +39,34 @@ List<SyllabusAreaInfo> getSyllabusAreasForModule(String moduleId) {
           icon: Icons.gavel_outlined,
         ),
       ];
+    case 'BA1':
+      return [
+        SyllabusAreaInfo(
+          id: 'A',
+          title: 'Syllabus Area A',
+          subtitle: 'Microeconomics',
+          icon: Icons.show_chart_outlined,
+        ),
+        SyllabusAreaInfo(
+          id: 'B',
+          title: 'Syllabus Area B',
+          subtitle: 'Macroeconomics',
+          icon: Icons.public_outlined,
+        ),
+        SyllabusAreaInfo(
+          id: 'C',
+          title: 'Syllabus Area C',
+          subtitle: 'Financial Context of Business',
+          icon: Icons.monetization_on_outlined,
+        ),
+        SyllabusAreaInfo(
+          id: 'D',
+          title: 'Syllabus Area D',
+          subtitle: 'Data and Forecasting',
+          icon: Icons.bar_chart_outlined,
+        ),
+      ];
+
     case 'P1':
       return [
         SyllabusAreaInfo(

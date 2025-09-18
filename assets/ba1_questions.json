@@ -1,0 +1,1952 @@
+[
+    {
+        "id": "BA1_Q1",
+        "moduleId": "BA1",
+        "syllabusSubArea": "A1",
+        "questionText": "Which of the following is the primary objective for a not-for-profit organisation?",
+        "options": [
+            "Controlling costs",
+            "Efficient utilisation of resources",
+            "To maximise the benefit to the beneficiaries",
+            "Achieving maximum output per unit of input"
+        ],
+        "correctAnswerIndex": 2
+    },
+    {
+        "id": "BA1_Q2",
+        "moduleId": "BA1",
+        "syllabusSubArea": "A1",
+        "questionText": "Which of the following would NOT be a stakeholder in a mutually owned building society?",
+        "options": [
+            "Shareholders",
+            "Customers",
+            "Employees",
+            "Managers"
+        ],
+        "correctAnswerIndex": 0
+    },
+    {
+        "id": "BA1_Q3",
+        "moduleId": "BA1",
+        "syllabusSubArea": "A1",
+        "questionText": "Which of the following is NOT a primary objective of corporate governance?",
+        "options": [
+            "To control directors’ activities",
+            "To improve the way companies are run",
+            "To improve employee’s working conditions",
+            "To protect shareholder interests"
+        ],
+        "correctAnswerIndex": 2
+    },
+    {
+        "id": "BA1_Q4",
+        "moduleId": "BA1",
+        "syllabusSubArea": "A1",
+        "questionText": "A business has a profit before interest and tax of $1,100,000. It deducts interest of $150,000 and tax of $285,000. It also has preference share dividends of $200,000. It has $1m of ordinary shares in issue, each with a nominal value of $0.5. What is the earnings per share (EPS)?",
+        "options": [
+            "$0.15",
+            "$0.23",
+            "$0.33",
+            "$0.47"
+        ],
+        "correctAnswerIndex": 1
+    },
+    {
+        "id": "BA1_Q5",
+        "moduleId": "BA1",
+        "syllabusSubArea": "A3",
+        "questionText": "The term ‘mixed economy’ implies all of the following conditions EXCEPT which one?",
+        "options": [
+            "The allocation of resources is partly through the price system.",
+            "Some producers have an incentive to advertise their products.",
+            "There is some government planning of the use of resources.",
+            "All industries have a mix of small and large companies."
+        ],
+        "correctAnswerIndex": 3
+    },
+    {
+        "id": "BA1_Q6",
+        "moduleId": "BA1",
+        "syllabusSubArea": "A2",
+        "questionText": "Theatre attendances fell last year even though prices of admission also fell. Which one of the following on its own could explain this?",
+        "options": [
+            "There was an increase in the supply of theatre seats but no change affecting demand conditions.",
+            "There was an increased demand from consumers for visits to the theatre as the quality of TV deteriorated.",
+            "There was a reduction in prices of cinema seats as many new multiplex cinemas opened up.",
+            "There was an increase in the cost of putting on plays."
+        ],
+        "correctAnswerIndex": 2
+    },
+    {
+        "id": "BA1_Q7",
+        "moduleId": "BA1",
+        "syllabusSubArea": "A2",
+        "questionText": "The price of a product falls from £100 to £99 and the quantity demanded rises from 1,000 to 1,100. What is the value of price elasticity of demand (PED)?",
+        "options": [
+            "-10",
+            "-0.1",
+            "-1",
+            "+10"
+        ],
+        "correctAnswerIndex": 0
+    },
+    {
+        "id": "BA1_Q8",
+        "moduleId": "BA1",
+        "syllabusSubArea": "A2",
+        "questionText": "The price of coffee beans rose by 5% last year and the quantity purchased also rose by 5%. Which of the following statements best explains this?",
+        "options": [
+            "There was an increase in supply as a result of new production techniques.",
+            "Consumer incomes increased substantially and coffee is a normal good.",
+            "The price of tea fell substantially and tea is a substitute for coffee.",
+            "There was a major frost in Brazil that reduced its coffee production."
+        ],
+        "correctAnswerIndex": 1
+    },
+    {
+        "id": "BA1_Q9",
+        "moduleId": "BA1",
+        "syllabusSubArea": "A2",
+        "questionText": "Which one of the following will shift the supply curve for Good B to the right?",
+        "options": [
+            "An increase in the subsidy paid to produce Good B.",
+            "A reduction in labour productivity while producing Good B.",
+            "An increase in the price of raw materials used to produce Good B.",
+            "An increase in wages paid to workers who produce Good B."
+        ],
+        "correctAnswerIndex": 0
+    },
+    {
+        "id": "BA1_Q10",
+        "moduleId": "BA1",
+        "syllabusSubArea": "A3",
+        "questionText": "A minimum price is set for Good X at £100, which is below the free market price. A subsequent decrease in the supply of Good X, keeping the minimum price fixed at £100, will result in:",
+        "options": [
+            "A rise in price and a surplus of Good X.",
+            "A rise in price and a shortage of Good X.",
+            "A rise in price and a balance between supply and demand for Good X.",
+            "No change in price and a shortage of Good X."
+        ],
+        "correctAnswerIndex": 2
+    },
+    {
+        "id": "BA1_Q11",
+        "moduleId": "BA1",
+        "syllabusSubArea": "C1",
+        "questionText": "Which of the following financial institutions are primarily associated with the money market?",
+        "options": [
+            "Banks and discount houses",
+            "Banks and investment trusts",
+            "Discount houses and unit trusts",
+            "Investment trusts and unit trusts"
+        ],
+        "correctAnswerIndex": 0
+    },
+    {
+        "id": "BA1_Q12",
+        "moduleId": "BA1",
+        "syllabusSubArea": "C1",
+        "questionText": "The process of linking net savers with net borrowers in an economy is known as:",
+        "options": [
+            "the savings function",
+            "financial intermediation",
+            "financial regulation",
+            "a store of value"
+        ],
+        "correctAnswerIndex": 1
+    },
+    {
+        "id": "BA1_Q13",
+        "moduleId": "BA1",
+        "syllabusSubArea": "C1",
+        "questionText": "Which of the following is NOT an example of short-term finance for a business?",
+        "options": [
+            "Bank overdraft",
+            "Trade credit",
+            "Venture capital",
+            "Factoring"
+        ],
+        "correctAnswerIndex": 2
+    },
+    {
+        "id": "BA1_Q14",
+        "moduleId": "BA1",
+        "syllabusSubArea": "C1",
+        "questionText": "A $100 stock with a current market price of $90 pays a dividend of $6. What is its dividend yield?",
+        "options": [
+            "6.00%",
+            "6.67%",
+            "7.50%",
+            "15.00%"
+        ],
+        "correctAnswerIndex": 1
+    },
+    {
+        "id": "BA1_Q15",
+        "moduleId": "BA1",
+        "syllabusSubArea": "C1",
+        "questionText": "If a commercial bank has a required reserve asset ratio of 40%, how much money could it create from an initial deposit of £1,000?",
+        "options": [
+            "£2,000",
+            "£2,500",
+            "£4,000",
+            "£10,000"
+        ],
+        "correctAnswerIndex": 1
+    },
+    {
+        "id": "BA1_Q16",
+        "moduleId": "BA1",
+        "syllabusSubArea": "B1",
+        "questionText": "Governments wish to control inflation primarily because it:",
+        "options": [
+            "redistributes from rich to poor people",
+            "damages international competitiveness",
+            "reduces government tax revenue",
+            "reduces unemployment"
+        ],
+        "correctAnswerIndex": 1
+    },
+    {
+        "id": "BA1_Q17",
+        "moduleId": "BA1",
+        "syllabusSubArea": "B1",
+        "questionText": "The expenditure method of measuring national income (GDP) measures economic activity by summing the value of expenditure on:",
+        "options": [
+            "consumer goods only",
+            "final goods and services",
+            "all goods and services including intermediate ones",
+            "investment goods only"
+        ],
+        "correctAnswerIndex": 1
+    },
+    {
+        "id": "BA1_Q18",
+        "moduleId": "BA1",
+        "syllabusSubArea": "B2",
+        "questionText": "In a closed economy, consumption expenditure increases from $18,000m to $19,500m when national income increases from $20,000m to $26,000m. What is the marginal propensity to consume (MPC)?",
+        "options": [
+            "0.25",
+            "0.75",
+            "0.92",
+            "0.08"
+        ],
+        "correctAnswerIndex": 0
+    },
+    {
+        "id": "BA1_Q19",
+        "moduleId": "BA1",
+        "syllabusSubArea": "B2",
+        "questionText": "The accelerator principle states that:",
+        "options": [
+            "Investment is increased when interest rates fall.",
+            "An increase in consumer demand leads to a more than proportionate increase in the level of investment.",
+            "An increase in investment will lead to a more than proportionate increase in output.",
+            "The rate of change of investment affects the rate of change of output."
+        ],
+        "correctAnswerIndex": 1
+    },
+    {
+        "id": "BA1_Q20",
+        "moduleId": "BA1",
+        "syllabusSubArea": "B2",
+        "questionText": "Which of the following is NOT an example of a supply-side economic policy?",
+        "options": [
+            "Privatisation of state-owned industries",
+            "Lowering state welfare benefits",
+            "Reducing direct taxes on income and corporations",
+            "Increased government expenditure on infrastructure"
+        ],
+        "correctAnswerIndex": 3
+    },
+    {
+        "id": "BA1_Q21",
+        "moduleId": "BA1",
+        "syllabusSubArea": "B1",
+        "questionText": "The aggregate demand curve is negatively sloped primarily because:",
+        "options": [
+            "Firms will only produce more at higher prices.",
+            "Input prices rise as output increases.",
+            "Tax revenue rises at higher prices.",
+            "Consumer spending falls at higher price levels owing to the fall in the real value of their savings."
+        ],
+        "correctAnswerIndex": 3
+    },
+    {
+        "id": "BA1_Q22",
+        "moduleId": "BA1",
+        "syllabusSubArea": "B1",
+        "questionText": "A global recession is likely to lead to what in a single country's economy?",
+        "options": [
+            "A leftward shift in its macroeconomic demand schedule.",
+            "A rightward shift in its short-run aggregate supply curve.",
+            "A rightward shift in its macroeconomic demand schedule.",
+            "A leftward shift in its short-run aggregate supply curve."
+        ],
+        "correctAnswerIndex": 0
+    },
+    {
+        "id": "BA1_Q23",
+        "moduleId": "BA1",
+        "syllabusSubArea": "B2",
+        "questionText": "During the 20th century, workers in a developed country lost their jobs in the coal and steel industries as production shifted to countries with lower costs. This is an example of which type of unemployment?",
+        "options": [
+            "Cyclical",
+            "Structural",
+            "Seasonal",
+            "Frictional"
+        ],
+        "correctAnswerIndex": 1
+    },
+    {
+        "id": "BA1_Q24",
+        "moduleId": "BA1",
+        "syllabusSubArea": "B1",
+        "questionText": "Cyclical unemployment refers to unemployment which occurs:",
+        "options": [
+            "because of the seasonal nature of some industries.",
+            "from the long-term decline of an industry.",
+            "at particular times of the year.",
+            "during recessions."
+        ],
+        "correctAnswerIndex": 3
+    },
+    {
+        "id": "BA1_Q25",
+        "moduleId": "BA1",
+        "syllabusSubArea": "B2",
+        "questionText": "The government is concerned about a high level of voluntary unemployment. Which of the following policies would be most appropriate to deal with this problem?",
+        "options": [
+            "Reduce minimum wages.",
+            "Increase unemployment benefits.",
+            "Reduce the level of taxes on income.",
+            "Reduce the level of taxes on expenditure."
+        ],
+        "correctAnswerIndex": 2
+    },
+    {
+        "id": "BA1_Q26",
+        "moduleId": "BA1",
+        "syllabusSubArea": "B2",
+        "questionText": "If the government feared that the economy is going to enter a recession, the best monetary policy action would be:",
+        "options": [
+            "Raise interest rates, raise the reserve asset ratio.",
+            "Lower interest rates, lower the reserve asset ratio.",
+            "Raise interest rates, lower the reserve asset ratio.",
+            "Lower interest rates, raise the reserve asset ratio."
+        ],
+        "correctAnswerIndex": 1
+    },
+    {
+        "id": "BA1_Q27",
+        "moduleId": "BA1",
+        "syllabusSubArea": "B3",
+        "questionText": "Which of the following statements concerning international trade and specialisation is true?",
+        "options": [
+            "By specialising in production of goods which can be made relatively cheaply and trading, all can become better off.",
+            "Trade involves domestic jobs moving to countries that have cheaper labour, meaning the high-cost country is always worse off.",
+            "Specialisation and trade only works under the protection of tariffs.",
+            "Nations can only benefit from international trade if some other country loses."
+        ],
+        "correctAnswerIndex": 0
+    },
+    {
+        "id": "BA1_Q28",
+        "moduleId": "BA1",
+        "syllabusSubArea": "B3",
+        "questionText": "Which of the following must always balance?",
+        "options": [
+            "Visible trade balance",
+            "Invisible trade balance",
+            "The capital account",
+            "The overall balance of payments"
+        ],
+        "correctAnswerIndex": 3
+    },
+    {
+        "id": "BA1_Q29",
+        "moduleId": "BA1",
+        "syllabusSubArea": "B3",
+        "questionText": "Which statement about the balance of payments is NOT correct?",
+        "options": [
+            "Payments that lead to demands for foreign currency are debits, while payments that lead to supplies of foreign exchange are credits.",
+            "The current account balance plus the capital and financial account balances add up to zero (including balancing items).",
+            "A current account deficit is always a sign of a weak economy, while a current account surplus is always a sign of a strong economy.",
+            "A current account surplus implies that domestic residents are increasing their net foreign assets."
+        ],
+        "correctAnswerIndex": 2
+    },
+    {
+        "id": "BA1_Q30",
+        "moduleId": "BA1",
+        "syllabusSubArea": "B3",
+        "questionText": "A sudden discrete fall in a fixed exchange rate which the government commits itself to defend is called a:",
+        "options": [
+            "Revaluation",
+            "Appreciation",
+            "Devaluation",
+            "Depreciation"
+        ],
+        "correctAnswerIndex": 2
+    },
+    {
+        "id": "BA1_Q31",
+        "moduleId": "BA1",
+        "syllabusSubArea": "B3",
+        "questionText": "The main objective of the World Trade Organisation (WTO) is:",
+        "options": [
+            "to raise living standards in developing countries.",
+            "to minimise barriers to international trade.",
+            "to harmonise tariffs across all nations.",
+            "to eliminate customs unions."
+        ],
+        "correctAnswerIndex": 1
+    },
+    {
+        "id": "BA1_Q32",
+        "moduleId": "BA1",
+        "syllabusSubArea": "B3",
+        "questionText": "Increasing pressure on the logistics industry to minimise its carbon footprint should be classified under which heading of a PESTEL analysis?",
+        "options": [
+            "Political",
+            "Economic",
+            "Legal",
+            "Environmental"
+        ],
+        "correctAnswerIndex": 3
+    },
+    {
+        "id": "BA1_Q33",
+        "moduleId": "BA1",
+        "syllabusSubArea": "B3",
+        "questionText": "An American imported car cost £100,000 last year in the U.K. when the sterling/dollar exchange rate was £1 = $2. The exchange rate is now £1 = $1.50 and the dollar price has risen by 10%. What is the new sterling price?",
+        "options": [
+            "£150,000",
+            "£146,667",
+            "£120,000",
+            "£100,000"
+        ],
+        "correctAnswerIndex": 1
+    },
+    {
+        "id": "BA1_Q34",
+        "moduleId": "BA1",
+        "syllabusSubArea": "B3",
+        "questionText": "The main advantage of a system of flexible or floating exchange rates is that it:",
+        "options": [
+            "provides certainty for those engaged in international trade.",
+            "provides discipline for government economic management.",
+            "reduces international transaction costs.",
+            "provides automatic correction for balance of payments disequilibria."
+        ],
+        "correctAnswerIndex": 3
+    },
+    {
+        "id": "BA1_Q35",
+        "moduleId": "BA1",
+        "syllabusSubArea": "C1",
+        "questionText": "Assuming a floating exchange rate system, if the level of a country's short-term interest rates rises relative to other countries, the exchange rate of its currency will:",
+        "options": [
+            "Rise and stay at its new higher level.",
+            "Rise in the short term and then fall back close to its previous level.",
+            "Fall and stay at its new lower level.",
+            "Fall in the short term and then rise back close to its previous level."
+        ],
+        "correctAnswerIndex": 1
+    },
+    {
+        "id": "BA1_Q36",
+        "moduleId": "BA1",
+        "syllabusSubArea": "B3",
+        "questionText": "A French manufacturer who imports components from the US is struggling to compete against other French competitors due to a weak Euro making imported components more expensive. What type of exchange risk is this?",
+        "options": [
+            "Economic risk",
+            "Transaction risk",
+            "Translation risk",
+            "Systemic risk"
+        ],
+        "correctAnswerIndex": 0
+    },
+    {
+        "id": "BA1_Q37",
+        "moduleId": "BA1",
+        "syllabusSubArea": "C1",
+        "questionText": "Which statement concerning methods of hedging foreign exchange transaction risk is incorrect?",
+        "options": [
+            "Forward exchange contracts guarantee the exchange rate for a future transaction.",
+            "Futures contracts can be dealt with in whole or part to ensure the exact transaction total is covered.",
+            "Futures contracts are standardised and settled in three-monthly cycles.",
+            "Currency options can be abandoned if the exchange rate moves favourably."
+        ],
+        "correctAnswerIndex": 1
+    },
+    {
+        "id": "BA1_Q38",
+        "moduleId": "BA1",
+        "syllabusSubArea": "C2",
+        "questionText": "Discounting a future stream of income means:",
+        "options": [
+            "taking into account possible future falls in the stream of income.",
+            "ignoring yearly fluctuations in income and taking the average.",
+            "reducing the value of future income streams because future income is worth less than current income.",
+            "increasing the value of future income streams to take account of inflation."
+        ],
+        "correctAnswerIndex": 2
+    },
+    {
+        "id": "BA1_Q39",
+        "moduleId": "BA1",
+        "syllabusSubArea": "C2",
+        "questionText": "Peter invested $1000 in a bank. The interest rate is floating, with rates of 3%, 3.5% and 3.2% in the next three years respectively. He reinvests the interest. How much will Peter have by the end of year three?",
+        "options": [
+            "$1,097.00",
+            "$1,100.16",
+            "$1,100.36",
+            "$1,100.56"
+        ],
+        "correctAnswerIndex": 1
+    },
+    {
+        "id": "BA1_Q40",
+        "moduleId": "BA1",
+        "syllabusSubArea": "C2",
+        "questionText": "A company is considering purchasing a new machine for $25,000. This would increase annual cash flow by $6,500 for the next six years. If the cost of capital is 9%, what is the net present value (NPV)? (Annuity factor for 6 years at 9% is 4.486)",
+        "options": [
+            "$4,159",
+            "$10,780",
+            "$29,159",
+            "$14,000"
+        ],
+        "correctAnswerIndex": 0
+    },
+    {
+        "id": "BA1_Q41",
+        "moduleId": "BA1",
+        "syllabusSubArea": "C2",
+        "questionText": "How much needs to be invested now at an interest rate of 5% to yield an annual income of $8,000 in perpetuity, starting in one year's time?",
+        "options": [
+            "$40,000",
+            "$140,000",
+            "$160,000",
+            "$200,000"
+        ],
+        "correctAnswerIndex": 2
+    },
+    {
+        "id": "BA1_Q42",
+        "moduleId": "BA1",
+        "syllabusSubArea": "C2",
+        "questionText": "Two NPVs have been calculated for a project: at a 5% discount rate, NPV is $45,000; at a 10% discount rate, NPV is -$25,000. What is the approximate Internal Rate of Return (IRR) for the project?",
+        "options": [
+            "6.8%",
+            "7.5%",
+            "8.2%",
+            "9.1%"
+        ],
+        "correctAnswerIndex": 2
+    },
+    {
+        "id": "BA1_Q43",
+        "moduleId": "BA1",
+        "syllabusSubArea": "C2",
+        "questionText": "A landlord receives a rent of $1,000 per year for ten successive years. The first payment is due now. If interest rates are 8%, what is the present value of this income? (Annuity factor for 9 years at 8% is 6.247)",
+        "options": [
+            "$6,710",
+            "$6,247",
+            "$7,247",
+            "$8,138"
+        ],
+        "correctAnswerIndex": 2
+    },
+    {
+        "id": "BA1_Q44",
+        "moduleId": "BA1",
+        "syllabusSubArea": "D1",
+        "questionText": "The following statements refer to qualities of good information: 1. It should be communicated to the right person. 2. It should be sufficiently accurate for its purpose. 3. It should be understandable by the recipient. Which are correct?",
+        "options": [
+            "1 and 2 only",
+            "1 and 3 only",
+            "2 and 3 only",
+            "1, 2 and 3"
+        ],
+        "correctAnswerIndex": 3
+    },
+    {
+        "id": "BA1_Q45",
+        "moduleId": "BA1",
+        "syllabusSubArea": "D1",
+        "questionText": "A table has five rows showing exam results for different subjects and three columns showing different schools in a town. Which charts could be used to show the data?",
+        "options": [
+            "A single pie chart",
+            "A multiple bar chart",
+            "A simple bar chart",
+            "A component bar chart"
+        ],
+        "correctAnswerIndex": 1
+    },
+    {
+        "id": "BA1_Q46",
+        "moduleId": "BA1",
+        "syllabusSubArea": "D1",
+        "questionText": "A graphical presentation of classified continuous data in which the number of items in each class is represented by the AREA of the bar is called:",
+        "options": [
+            "an ogive",
+            "a histogram",
+            "a simple bar chart",
+            "a component bar chart"
+        ],
+        "correctAnswerIndex": 1
+    },
+    {
+        "id": "BA1_Q47",
+        "moduleId": "BA1",
+        "syllabusSubArea": "D1",
+        "questionText": "A cumulative frequency distribution for salaries is: <=$8k: 5; <=$10k: 9; <=$12k: 14; <=$15k: 18; <=$20k: 26; <=$25k: 29. How many people were paid more than $10,000 but $20,000 or less?",
+        "options": [
+            "17",
+            "26",
+            "4",
+            "5"
+        ],
+        "correctAnswerIndex": 0
+    },
+    {
+        "id": "BA1_Q48",
+        "moduleId": "BA1",
+        "syllabusSubArea": "D1",
+        "questionText": "On a scatter diagram, data points are aligned closely to a straight line sloping downwards from left to right. This represents:",
+        "options": [
+            "perfect positive correlation",
+            "perfect negative correlation",
+            "strong positive correlation",
+            "strong negative correlation"
+        ],
+        "correctAnswerIndex": 3
+    },
+    {
+        "id": "BA1_Q49",
+        "moduleId": "BA1",
+        "syllabusSubArea": "D3",
+        "questionText": "Consider the following data for a country: In 20X8, National Income (NI) was £500m and the Price Index (PI) was 100. In 20X9, NI was £600m and PI was 120. In real terms, the economy between 20X8 and 20X9:",
+        "options": [
+            "Rose by £100 million",
+            "Rose by £120 million",
+            "Fell by £20 million",
+            "Remained the same"
+        ],
+        "correctAnswerIndex": 3
+    },
+    {
+        "id": "BA1_Q50",
+        "moduleId": "BA1",
+        "syllabusSubArea": "D3",
+        "questionText": "In Jan 20X5, average pay was $2,000 per month. Pay is index-linked. Price indices are: Jan 20X5=125, Jan 20X6=131, Jan 20X7=136, Jan 20X8=140, Jan 20X9=144. What was the average monthly pay during 20X9 (to the nearest $10)?",
+        "options": [
+            "$2,060",
+            "$2,300",
+            "$2,500",
+            "$2,880"
+        ],
+        "correctAnswerIndex": 1
+    },
+    {
+        "id": "BA1_Q51",
+        "moduleId": "BA1",
+        "syllabusSubArea": "D3",
+        "questionText": "Prices for product Gamma were: 20X1=$3.57, 20X2=$3.89, 20X3=$4.10, 20X4=$4.35, 20X5=$5.00. If the prices are indexed with 20X3 as the base year, what are the indices for 20X1 and 20X5 (to the nearest whole number)?",
+        "options": [
+            "20X1: 100, 20X5: 140",
+            "20X1: 92, 20X5: 115",
+            "20X1: 87, 20X5: 122",
+            "20X1: 71, 20X5: 129"
+        ],
+        "correctAnswerIndex": 2
+    },
+    {
+        "id": "BA1_Q52",
+        "moduleId": "BA1",
+        "syllabusSubArea": "D3",
+        "questionText": "Calculate a Laspeyres (base-weighted) price index (to the nearest whole number) from the following data: Widgets P0=$10.50, Q0=100, P1=$11.55; Wodgets P0=$25.00, Q0=25, P1=$26.25; Thingies P0=$53.00, Q0=1,100, P1=$54.06.",
+        "options": [
+            "102",
+            "103",
+            "105",
+            "106"
+        ],
+        "correctAnswerIndex": 0
+    },
+    {
+        "id": "BA1_Q53",
+        "moduleId": "BA1",
+        "syllabusSubArea": "D3",
+        "questionText": "Calculate a Laspeyres (base-weighted) quantity index (to the nearest whole number) from the following data: Widgets Q0=100, P0=$10.50, Q1=109; Wodgets Q0=25, P0=$25.00, Q1=30; Thingies Q0=1,100, P0=$53.00, Q1=1,155.",
+        "options": [
+            "105",
+            "109",
+            "110",
+            "111"
+        ],
+        "correctAnswerIndex": 0
+    },
+    {
+        "id": "BA1_Q54",
+        "moduleId": "BA1",
+        "syllabusSubArea": "D2",
+        "questionText": "If Σx = 500, Σy = 200, Σx² = 35,000, Σy² = 9,000, Σxy = 12,000 and n = 10, calculate Pearson’s correlation coefficient (r) to three d.p.",
+        "options": [
+            "+0.183",
+            "-0.183",
+            "+0.283",
+            "-0.283"
+        ],
+        "correctAnswerIndex": 2
+    },
+    {
+        "id": "BA1_Q55",
+        "moduleId": "BA1",
+        "syllabusSubArea": "D2",
+        "questionText": "The coefficient of determination (r²) explains the:",
+        "options": [
+            "Percentage variation in the dependent variable which is explained by the independent variable.",
+            "Direction of the relationship between the two variables.",
+            "The gradient and intercept of the regression line.",
+            "Total number of observations in the dataset."
+        ],
+        "correctAnswerIndex": 0
+    },
+    {
+        "id": "BA1_Q56",
+        "moduleId": "BA1",
+        "syllabusSubArea": "D2",
+        "questionText": "For a data set of 100 pairs of ranks, the sum of the squared differences (Σd²) is 4,081. What is Spearman’s rank correlation coefficient (to 2 d.p.)?",
+        "options": [
+            "+0.98",
+            "+0.75",
+            "-0.25",
+            "-0.98"
+        ],
+        "correctAnswerIndex": 0
+    },
+    {
+        "id": "BA1_Q57",
+        "moduleId": "BA1",
+        "syllabusSubArea": "D2",
+        "questionText": "A regression equation is y = 650,000 + 15x, based on x-values from $5,000 to $10,000 and a correlation coefficient of 0.7. Which statement is correct?",
+        "options": [
+            "When x = $6,000, the estimate of y is $740,000.",
+            "When x = $8,500, the estimate of y is likely to be reliable.",
+            "When x = 0, the estimate of y is likely to be reliable.",
+            "49% of changes in x can be explained by changes in y."
+        ],
+        "correctAnswerIndex": 0
+    },
+    {
+        "id": "BA1_Q58",
+        "moduleId": "BA1",
+        "syllabusSubArea": "D2",
+        "questionText": "In a regression analysis (y = a + bx) of eleven data pairs, the following is calculated: ∑x = 440, ∑y = 330, ∑x² = 17,986, ∑xy = 13,467. What is the value of ‘b’ (to two d.p.)?",
+        "options": [
+            "0.50",
+            "0.69",
+            "1.45",
+            "2.11"
+        ],
+        "correctAnswerIndex": 1
+    },
+    {
+        "id": "BA1_Q59",
+        "moduleId": "BA1",
+        "syllabusSubArea": "D3",
+        "questionText": "In a multiplicative time series model, the seasonal variations for the first three quarters are 1.2, 1.8, and 0.6. What must the seasonal variation for the fourth quarter be?",
+        "options": [
+            "0.2",
+            "0.4",
+            "0.6",
+            "0.8"
+        ],
+        "correctAnswerIndex": 1
+    },
+    {
+        "id": "BA1_Q60",
+        "moduleId": "BA1",
+        "syllabusSubArea": "D3",
+        "questionText": "A multiplicative model has seasonal variations of Q1=1.2 and Q2=1.8. Actual sales were Q1=$110,000 and Q2=$125,000. What happened to the underlying trend between Q1 and Q2?",
+        "options": [
+            "It decreased.",
+            "It increased.",
+            "It remained constant.",
+            "Cannot be determined."
+        ],
+        "correctAnswerIndex": 0
+    },
+    {
+        "id": "BA1_Q61",
+        "moduleId": "BA1",
+        "syllabusSubArea": "D3",
+        "questionText": "A company's deseasonalised sales trend is y = 5x + 60, where x is the period. Q4 has a +10% multiplicative seasonal variation. What are the forecast sales for period 16 (which is a Q4)?",
+        "options": [
+            "88 units",
+            "126 units",
+            "140 units",
+            "154 units"
+        ],
+        "correctAnswerIndex": 3
+    },
+    {
+        "id": "BA1_Q62",
+        "moduleId": "BA1",
+        "syllabusSubArea": "D3",
+        "questionText": "A company's sales trend is y = 9,800 + 45x (x=period). The additive seasonal variations are Q1=+1,000, Q2=+2,500, Q3=–1,300. What are the forecast sales for period 73 (which is a Q1)?",
+        "options": [
+            "14,085 units",
+            "13,085 units",
+            "12,085 units",
+            "15,285 units"
+        ],
+        "correctAnswerIndex": 0
+    },
+    {
+        "id": "BA1_Q63",
+        "moduleId": "BA1",
+        "syllabusSubArea": "D3",
+        "questionText": "Quarterly additive seasonal variations are Q1=+12, Q2=+6, Q3=–10, Q4=–8. Actual figures were Q1=165, Q2=175, Q3=175, Q4=193. What is the approximate quarterly underlying trend?",
+        "options": [
+            "A decrease of 12 per quarter",
+            "An increase of 12 per quarter",
+            "A decrease of 16 per quarter",
+            "An increase of 16 per quarter"
+        ],
+        "correctAnswerIndex": 3
+    },
+    {
+        "id": "BA1_Q64",
+        "moduleId": "BA1",
+        "syllabusSubArea": "A1",
+        "questionText": "What is the 'principal-agent problem' in the context of a large corporation?",
+        "options": [
+            "A conflict of interest between a company's customers and its suppliers.",
+            "The difficulty in recruiting skilled managers (agents) for the company.",
+            "A conflict of interest between a company's management (agents) and its owners (principals).",
+            "The legal challenges a principal company faces when acquiring an agent company."
+        ],
+        "correctAnswerIndex": 2
+    },
+    {
+        "id": "BA1_Q65",
+        "moduleId": "BA1",
+        "syllabusSubArea": "A2",
+        "questionText": "If the price elasticity of demand for a product is -0.5, the demand is said to be:",
+        "options": [
+            "Perfectly elastic",
+            "Elastic",
+            "Unit elastic",
+            "Inelastic"
+        ],
+        "correctAnswerIndex": 3
+    },
+    {
+        "id": "BA1_Q66",
+        "moduleId": "BA1",
+        "syllabusSubArea": "A2",
+        "questionText": "A firm wants to increase its total revenue. The price elasticity of demand for its product is -2.4. The firm should:",
+        "options": [
+            "Increase its price.",
+            "Decrease its price.",
+            "Keep its price constant.",
+            "Increase supply."
+        ],
+        "correctAnswerIndex": 1
+    },
+    {
+        "id": "BA1_Q67",
+        "moduleId": "BA1",
+        "syllabusSubArea": "A3",
+        "questionText": "Street lighting is an example of a public good because it is:",
+        "options": [
+            "Rivalrous and excludable",
+            "Non-rivalrous and non-excludable",
+            "Rivalrous and non-excludable",
+            "Non-rivalrous and excludable"
+        ],
+        "correctAnswerIndex": 1
+    },
+    {
+        "id": "BA1_Q68",
+        "moduleId": "BA1",
+        "syllabusSubArea": "A3",
+        "questionText": "A factory that pollutes a river is creating a:",
+        "options": [
+            "Positive externality of production",
+            "Negative externality of production",
+            "Positive externality of consumption",
+            "Negative externality of consumption"
+        ],
+        "correctAnswerIndex": 1
+    },
+    {
+        "id": "BA1_Q69",
+        "moduleId": "BA1",
+        "syllabusSubArea": "B1",
+        "questionText": "In the circular flow of income model, which of the following is considered a leakage?",
+        "options": [
+            "Investment",
+            "Government spending",
+            "Exports",
+            "Savings"
+        ],
+        "correctAnswerIndex": 3
+    },
+    {
+        "id": "BA1_Q70",
+        "moduleId": "BA1",
+        "syllabusSubArea": "B1",
+        "questionText": "Demand-pull inflation is caused by:",
+        "options": [
+            "A decrease in aggregate supply",
+            "An increase in the costs of production",
+            "An increase in aggregate demand",
+            "A fall in the exchange rate"
+        ],
+        "correctAnswerIndex": 2
+    },
+    {
+        "id": "BA1_Q71",
+        "moduleId": "BA1",
+        "syllabusSubArea": "B2",
+        "questionText": "Which of the following would be an example of expansionary fiscal policy?",
+        "options": [
+            "Increasing interest rates",
+            "Decreasing government spending",
+            "Decreasing taxes",
+            "Selling government bonds"
+        ],
+        "correctAnswerIndex": 2
+    },
+    {
+        "id": "BA1_Q72",
+        "moduleId": "BA1",
+        "syllabusSubArea": "B2",
+        "questionText": "If the marginal propensity to save (MPS) is 0.2, what is the value of the multiplier?",
+        "options": [
+            "0.2",
+            "0.8",
+            "1.25",
+            "5"
+        ],
+        "correctAnswerIndex": 3
+    },
+    {
+        "id": "BA1_Q73",
+        "moduleId": "BA1",
+        "syllabusSubArea": "B3",
+        "questionText": "A tariff is a:",
+        "options": [
+            "Limit on the quantity of a good that can be imported.",
+            "Tax on an imported good.",
+            "Subsidy to domestic producers.",
+            "Ban on trade with a particular country."
+        ],
+        "correctAnswerIndex": 1
+    },
+    {
+        "id": "BA1_Q74",
+        "moduleId": "BA1",
+        "syllabusSubArea": "B3",
+        "questionText": "If the UK pound (£) appreciates against the US dollar ($), this means:",
+        "options": [
+            "UK exports to the US will become cheaper.",
+            "UK imports from the US will become more expensive.",
+            "UK exports to the US will become more expensive.",
+            "It takes more pounds to buy a dollar."
+        ],
+        "correctAnswerIndex": 2
+    },
+    {
+        "id": "BA1_Q75",
+        "moduleId": "BA1",
+        "syllabusSubArea": "C1",
+        "questionText": "Which of the following are traded on the capital markets?",
+        "options": [
+            "Commercial bills",
+            "Treasury bills",
+            "Certificates of deposit",
+            "Corporate bonds"
+        ],
+        "correctAnswerIndex": 3
+    },
+    {
+        "id": "BA1_Q76",
+        "moduleId": "BA1",
+        "syllabusSubArea": "C1",
+        "questionText": "The role of a central bank does NOT typically include:",
+        "options": [
+            "Acting as a lender of last resort.",
+            "Implementing monetary policy.",
+            "Providing banking services to the general public.",
+            "Managing the country's foreign currency reserves."
+        ],
+        "correctAnswerIndex": 2
+    },
+    {
+        "id": "BA1_Q77",
+        "moduleId": "BA1",
+        "syllabusSubArea": "C2",
+        "questionText": "What is the present value of $1,100 to be received in one year's time if the discount rate is 10%?",
+        "options": [
+            "$1,100",
+            "$1,210",
+            "$1,000",
+            "$990"
+        ],
+        "correctAnswerIndex": 2
+    },
+    {
+        "id": "BA1_Q78",
+        "moduleId": "BA1",
+        "syllabusSubArea": "C2",
+        "questionText": "The Internal Rate of Return (IRR) is the discount rate at which a project's NPV is:",
+        "options": [
+            "Equal to the cost of capital",
+            "Maximised",
+            "Positive",
+            "Equal to zero"
+        ],
+        "correctAnswerIndex": 3
+    },
+    {
+        "id": "BA1_Q79",
+        "moduleId": "BA1",
+        "syllabusSubArea": "D1",
+        "questionText": "Which of the following is a characteristic of good information?",
+        "options": [
+            "It must be completely free of any errors.",
+            "It should contain as much detail as possible.",
+            "It should be relevant for its purpose.",
+            "It should be provided at a low cost, regardless of accuracy."
+        ],
+        "correctAnswerIndex": 2
+    },
+    {
+        "id": "BA1_Q80",
+        "moduleId": "BA1",
+        "syllabusSubArea": "D1",
+        "questionText": "Which chart is most suitable for showing the relationship between two continuous variables?",
+        "options": [
+            "Bar chart",
+            "Pie chart",
+            "Histogram",
+            "Scatter diagram"
+        ],
+        "correctAnswerIndex": 3
+    },
+    {
+        "id": "BA1_Q81",
+        "moduleId": "BA1",
+        "syllabusSubArea": "D2",
+        "questionText": "If the correlation coefficient (r) between two variables is -0.9, this indicates:",
+        "options": [
+            "A strong positive linear relationship",
+            "A weak positive linear relationship",
+            "A strong negative linear relationship",
+            "Almost no linear relationship"
+        ],
+        "correctAnswerIndex": 2
+    },
+    {
+        "id": "BA1_Q82",
+        "moduleId": "BA1",
+        "syllabusSubArea": "D2",
+        "questionText": "The regression equation for sales (y) based on advertising spend (x) is y = 500 + 3x. What are the forecast sales if advertising spend is $200?",
+        "options": [
+            "$503",
+            "$600",
+            "$1,100",
+            "$1,500"
+        ],
+        "correctAnswerIndex": 2
+    },
+    {
+        "id": "BA1_Q83",
+        "moduleId": "BA1",
+        "syllabusSubArea": "D3",
+        "questionText": "In a time series, the long-term underlying movement of the data is known as the:",
+        "options": [
+            "Seasonal variation",
+            "Cyclical variation",
+            "Trend",
+            "Random variation"
+        ],
+        "correctAnswerIndex": 2
+    },
+    {
+        "id": "BA1_Q84",
+        "moduleId": "BA1",
+        "syllabusSubArea": "D3",
+        "questionText": "A company uses an additive model for forecasting. The trend forecast for sales in Quarter 3 is 5,000 units. The seasonal factor for Quarter 3 is -250 units. What is the final forecast?",
+        "options": [
+            "5,250 units",
+            "4,750 units",
+            "5,000 units",
+            "20 units"
+        ],
+        "correctAnswerIndex": 1
+    },
+    {
+        "id": "BA1_Q85",
+        "moduleId": "BA1",
+        "syllabusSubArea": "A1",
+        "questionText": "Which of these is a defining characteristic of a public limited company (plc)?",
+        "options": [
+            "It is owned by the government.",
+            "It cannot have more than 50 shareholders.",
+            "It can offer its shares for sale to the general public.",
+            "The shareholders have unlimited liability for the company's debts."
+        ],
+        "correctAnswerIndex": 2
+    },
+    {
+        "id": "BA1_Q86",
+        "moduleId": "BA1",
+        "syllabusSubArea": "A2",
+        "questionText": "If two goods are substitutes, an increase in the price of one will lead to:",
+        "options": [
+            "An increase in the demand for the other.",
+            "A decrease in the demand for the other.",
+            "An increase in the supply of the other.",
+            "A decrease in the supply of the other."
+        ],
+        "correctAnswerIndex": 0
+    },
+    {
+        "id": "BA1_Q87",
+        "moduleId": "BA1",
+        "syllabusSubArea": "A2",
+        "questionText": "A movement along the demand curve is caused by a change in:",
+        "options": [
+            "Consumer income",
+            "The price of the good itself",
+            "The price of a substitute good",
+            "Consumer tastes and preferences"
+        ],
+        "correctAnswerIndex": 1
+    },
+    {
+        "id": "BA1_Q88",
+        "moduleId": "BA1",
+        "syllabusSubArea": "A3",
+        "questionText": "A government-imposed maximum price set below the equilibrium price will result in:",
+        "options": [
+            "A surplus of the good",
+            "A shortage of the good",
+            "An increase in supply",
+            "A decrease in demand"
+        ],
+        "correctAnswerIndex": 1
+    },
+    {
+        "id": "BA1_Q89",
+        "moduleId": "BA1",
+        "syllabusSubArea": "B1",
+        "questionText": "The business cycle refers to the:",
+        "options": [
+            "Seasonal changes in business activity.",
+            "Long-run trend of economic growth.",
+            "Fluctuations in economic activity around the long-run trend.",
+            "Daily fluctuations of the stock market."
+        ],
+        "correctAnswerIndex": 2
+    },
+    {
+        "id": "BA1_Q90",
+        "moduleId": "BA1",
+        "syllabusSubArea": "B2",
+        "questionText": "Cost-push inflation can be caused by:",
+        "options": [
+            "An increase in consumer spending.",
+            "An increase in wages and raw material costs.",
+            "A decrease in income taxes.",
+            "An increase in the money supply."
+        ],
+        "correctAnswerIndex": 1
+    },
+    {
+        "id": "BA1_Q91",
+        "moduleId": "BA1",
+        "syllabusSubArea": "B3",
+        "questionText": "Which of the following is recorded in the current account of the Balance of Payments?",
+        "options": [
+            "Foreign Direct Investment",
+            "The sale of a UK company to a foreign buyer",
+            "Exports of cars from the UK",
+            "A UK resident buying shares in a foreign company"
+        ],
+        "correctAnswerIndex": 2
+    },
+    {
+        "id": "BA1_Q92",
+        "moduleId": "BA1",
+        "syllabusSubArea": "C1",
+        "questionText": "If the nominal interest rate is 5% and the inflation rate is 2%, the real interest rate is approximately:",
+        "options": [
+            "7%",
+            "5%",
+            "3%",
+            "2.5%"
+        ],
+        "correctAnswerIndex": 2
+    },
+    {
+        "id": "BA1_Q93",
+        "moduleId": "BA1",
+        "syllabusSubArea": "C2",
+        "questionText": "What is the future value of $500 invested for 3 years at a compound interest rate of 4% per annum?",
+        "options": [
+            "$560.00",
+            "$562.43",
+            "$620.00",
+            "$540.80"
+        ],
+        "correctAnswerIndex": 1
+    },
+    {
+        "id": "BA1_Q94",
+        "moduleId": "BA1",
+        "syllabusSubArea": "D1",
+        "questionText": "A chart showing the proportion of a total that each category represents is called a:",
+        "options": [
+            "Line graph",
+            "Histogram",
+            "Pie chart",
+            "Scatter diagram"
+        ],
+        "correctAnswerIndex": 2
+    },
+    {
+        "id": "BA1_Q95",
+        "moduleId": "BA1",
+        "syllabusSubArea": "D2",
+        "questionText": "Correlation does not imply causation. What does this statement mean?",
+        "options": [
+            "If two variables are correlated, one must have caused the other.",
+            "A strong correlation is proof of a causal link.",
+            "A relationship between two variables does not automatically mean that one causes the other.",
+            "Causation can only be determined by regression analysis."
+        ],
+        "correctAnswerIndex": 2
+    },
+    {
+        "id": "BA1_Q96",
+        "moduleId": "BA1",
+        "syllabusSubArea": "D3",
+        "questionText": "Which forecasting model is most appropriate when seasonal fluctuations are a constant amount, regardless of the trend level?",
+        "options": [
+            "The multiplicative model",
+            "The exponential smoothing model",
+            "The additive model",
+            "The regression model"
+        ],
+        "correctAnswerIndex": 2
+    },
+    {
+        "id": "BA1_Q97",
+        "moduleId": "BA1",
+        "syllabusSubArea": "A3",
+        "questionText": "Which of the following is an example of a government policy to correct for a positive externality?",
+        "options": [
+            "A tax on cigarettes.",
+            "A subsidy for renewable energy.",
+            "A law against dumping industrial waste.",
+            "A price floor for agricultural products."
+        ],
+        "correctAnswerIndex": 1
+    },
+    {
+        "id": "BA1_Q98",
+        "moduleId": "BA1",
+        "syllabusSubArea": "B1",
+        "questionText": "Which phase of the business cycle is characterised by high unemployment and low economic growth?",
+        "options": [
+            "Peak",
+            "Boom",
+            "Expansion",
+            "Recession"
+        ],
+        "correctAnswerIndex": 3
+    },
+    {
+        "id": "BA1_Q99",
+        "moduleId": "BA1",
+        "syllabusSubArea": "B2",
+        "questionText": "The Central Bank raising interest rates is an example of:",
+        "options": [
+            "Contractionary monetary policy",
+            "Expansionary monetary policy",
+            "Contractionary fiscal policy",
+            "Expansionary fiscal policy"
+        ],
+        "correctAnswerIndex": 0
+    },
+    {
+        "id": "BA1_Q100",
+        "moduleId": "BA1",
+        "syllabusSubArea": "D3",
+        "questionText": "What does it mean to 'deflate' a time series of money values?",
+        "options": [
+            "To increase the values to account for future price rises.",
+            "To remove the effects of inflation to see the 'real' changes.",
+            "To calculate a moving average of the series.",
+            "To forecast future values using the trend."
+        ],
+        "correctAnswerIndex": 1
+    },
+    {
+        "id": "BA1_Q101",
+        "moduleId": "BA1",
+        "syllabusSubArea": "A1",
+        "questionText": "The long-term objective of maximising shareholder wealth takes into account:",
+        "options": [
+            "Only the annual profits of the company.",
+            "Only the dividend payments to shareholders.",
+            "The share price and the dividends paid over time.",
+            "The short-term cash flow of the company."
+        ],
+        "correctAnswerIndex": 2
+    },
+    {
+        "id": "BA1_Q102",
+        "moduleId": "BA1",
+        "syllabusSubArea": "A2",
+        "questionText": "If the price elasticity of supply for a product is 1.8, the supply is said to be:",
+        "options": [
+            "Inelastic",
+            "Unit elastic",
+            "Perfectly inelastic",
+            "Elastic"
+        ],
+        "correctAnswerIndex": 3
+    },
+    {
+        "id": "BA1_Q103",
+        "moduleId": "BA1",
+        "syllabusSubArea": "A3",
+        "questionText": "The 'free-rider problem' is most associated with which type of market failure?",
+        "options": [
+            "Negative externalities",
+            "Public goods",
+            "Asymmetric information",
+            "Monopoly power"
+        ],
+        "correctAnswerIndex": 1
+    },
+    {
+        "id": "BA1_Q104",
+        "moduleId": "BA1",
+        "syllabusSubArea": "B1",
+        "questionText": "GDP (Gross Domestic Product) can be measured by all of the following methods EXCEPT:",
+        "options": [
+            "The expenditure method",
+            "The income method",
+            "The output method",
+            "The profits method"
+        ],
+        "correctAnswerIndex": 3
+    },
+    {
+        "id": "BA1_Q105",
+        "moduleId": "BA1",
+        "syllabusSubArea": "B2",
+        "questionText": "Frictional unemployment describes the situation where people are:",
+        "options": [
+            "Unemployed due to a downturn in the economy.",
+            "Unemployed due to a mismatch between their skills and available jobs.",
+            "Temporarily unemployed while moving between jobs.",
+            "Unemployed due to the seasonal nature of their work."
+        ],
+        "correctAnswerIndex": 2
+    },
+    {
+        "id": "BA1_Q106",
+        "moduleId": "BA1",
+        "syllabusSubArea": "B3",
+        "questionText": "An argument in favour of protectionism is:",
+        "options": [
+            "To increase consumer choice.",
+            "To encourage domestic firms to be more efficient.",
+            "To protect infant industries from foreign competition.",
+            "To lower prices for domestic consumers."
+        ],
+        "correctAnswerIndex": 2
+    },
+    {
+        "id": "BA1_Q107",
+        "moduleId": "BA1",
+        "syllabusSubArea": "C1",
+        "questionText": "A company issues a bond with a nominal value of $1,000 and a coupon rate of 5%. If the current market price of the bond is $950, what is its running yield?",
+        "options": [
+            "5.00%",
+            "4.75%",
+            "5.26%",
+            "10.00%"
+        ],
+        "correctAnswerIndex": 2
+    },
+    {
+        "id": "BA1_Q108",
+        "moduleId": "BA1",
+        "syllabusSubArea": "C2",
+        "questionText": "A project requires an initial investment of $50,000 and is expected to generate cash inflows of $20,000 per year for 3 years. The company's cost of capital is 8%. What is the project's NPV? (Annuity factor for 3 years at 8% is 2.577)",
+        "options": [
+            "$1,540",
+            "$10,000",
+            "-$1,540",
+            "$51,540"
+        ],
+        "correctAnswerIndex": 0
+    },
+    {
+        "id": "BA1_Q109",
+        "moduleId": "BA1",
+        "syllabusSubArea": "D1",
+        "questionText": "A graph of a cumulative frequency distribution is known as:",
+        "options": [
+            "A histogram",
+            "A bar chart",
+            "An ogive",
+            "A scatter diagram"
+        ],
+        "correctAnswerIndex": 2
+    },
+    {
+        "id": "BA1_Q110",
+        "moduleId": "BA1",
+        "syllabusSubArea": "D2",
+        "questionText": "If the coefficient of determination (r²) is 0.64, what does this mean?",
+        "options": [
+            "The correlation coefficient is 0.8.",
+            "64% of the change in the dependent variable can be explained by the change in the independent variable.",
+            "The relationship between the variables is negative.",
+            "Both A and B are correct."
+        ],
+        "correctAnswerIndex": 3
+    },
+    {
+        "id": "BA1_Q111",
+        "moduleId": "BA1",
+        "syllabusSubArea": "D3",
+        "questionText": "A Paasche index is a price index that uses:",
+        "options": [
+            "Base period quantities as weights.",
+            "Current period quantities as weights.",
+            "An average of base and current period quantities as weights.",
+            "No weights."
+        ],
+        "correctAnswerIndex": 1
+    },
+    {
+        "id": "BA1_Q112",
+        "moduleId": "BA1",
+        "syllabusSubArea": "A2",
+        "questionText": "What does a vertical supply curve represent?",
+        "options": [
+            "Perfectly elastic supply",
+            "Perfectly inelastic supply",
+            "Unit elastic supply",
+            "Elastic supply"
+        ],
+        "correctAnswerIndex": 1
+    },
+    {
+        "id": "BA1_Q113",
+        "moduleId": "BA1",
+        "syllabusSubArea": "B2",
+        "questionText": "The 'multiplier' effect is associated with which school of economic thought?",
+        "options": [
+            "Monetarist",
+            "Classical",
+            "Keynesian",
+            "Austrian"
+        ],
+        "correctAnswerIndex": 2
+    },
+    {
+        "id": "BA1_Q114",
+        "moduleId": "BA1",
+        "syllabusSubArea": "B3",
+        "questionText": "Which of the following is an example of Foreign Direct Investment (FDI)?",
+        "options": [
+            "A UK citizen buying shares in an American company.",
+            "A German company building a new factory in Poland.",
+            "The UK government giving aid to a developing country.",
+            "A tourist from Japan spending money in London."
+        ],
+        "correctAnswerIndex": 1
+    },
+    {
+        "id": "BA1_Q115",
+        "moduleId": "BA1",
+        "syllabusSubArea": "C2",
+        "questionText": "An annuity is best described as:",
+        "options": [
+            "A single lump sum payment.",
+            "A series of payments that grows at a constant rate forever.",
+            "A stream of constant cash flows for a fixed period of time.",
+            "A cash flow that continues forever."
+        ],
+        "correctAnswerIndex": 2
+    },
+    {
+        "id": "BA1_Q116",
+        "moduleId": "BA1",
+        "syllabusSubArea": "D2",
+        "questionText": "Extrapolation in the context of regression analysis refers to:",
+        "options": [
+            "Predicting y values for x values within the range of the original data.",
+            "Predicting y values for x values outside the range of the original data.",
+            "Calculating the correlation coefficient.",
+            "Removing outliers from the data set."
+        ],
+        "correctAnswerIndex": 1
+    },
+    {
+        "id": "BA1_Q117",
+        "moduleId": "BA1",
+        "syllabusSubArea": "A2",
+        "questionText": "If the cross-price elasticity of demand between two goods is positive, the goods are:",
+        "options": [
+            "Substitutes",
+            "Complements",
+            "Normal goods",
+            "Inferior goods"
+        ],
+        "correctAnswerIndex": 0
+    },
+    {
+        "id": "BA1_Q118",
+        "moduleId": "BA1",
+        "syllabusSubArea": "B1",
+        "questionText": "Which one of the following is NOT a main objective of macroeconomic policy?",
+        "options": [
+            "Equitable distribution of income",
+            "Control of inflation",
+            "Low unemployment",
+            "Economic growth"
+        ],
+        "correctAnswerIndex": 0
+    },
+    {
+        "id": "BA1_Q119",
+        "moduleId": "BA1",
+        "syllabusSubArea": "C1",
+        "questionText": "The process by which an initial deposit in a bank leads to a larger final increase in the total money supply is known as:",
+        "options": [
+            "The accelerator effect",
+            "The credit multiplier",
+            "The crowding-out effect",
+            "Quantitative easing"
+        ],
+        "correctAnswerIndex": 1
+    },
+    {
+        "id": "BA1_Q120",
+        "moduleId": "BA1",
+        "syllabusSubArea": "D3",
+        "questionText": "The use of moving averages in time series analysis is primarily to:",
+        "options": [
+            "Forecast the seasonal variations.",
+            "Identify the underlying trend by smoothing out short-term fluctuations.",
+            "Calculate the cyclical component of the series.",
+            "Predict the exact value for the next period."
+        ],
+        "correctAnswerIndex": 1
+    },
+    {
+        "id": "BA1_Q121",
+        "moduleId": "BA1",
+        "syllabusSubArea": "A3",
+        "questionText": "Economies of scale refer to the phenomenon where:",
+        "options": [
+            "Long-run average costs decrease as output increases.",
+            "Long-run average costs increase as output increases.",
+            "Short-run average costs decrease as output increases.",
+            "Total costs decrease as output increases."
+        ],
+        "correctAnswerIndex": 0
+    },
+    {
+        "id": "BA1_Q122",
+        "moduleId": "BA1",
+        "syllabusSubArea": "B2",
+        "questionText": "Which type of unemployment is the government trying to reduce when it implements retraining programmes for workers in declining industries?",
+        "options": [
+            "Frictional",
+            "Cyclical",
+            "Seasonal",
+            "Structural"
+        ],
+        "correctAnswerIndex": 3
+    },
+    {
+        "id": "BA1_Q123",
+        "moduleId": "BA1",
+        "syllabusSubArea": "B3",
+        "questionText": "A customs union is different from a free trade area because it has:",
+        "options": [
+            "Free movement of labour.",
+            "A common currency.",
+            "A common external tariff.",
+            "Harmonised product regulations."
+        ],
+        "correctAnswerIndex": 2
+    },
+    {
+        "id": "BA1_Q124",
+        "moduleId": "BA1",
+        "syllabusSubArea": "D2",
+        "questionText": "When should Spearman's rank correlation coefficient be used instead of Pearson's?",
+        "options": [
+            "When the relationship is perfectly linear.",
+            "When the data is measured on an ordinal (ranked) scale.",
+            "When there are more than 100 data points.",
+            "When the correlation is expected to be positive."
+        ],
+        "correctAnswerIndex": 1
+    },
+    {
+        "id": "BA1_Q125",
+        "moduleId": "BA1",
+        "syllabusSubArea": "C1",
+        "questionText": "If a government issues more bonds to the public, what is the likely immediate effect on the money supply and interest rates?",
+        "options": [
+            "Money supply increases, interest rates fall.",
+            "Money supply decreases, interest rates rise.",
+            "Money supply increases, interest rates rise.",
+            "Money supply decreases, interest rates fall."
+        ],
+        "correctAnswerIndex": 1
+    },
+    {
+        "id": "BA1_Q126",
+        "moduleId": "BA1",
+        "syllabusSubArea": "A1",
+        "questionText": "Which of the following describes a potential conflict between stakeholder groups?",
+        "options": [
+            "Shareholders and managers both desire long-term company growth.",
+            "Customers desire high quality products and shareholders desire high profits which may require cost-cutting.",
+            "The government requires tax payment and employees require salaries to be paid.",
+            "Suppliers want to be paid on time and customers want reliable products."
+        ],
+        "correctAnswerIndex": 1
+    },
+    {
+        "id": "BA1_Q127",
+        "moduleId": "BA1",
+        "syllabusSubArea": "A2",
+        "questionText": "An inferior good is a good for which demand:",
+        "options": [
+            "Increases when its price falls.",
+            "Decreases when consumer income increases.",
+            "Is perfectly inelastic.",
+            "Increases when consumer income increases."
+        ],
+        "correctAnswerIndex": 2
+    },
+    {
+        "id": "BA1_Q128",
+        "moduleId": "BA1",
+        "syllabusSubArea": "B3",
+        "questionText": "The 'infant industry' argument for protectionism suggests that:",
+        "options": [
+            "Countries should protect industries that produce goods for children.",
+            "New, developing industries should be shielded from foreign competition until they are mature enough to compete.",
+            "Tariffs should be placed on all imported goods to protect domestic jobs.",
+            "Only industries that are in decline should receive government protection."
+        ],
+        "correctAnswerIndex": 1
+    },
+    {
+        "id": "BA1_Q129",
+        "moduleId": "BA1",
+        "syllabusSubArea": "C2",
+        "questionText": "If a project has an IRR of 12% and the company's cost of capital is 10%, the project should be:",
+        "options": [
+            "Accepted, because its NPV will be positive.",
+            "Rejected, because its NPV will be negative.",
+            "Accepted, because its NPV will be negative.",
+            "Rejected, because its NPV will be positive."
+        ],
+        "correctAnswerIndex": 0
+    },
+    {
+        "id": "BA1_Q130",
+        "moduleId": "BA1",
+        "syllabusSubArea": "D3",
+        "questionText": "The Consumer Price Index (CPI) is an example of a:",
+        "options": [
+            "Simple quantity index",
+            "Weighted price index",
+            "Simple price index",
+            "Weighted quantity index"
+        ],
+        "correctAnswerIndex": 1
+    },
+    {
+        "id": "BA1_Q131",
+        "moduleId": "BA1",
+        "syllabusSubArea": "A2",
+        "questionText": "If the demand for a good is price inelastic, a fall in price will cause total revenue to:",
+        "options": [
+            "Increase",
+            "Decrease",
+            "Stay the same",
+            "Become zero"
+        ],
+        "correctAnswerIndex": 1
+    },
+    {
+        "id": "BA1_Q132",
+        "moduleId": "BA1",
+        "syllabusSubArea": "B1",
+        "questionText": "Which part of the business cycle is associated with the lowest level of economic activity?",
+        "options": [
+            "Peak",
+            "Recovery",
+            "Trough",
+            "Expansion"
+        ],
+        "correctAnswerIndex": 2
+    },
+    {
+        "id": "BA1_Q133",
+        "moduleId": "BA1",
+        "syllabusSubArea": "C1",
+        "questionText": "Which type of risk arises from the possibility of adverse movements in exchange rates affecting a company's international competitiveness over the long term?",
+        "options": [
+            "Transaction risk",
+            "Translation risk",
+            "Systemic risk",
+            "Economic risk"
+        ],
+        "correctAnswerIndex": 3
+    },
+    {
+        "id": "BA1_Q134",
+        "moduleId": "BA1",
+        "syllabusSubArea": "D2",
+        "questionText": "In the regression equation y = a + bx, what does the 'a' term represent?",
+        "options": [
+            "The independent variable",
+            "The gradient of the line",
+            "The intercept on the y-axis",
+            "The dependent variable"
+        ],
+        "correctAnswerIndex": 2
+    },
+    {
+        "id": "BA1_Q135",
+        "moduleId": "BA1",
+        "syllabusSubArea": "A3",
+        "questionText": "Which of the following is NOT a source of market failure?",
+        "options": [
+            "Perfect competition",
+            "Externalities",
+            "Public goods",
+            "Monopolies"
+        ],
+        "correctAnswerIndex": 0
+    },
+    {
+        "id": "BA1_Q136",
+        "moduleId": "BA1",
+        "syllabusSubArea": "B2",
+        "questionText": "A government budget deficit occurs when:",
+        "options": [
+            "Tax revenue equals government spending.",
+            "Tax revenue is greater than government spending.",
+            "Government spending is greater than tax revenue.",
+            "The government reduces the national debt."
+        ],
+        "correctAnswerIndex": 2
+    },
+    {
+        "id": "BA1_Q137",
+        "moduleId": "BA1",
+        "syllabusSubArea": "C2",
+        "questionText": "What is the present value of a perpetuity of $200 per year if the discount rate is 4%?",
+        "options": [
+            "$800",
+            "$208",
+            "$5,000",
+            "$4,800"
+        ],
+        "correctAnswerIndex": 2
+    },
+    {
+        "id": "BA1_Q138",
+        "moduleId": "BA1",
+        "syllabusSubArea": "D1",
+        "questionText": "Which type of data is measured on a continuous scale?",
+        "options": [
+            "The number of employees in a company",
+            "The height of students in a class",
+            "The type of car people drive",
+            "The country of birth of employees"
+        ],
+        "correctAnswerIndex": 1
+    },
+    {
+        "id": "BA1_Q139",
+        "moduleId": "BA1",
+        "syllabusSubArea": "A1",
+        "questionText": "The concept of 'synergy' in an organisational context means that:",
+        "options": [
+            "The total output is the sum of individual efforts.",
+            "The organisation is less efficient than individuals working alone.",
+            "People working together can achieve more than the sum of their individual efforts.",
+            "All employees share the same collective goals."
+        ],
+        "correctAnswerIndex": 2
+    },
+    {
+        "id": "BA1_Q140",
+        "moduleId": "BA1",
+        "syllabusSubArea": "A2",
+        "questionText": "Which factor would cause the supply curve for wheat to shift to the left?",
+        "options": [
+            "A new, more efficient harvesting technology.",
+            "A decrease in the price of fertiliser.",
+            "A period of bad weather that damages crops.",
+            "An increase in the price of wheat."
+        ],
+        "correctAnswerIndex": 2
+    },
+    {
+        "id": "BA1_Q141",
+        "moduleId": "BA1",
+        "syllabusSubArea": "B3",
+        "questionText": "Globalisation is characterised by all of the following EXCEPT:",
+        "options": [
+            "Increased barriers to international trade.",
+            "Greater integration of financial markets.",
+            "Increased cross-border transactions in goods and services.",
+            "More rapid diffusion of technology."
+        ],
+        "correctAnswerIndex": 0
+    },
+    {
+        "id": "BA1_Q142",
+        "moduleId": "BA1",
+        "syllabusSubArea": "D3",
+        "questionText": "If a quarterly time series has a multiplicative seasonal factor of 0.85 for Quarter 1, what does this indicate?",
+        "options": [
+            "Sales in Q1 are typically 15% higher than the trend.",
+            "Sales in Q1 are typically 85 units below the trend.",
+            "Sales in Q1 are typically 15% lower than the trend.",
+            "Sales in Q1 are typically 85% higher than the trend."
+        ],
+        "correctAnswerIndex": 2
+    },
+    {
+        "id": "BA1_Q143",
+        "moduleId": "BA1",
+        "syllabusSubArea": "C1",
+        "questionText": "Which of these financial instruments represents ownership in a company?",
+        "options": [
+            "Corporate bonds",
+            "Commercial paper",
+            "Ordinary shares",
+            "Treasury bills"
+        ],
+        "correctAnswerIndex": 2
+    },
+    {
+        "id": "BA1_Q144",
+        "moduleId": "BA1",
+        "syllabusSubArea": "B1",
+        "questionText": "In the aggregate demand equation AD = C + I + G + (X-M), what does 'I' stand for?",
+        "options": [
+            "Inflation",
+            "Interest rates",
+            "Imports",
+            "Investment"
+        ],
+        "correctAnswerIndex": 3
+    },
+    {
+        "id": "BA1_Q145",
+        "moduleId": "BA1",
+        "syllabusSubArea": "A3",
+        "questionText": "A natural monopoly is an industry where:",
+        "options": [
+            "The government owns and operates the only firm.",
+            "There are significant barriers to entry created by patents.",
+            "A single firm can supply the entire market at a lower cost than two or more firms.",
+            "The product is a natural resource like oil or gas."
+        ],
+        "correctAnswerIndex": 2
+    },
+    {
+        "id": "BA1_Q146",
+        "moduleId": "BA1",
+        "syllabusSubArea": "D2",
+        "questionText": "In regression analysis, what is the 'line of best fit'?",
+        "options": [
+            "A line that connects the first and last data points.",
+            "A line that goes through the most data points.",
+            "A line that minimises the sum of the squared vertical distances from the data points to the line.",
+            "A line that has a gradient of 1."
+        ],
+        "correctAnswerIndex": 2
+    },
+    {
+        "id": "BA1_Q147",
+        "moduleId": "BA1",
+        "syllabusSubArea": "C2",
+        "questionText": "If two investment projects are mutually exclusive, what does this mean?",
+        "options": [
+            "Both projects can be accepted if they are profitable.",
+            "The projects are independent of each other.",
+            "The projects have the same initial investment.",
+            "Accepting one project means the other must be rejected."
+        ],
+        "correctAnswerIndex": 3
+    },
+    {
+        "id": "BA1_Q148",
+        "moduleId": "BA1",
+        "syllabusSubArea": "B3",
+        "questionText": "A UK company is due to receive $1 million from a US customer in three months. To hedge against the risk of the dollar weakening, the company could:",
+        "options": [
+            "Buy a forward contract to sell dollars for pounds in three months.",
+            "Buy a forward contract to buy dollars with pounds in three months.",
+            "Wait for three months and use the spot rate.",
+            "Invest in the US stock market."
+        ],
+        "correctAnswerIndex": 0
+    },
+    {
+        "id": "BA1_Q149",
+        "moduleId": "BA1",
+        "syllabusSubArea": "A2",
+        "questionText": "The point where the supply and demand curves intersect is known as:",
+        "options": [
+            "Market failure",
+            "The price ceiling",
+            "The equilibrium point",
+            "The production possibility frontier"
+        ],
+        "correctAnswerIndex": 2
+    },
+    {
+        "id": "BA1_Q150",
+        "moduleId": "BA1",
+        "syllabusSubArea": "D3",
+        "questionText": "If the base year for an index is 2020 (index = 100), and the index for 2024 is 115, what has happened to the value being measured?",
+        "options": [
+            "It has increased by 15 units.",
+            "It has increased by 115%.",
+            "It has decreased by 15%.",
+            "It has increased by 15%."
+        ],
+        "correctAnswerIndex": 3
+    }
+]

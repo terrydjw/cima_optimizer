@@ -1,0 +1,147 @@
+[
+    {
+        "id": "A1",
+        "moduleId": "BA1",
+        "title": "Goals & Types of Organisations",
+        "syllabusArea": "A",
+        "content": "An organisation is a social arrangement for the controlled performance of collective goals. This structure allows people to achieve more together than they could alone through synergy. Organisations are broadly categorised by their primary objective.\n\n- Profit-Seeking: Includes sole traders, partnerships, and limited liability companies (public 'plc' and private 'Ltd'). Their primary goal is to maximise shareholder wealth, which encompasses both dividend payments and share price appreciation.\n- Not-for-Profit (NFP): Includes charities, clubs, and some public sector bodies. Their primary goal is to maximise the benefits provided to their specific beneficiaries, focusing on value rather than profit.\n- Governmental Organisations: Exist to provide public services and implement policy.",
+        "keyPoints": [
+            "Shareholder wealth maximization is the primary goal for commercial firms.",
+            "Stakeholders are any group with an interest in the organisation (e.g., employees, customers, suppliers, government).",
+            "A conflict can arise between stakeholder objectives, such as employees wanting higher wages versus shareholders wanting higher profits.",
+            "The 'principal-agent problem' describes the conflict of interest between a company's owners (principals) and its managers (agents).",
+            "Corporate governance is the system of rules and practices by which a company is directed and controlled to resolve the principal-agent problem."
+        ]
+    },
+    {
+        "id": "A2",
+        "moduleId": "BA1",
+        "title": "The Market System: Demand, Supply & Equilibrium",
+        "syllabusArea": "A",
+        "content": "The fundamental economic problem is that resources are scarce while wants are unlimited. In a free market, the 'price mechanism' allocates these resources. This is the interaction of demand and supply.\n\n- Demand: The quantity of a good that consumers are willing and able to buy at various prices. The demand curve slopes downwards; as price falls, quantity demanded increases.\n- Supply: The quantity of a good that producers are willing and able to offer for sale at various prices. The supply curve slopes upwards; as price rises, quantity supplied increases.\n\nEquilibrium is the point where the supply and demand curves intersect. At this equilibrium price, the quantity demanded equals the quantity supplied, and the market is 'cleared'.",
+        "keyPoints": [
+            "A change in price causes a movement ALONG the demand or supply curve.",
+            "A change in other factors (e.g., income for demand, costs for supply) causes a SHIFT of the entire curve.",
+            "Price Elasticity of Demand (PED) measures how responsive quantity demanded is to a price change.",
+            "If PED > 1 (elastic), a price fall increases total revenue.",
+            "If PED < 1 (inelastic), a price fall decreases total revenue."
+        ]
+    },
+    {
+        "id": "A3",
+        "moduleId": "BA1",
+        "title": "Market Failure & Government Intervention",
+        "syllabusArea": "A",
+        "content": "Market failure occurs when the free market fails to allocate resources efficiently, leading to a net welfare loss. This justifies government intervention.\n\n- Externalities: Costs (negative) or benefits (positive) that affect third parties not involved in a transaction. e.g., pollution (negative) or vaccination (positive).\n- Public Goods: Goods that are non-excludable (cannot stop anyone from using them) and non-rivalrous (one person's use doesn't diminish another's). They are under-provided by the market due to the 'free-rider' problem. e.g., national defence.\n\nGovernments can intervene using taxes on goods with negative externalities, subsidies for goods with positive externalities, and price controls. A maximum price set below equilibrium causes a shortage. A minimum price set above equilibrium causes a surplus.",
+        "keyPoints": [
+            "Governments tax 'demerit goods' (e.g., cigarettes) and subsidise 'merit goods' (e.g., education).",
+            "Maximum prices can lead to black markets and queues.",
+            "A minimum wage is an example of a minimum price, which can lead to unemployment (a surplus of labour).",
+            "Economies of scale are cost advantages gained by increased production, leading to lower average costs."
+        ]
+    },
+    {
+        "id": "B1",
+        "moduleId": "BA1",
+        "title": "The Macroeconomic Environment",
+        "syllabusArea": "B",
+        "content": "Macroeconomics studies the economy as a whole. The key objectives of government macroeconomic policy are:\n1.  **Economic Growth:** An increase in the country's output (measured by GDP).\n2.  **Low Unemployment:** Ensuring that those able and willing to work can find employment.\n3.  **Low Inflation:** Controlling the rate at which the general level of prices is rising.\n4.  **Balance of Payments Stability:** Managing the flow of money into and out of the country.\n\nThe circular flow of income shows how money moves between households and firms. Injections (Investment, Government Spending, Exports) increase the flow, while leakages (Savings, Taxes, Imports) decrease it. The economy is in equilibrium when injections equal leakages.",
+        "keyPoints": [
+            "The business cycle shows the fluctuations in economic activity (boom, recession, slump, recovery).",
+            "Aggregate Demand (AD) is the total spending in the economy: C + I + G + (X-M).",
+            "Aggregate Supply (AS) is the total output of the economy.",
+            "Demand-pull inflation is caused by excess AD. Cost-push inflation is caused by rising production costs."
+        ]
+    },
+    {
+        "id": "B2",
+        "moduleId": "BA1",
+        "title": "Government Macroeconomic Policy",
+        "syllabusArea": "B",
+        "content": "Governments use two main tools to manage the economy.\n\n- Fiscal Policy: The use of government spending (G) and taxation (T). To combat a recession (expansionary policy), the government can increase G or cut T to boost Aggregate Demand. To combat inflation (contractionary policy), it can cut G or raise T.\n- Monetary Policy: The use of interest rates and the money supply, controlled by the Central Bank. To combat a recession, it can lower interest rates to encourage borrowing and spending. To combat inflation, it can raise interest rates.\n\nSupply-side policies are long-term strategies aimed at increasing the productive capacity of the economy (shifting the AS curve to the right), such as investment in education and infrastructure.",
+        "keyPoints": [
+            "Expansionary policies aim to increase AD and economic growth.",
+            "Contractionary (or deflationary) policies aim to decrease AD and reduce inflation.",
+            "The 'multiplier effect' means an initial injection of spending leads to a larger overall increase in national income.",
+            "Types of unemployment include cyclical (recession-related), structural (industry decline), and frictional (between jobs)."
+        ]
+    },
+    {
+        "id": "B3",
+        "moduleId": "BA1",
+        "title": "The International Economy",
+        "syllabusArea": "B",
+        "content": "Globalisation refers to the growing interdependence of countries through trade, capital flows, and technology. This allows for international trade, where countries specialise in producing goods they have a comparative advantage in.\n\nThe Balance of Payments is a record of all economic transactions between one country and the rest of the world. It comprises:\n- The Current Account: Trade in goods and services.\n- The Capital & Financial Accounts: Flows of investment and financial assets.\nA current account deficit means a country is importing more than it is exporting.\n\nExchange rates are the price of one currency in another. In a floating system, this is set by demand and supply for the currency.",
+        "keyPoints": [
+            "Protectionism involves using tariffs (taxes on imports) or quotas (limits on imports) to restrict trade.",
+            "A depreciation of the exchange rate (e.g., £1 buys fewer $) makes exports cheaper and imports more expensive.",
+            "An appreciation of the exchange rate (e.g., £1 buys more $) makes exports more expensive and imports cheaper.",
+            "Institutions like the World Trade Organisation (WTO) aim to promote free trade."
+        ]
+    },
+    {
+        "id": "C1",
+        "moduleId": "BA1",
+        "title": "The Financial System & Interest Rates",
+        "syllabusArea": "C",
+        "content": "The financial system facilitates the flow of funds between savers and borrowers through financial intermediaries like banks. It consists of money markets (for short-term finance < 1 year, e.g., commercial bills) and capital markets (for long-term finance > 1 year, e.g., shares and bonds).\n\nKey financial products include:\n- Equity (Shares): Represent ownership in a company, offering returns via dividends and capital growth.\n- Bonds (Debt): A loan to a company or government that pays a fixed interest (coupon) over its life and repays the principal at maturity.\n\nInterest rates represent the cost of borrowing. The 'yield' on an investment is its total return. The relationship between interest rates and the term to maturity is shown by the yield curve.",
+        "keyPoints": [
+            "Commercial banks create credit via the credit multiplier (1 / cash ratio).",
+            "The central bank manages monetary policy and acts as a 'lender of last resort'.",
+            "The real interest rate is the nominal interest rate minus the inflation rate.",
+            "Hedging can be used to manage exposure to fluctuating interest rates, using instruments like Forward Rate Agreements (FRAs)."
+        ]
+    },
+    {
+        "id": "C2",
+        "moduleId": "BA1",
+        "title": "Investment Appraisal",
+        "syllabusArea": "C",
+        "content": "Investment appraisal techniques are used to assess the viability of long-term projects. They are based on the principle of the 'time value of money': cash received today is worth more than the same amount received in the future due to its potential to earn interest.\n\n- Discounting is the process of calculating the present value (PV) of a future cash flow. PV = Future Value / (1 + r)^n\n- Net Present Value (NPV): Calculates the total present value of all future cash flows from a project, minus the initial investment. If the NPV is positive, the project is financially viable as it is expected to generate a return greater than the cost of capital.\n- Internal Rate of Return (IRR): The discount rate at which the project's NPV is exactly zero. A project is viable if its IRR is greater than the company's cost of capital.",
+        "keyPoints": [
+            "An annuity is a constant stream of cash flows for a set number of periods.",
+            "A perpetuity is an annuity that continues forever.",
+            "The decision rule for NPV is: Accept if NPV > 0.",
+            "The decision rule for IRR is: Accept if IRR > Cost of Capital.",
+            "NPV is generally considered a superior method to IRR."
+        ]
+    },
+    {
+        "id": "D1",
+        "moduleId": "BA1",
+        "title": "Summarising and Analysing Data",
+        "syllabusArea": "D",
+        "content": "Data are raw, unprocessed facts, whereas information is data that has been processed to be meaningful for decision-making. Good information should be Accurate, Complete, Cost-effective, Understandable, Relevant, Authoritative, and Timely.\n\nData can be summarised and presented in various ways:\n- Bar Charts: Used to compare discrete categories.\n- Histograms: Used to show the frequency distribution of continuous data. The area of each bar represents the frequency.\n- Scatter Diagrams: Used to visualise the relationship (correlation) between two variables. They show the direction (positive/negative) and strength of the relationship.",
+        "keyPoints": [
+            "Big data refers to extremely large data sets that may be analysed computationally to reveal patterns and trends.",
+            "Positive correlation means as one variable increases, the other also tends to increase.",
+            "Negative correlation means as one variable increases, the other tends to decrease.",
+            "An ogive is a cumulative frequency graph."
+        ]
+    },
+    {
+        "id": "D2",
+        "moduleId": "BA1",
+        "title": "Correlation and Regression",
+        "syllabusArea": "D",
+        "content": "While scatter diagrams show a relationship visually, correlation and regression quantify it.\n\n- Correlation Coefficient (r): A statistical measure of the strength and direction of a linear relationship, ranging from -1 to +1. A value of 0 indicates no linear correlation.\n- Coefficient of Determination (r²): Represents the proportion of the variance in the dependent variable that is predictable from the independent variable. For example, an r² of 0.7 means 70% of the movement in y can be explained by movements in x.\n- Linear Regression: A method for finding the 'line of best fit' for a set of data points, expressed by the equation y = a + bx. This can be used for forecasting. 'b' is the gradient, and 'a' is the y-intercept.",
+        "keyPoints": [
+            "Correlation does not imply causation; there could be a third factor influencing both variables.",
+            "Spearman's rank correlation coefficient is used for ordinal data (ranked data).",
+            "Extrapolation (forecasting outside the range of the original data) can be unreliable."
+        ]
+    },
+    {
+        "id": "D3",
+        "moduleId": "BA1",
+        "title": "Index Numbers & Forecasting",
+        "syllabusArea": "D",
+        "content": "Index numbers are used to measure changes in a variable over time relative to a base period, which is always set to 100. Examples include the Consumer Price Index (CPI) for inflation. Weighted indices, like the Laspeyres (base-weighted) and Paasche (current-weighted) indices, are used when items have different levels of importance.\n\nTime series analysis is used for forecasting based on historical data. A time series is assumed to have four components: Trend (T), Seasonal (S), Cyclical (C), and Random (R). Moving averages are used to smooth the data and find the underlying trend. Forecasts are then made by projecting the trend and re-applying the seasonal variation, using either an additive (Y = T + S) or multiplicative (Y = T x S) model.",
+        "keyPoints": [
+            "To find a 'real' value from a 'money' value, you deflate it using a price index: Real = (Money / Price Index) x 100.",
+            "A moving average replaces each data point with the average of itself and its neighbours.",
+            "The additive model is best when seasonal fluctuations are roughly constant in size.",
+            "The multiplicative model is best when seasonal fluctuations grow in proportion to the trend."
+        ]
+    }
+]
